@@ -1,0 +1,1763 @@
+{
+    "version": 1,
+    "data": [
+        {
+            "name": "APT",
+            "description": "List of APT groups",
+            "usage": 4,
+            "link": "https://raw.githubusercontent.com/ait-cs-IaaS/wordlists/master/output/apt.json",
+            "entries": [
+                {
+                    "value": "APT-C-01",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "APT-C-27",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "APT-C-37",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "APT16",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "APT2",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "APT22",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "APT26",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "APT4",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "APT40",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "APT41",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "APT5",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "APT6",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "AVIVORE",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "Anchor Panda",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "Antlion",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "Aoqin Dragon",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "Aquatic Panda",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "Aurora Panda",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "Axiom",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "BARIUM",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "BackdoorDiplomacy",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "Beijing Group",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "Big Panda",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "Bluebottle",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "C0d0so",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "Calypso",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "ChinaZ",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "Codoso",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "Comment Crew",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "Comment Panda",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "Curious Gorge",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "DEV-0322",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "Dagger Panda",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "Dark PInk",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "DarkUniverse",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "Deep Panda",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "DragonOK",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "DragonSpark",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "Dynamite Panda",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "ETHEREAL PANDA",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "Earth Berberoka",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "Electric Panda",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "Eloquent Panda",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "Emissary Panda",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "Foxy Panda",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "GALLIUM",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "Gibberish Panda",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "Goblin Panda",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "Goldmouse/Gold Mouse/Gold Rat",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "Gothic Panda",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "Group 27",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "HAFNIUM",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "Hammer Panda",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "Hidden Lynx",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "Hurricane Panda",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "IXESHE",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "Ice Fog",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "Impersonating Panda",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "Iron Group",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "IronHusky",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "Judgement Panda",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "Karma Panda",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "KeyBoy",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "Keyhole Panda",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "Kryptonite Panda",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "LEAD",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "Leviathan",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "Lotus Blossom",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "Lotus Panda",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "Lucky Cat",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "Luminous Moth",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "LuoYu",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "Mana Team",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "Maverick Panda",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "Microcin",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "Mirage",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "Mofang",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "Mustang Panda",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "Naikon",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "NetTraveler",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "Night Dragon",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "Nightshade Panda",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "Nitro",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "Nomad Panda",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "Numbered Panda",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "Pale Panda",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "PassCV",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "Pirate Panda",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "Pitty Panda",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "Pitty Tiger",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "Poison Carp",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "Poisonous Panda",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "Predator Panda",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "Putter Panda",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "RANCOR",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "Radio Panda",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "Red Menshen",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "RedAlpha",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "RedFoxtrot ",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "Returned Libra",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "SPIVY",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "SVCMONDR",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "Sabre Panda",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "Samurai Panda",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "Scarab",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "Scarlet Mimic",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "Shell Crew",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "SixLittleMonkeys",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "Slap Bear",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "Sneaky Panda",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "Sparkling Goblin",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "Spicy Panda",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "Spiral",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "Stone Panda",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "Storm Cloud",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "Suckfly",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "TA410",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "TA459",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "TEMP.Zhenbao",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "Taidoor",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "Taskmasters",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "Temper Panda",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "Test Panda",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "Tick",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "Tonto Team",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "Toxic Panda",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "Tropic Trooper",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "Turbine Panda",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "Twisted Panda",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "UPS",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "Union Panda",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "VAPOR PANDA",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "Vicious Panda",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "Violin Panda",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "Vixen Panda",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "WIP19 ",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "Wekby",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "Wet Panda",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "Wicked Panda",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "Winnti Group",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "Wisp Team",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "Yanbian Gang",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "Yanluowang",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "APT29",
+                    "category": "APT",
+                    "description": "Russia APT"
+                },
+                {
+                    "value": "Anonymous Sudan",
+                    "category": "APT",
+                    "description": "Russia APT"
+                },
+                {
+                    "value": "Bl00dy",
+                    "category": "APT",
+                    "description": "Russia APT"
+                },
+                {
+                    "value": "BuhTrap",
+                    "category": "APT",
+                    "description": "Russia APT"
+                },
+                {
+                    "value": "COLDRIVER",
+                    "category": "APT",
+                    "description": "Russia APT"
+                },
+                {
+                    "value": "Carberb",
+                    "category": "APT",
+                    "description": "Russia APT"
+                },
+                {
+                    "value": "Cyber Berkut",
+                    "category": "APT",
+                    "description": "Russia APT"
+                },
+                {
+                    "value": "DOPPEL SPIDER",
+                    "category": "APT",
+                    "description": "Russia APT"
+                },
+                {
+                    "value": "DoppelPaymer",
+                    "category": "APT",
+                    "description": "Russia APT"
+                },
+                {
+                    "value": "Ember Bear",
+                    "category": "APT",
+                    "description": "Russia APT"
+                },
+                {
+                    "value": "Energetic Bear",
+                    "category": "APT",
+                    "description": "Russia APT"
+                },
+                {
+                    "value": "FIN7",
+                    "category": "APT",
+                    "description": "Russia APT"
+                },
+                {
+                    "value": "FIN8",
+                    "category": "APT",
+                    "description": "Russia APT"
+                },
+                {
+                    "value": "FSB 16th & 18th Centers",
+                    "category": "APT",
+                    "description": "Russia APT"
+                },
+                {
+                    "value": "FullofDeep",
+                    "category": "APT",
+                    "description": "Russia APT"
+                },
+                {
+                    "value": "GRU GTsST (Main Center for Special Technology)",
+                    "category": "APT",
+                    "description": "Russia APT"
+                },
+                {
+                    "value": "Inception Framework",
+                    "category": "APT",
+                    "description": "Russia APT"
+                },
+                {
+                    "value": "Karakurt",
+                    "category": "APT",
+                    "description": "Russia APT"
+                },
+                {
+                    "value": "Killnet",
+                    "category": "APT",
+                    "description": "Russia APT"
+                },
+                {
+                    "value": "NoName057(16)",
+                    "category": "APT",
+                    "description": "Russia APT"
+                },
+                {
+                    "value": "RedCurl",
+                    "category": "APT",
+                    "description": "Russia APT"
+                },
+                {
+                    "value": "Revil ",
+                    "category": "APT",
+                    "description": "Russia APT"
+                },
+                {
+                    "value": "RomCom",
+                    "category": "APT",
+                    "description": "Russia APT"
+                },
+                {
+                    "value": "Royal",
+                    "category": "APT",
+                    "description": "Russia APT"
+                },
+                {
+                    "value": "Sandworm",
+                    "category": "APT",
+                    "description": "Russia APT"
+                },
+                {
+                    "value": "SectorJ04",
+                    "category": "APT",
+                    "description": "Russia APT"
+                },
+                {
+                    "value": "Sofacy",
+                    "category": "APT",
+                    "description": "Russia APT"
+                },
+                {
+                    "value": "TA551",
+                    "category": "APT",
+                    "description": "Russia APT"
+                },
+                {
+                    "value": "TEMP.Veles",
+                    "category": "APT",
+                    "description": "Russia APT"
+                },
+                {
+                    "value": "TeamSpy Crew",
+                    "category": "APT",
+                    "description": "Russia APT"
+                },
+                {
+                    "value": "Turla Group ",
+                    "category": "APT",
+                    "description": "Russia APT"
+                },
+                {
+                    "value": "UNC2452",
+                    "category": "APT",
+                    "description": "Russia APT"
+                },
+                {
+                    "value": "Vice Society",
+                    "category": "APT",
+                    "description": "Russia APT"
+                },
+                {
+                    "value": "WhiteBear",
+                    "category": "APT",
+                    "description": "Russia APT"
+                },
+                {
+                    "value": "Zebrocy",
+                    "category": "APT",
+                    "description": "Russia APT"
+                },
+                {
+                    "value": "APT37",
+                    "category": "APT",
+                    "description": "North Korea APT"
+                },
+                {
+                    "value": "APT43",
+                    "category": "APT",
+                    "description": "North Korea APT"
+                },
+                {
+                    "value": "Andariel",
+                    "category": "APT",
+                    "description": "North Korea APT"
+                },
+                {
+                    "value": "Archipelago",
+                    "category": "APT",
+                    "description": "North Korea APT"
+                },
+                {
+                    "value": "Kimsuky",
+                    "category": "APT",
+                    "description": "North Korea APT"
+                },
+                {
+                    "value": "Labyrinth Chollima",
+                    "category": "APT",
+                    "description": "North Korea APT"
+                },
+                {
+                    "value": "Lazarus Group",
+                    "category": "APT",
+                    "description": "North Korea APT"
+                },
+                {
+                    "value": "OnionDog",
+                    "category": "APT",
+                    "description": "North Korea APT"
+                },
+                {
+                    "value": "Ricochet Chollima",
+                    "category": "APT",
+                    "description": "North Korea APT"
+                },
+                {
+                    "value": "Silent Chollima",
+                    "category": "APT",
+                    "description": "North Korea APT"
+                },
+                {
+                    "value": "Stardust Chollima",
+                    "category": "APT",
+                    "description": "North Korea APT"
+                },
+                {
+                    "value": "TEMP.Hermit",
+                    "category": "APT",
+                    "description": "North Korea APT"
+                },
+                {
+                    "value": "Velvet Chollima",
+                    "category": "APT",
+                    "description": "North Korea APT"
+                },
+                {
+                    "value": "WASSONITE",
+                    "category": "APT",
+                    "description": "North Korea APT"
+                },
+                {
+                    "value": "APT42 ",
+                    "category": "APT",
+                    "description": "Iran APT"
+                },
+                {
+                    "value": "Agrius",
+                    "category": "APT",
+                    "description": "Iran APT"
+                },
+                {
+                    "value": "Bohrium",
+                    "category": "APT",
+                    "description": "Iran APT"
+                },
+                {
+                    "value": "Chafer",
+                    "category": "APT",
+                    "description": "Iran APT"
+                },
+                {
+                    "value": "Charming Kitten",
+                    "category": "APT",
+                    "description": "Iran APT"
+                },
+                {
+                    "value": "Clever Kitten",
+                    "category": "APT",
+                    "description": "Iran APT"
+                },
+                {
+                    "value": "CopyKittens",
+                    "category": "APT",
+                    "description": "Iran APT"
+                },
+                {
+                    "value": "Cutting Kitten",
+                    "category": "APT",
+                    "description": "Iran APT"
+                },
+                {
+                    "value": "Cyber fighters of Izz Ad-Din Al Qassam",
+                    "category": "APT",
+                    "description": "Iran APT"
+                },
+                {
+                    "value": "DEV-0343",
+                    "category": "APT",
+                    "description": "Iran APT"
+                },
+                {
+                    "value": "DNSpionage",
+                    "category": "APT",
+                    "description": "Iran APT"
+                },
+                {
+                    "value": "DarkHydrus ",
+                    "category": "APT",
+                    "description": "Iran APT"
+                },
+                {
+                    "value": "Domestic Kitten",
+                    "category": "APT",
+                    "description": "Iran APT"
+                },
+                {
+                    "value": "FamousSparrow",
+                    "category": "APT",
+                    "description": "Iran APT"
+                },
+                {
+                    "value": "Flash Kitten",
+                    "category": "APT",
+                    "description": "Iran APT"
+                },
+                {
+                    "value": "Fox Kitten",
+                    "category": "APT",
+                    "description": "Iran APT"
+                },
+                {
+                    "value": "Gold lowell",
+                    "category": "APT",
+                    "description": "Iran APT"
+                },
+                {
+                    "value": "Greenbug ",
+                    "category": "APT",
+                    "description": "Iran APT"
+                },
+                {
+                    "value": "HomeLand Justice",
+                    "category": "APT",
+                    "description": "Iran APT"
+                },
+                {
+                    "value": "ITSecTeam",
+                    "category": "APT",
+                    "description": "Iran APT"
+                },
+                {
+                    "value": "Iridium",
+                    "category": "APT",
+                    "description": "Iran APT"
+                },
+                {
+                    "value": "Madi",
+                    "category": "APT",
+                    "description": "Iran APT"
+                },
+                {
+                    "value": "Magic Hound",
+                    "category": "APT",
+                    "description": "Iran APT"
+                },
+                {
+                    "value": "Magic KITTEN",
+                    "category": "APT",
+                    "description": "Iran APT"
+                },
+                {
+                    "value": "MalKamak",
+                    "category": "APT",
+                    "description": "Iran APT"
+                },
+                {
+                    "value": "MuddyWater",
+                    "category": "APT",
+                    "description": "Iran APT"
+                },
+                {
+                    "value": "Nemesis Kitten",
+                    "category": "APT",
+                    "description": "Iran APT"
+                },
+                {
+                    "value": "Oilrig",
+                    "category": "APT",
+                    "description": "Iran APT"
+                },
+                {
+                    "value": "Predatory Sparrow",
+                    "category": "APT",
+                    "description": "Iran APT"
+                },
+                {
+                    "value": "Prince of Persia",
+                    "category": "APT",
+                    "description": "Iran APT"
+                },
+                {
+                    "value": "Rocket Kitten",
+                    "category": "APT",
+                    "description": "Iran APT"
+                },
+                {
+                    "value": "Shamoon",
+                    "category": "APT",
+                    "description": "Iran APT"
+                },
+                {
+                    "value": "Silent Librarian",
+                    "category": "APT",
+                    "description": "Iran APT"
+                },
+                {
+                    "value": "Sima",
+                    "category": "APT",
+                    "description": "Iran APT"
+                },
+                {
+                    "value": "Tortoiseshell",
+                    "category": "APT",
+                    "description": "Iran APT"
+                },
+                {
+                    "value": "Tracer KItten",
+                    "category": "APT",
+                    "description": "Iran APT"
+                },
+                {
+                    "value": "UNC3313",
+                    "category": "APT",
+                    "description": "Iran APT"
+                },
+                {
+                    "value": "Vengeful Kitten",
+                    "category": "APT",
+                    "description": "Iran APT"
+                },
+                {
+                    "value": "SunFlower",
+                    "category": "APT",
+                    "description": "Israel APT"
+                },
+                {
+                    "value": "Team Jorge",
+                    "category": "APT",
+                    "description": "Israel APT"
+                },
+                {
+                    "value": "Unit 8200",
+                    "category": "APT",
+                    "description": "Israel APT"
+                },
+                {
+                    "value": "Equation Group",
+                    "category": "APT",
+                    "description": "NATO APT"
+                },
+                {
+                    "value": "GOSSIPGIRL",
+                    "category": "APT",
+                    "description": "NATO APT"
+                },
+                {
+                    "value": "Lamberts",
+                    "category": "APT",
+                    "description": "NATO APT"
+                },
+                {
+                    "value": "Sea Turtle",
+                    "category": "APT",
+                    "description": "NATO APT"
+                },
+                {
+                    "value": "Slingshot",
+                    "category": "APT",
+                    "description": "NATO APT"
+                },
+                {
+                    "value": "Snowglobe",
+                    "category": "APT",
+                    "description": "NATO APT"
+                },
+                {
+                    "value": "APT-C-23",
+                    "category": "APT",
+                    "description": "Middle East APT"
+                },
+                {
+                    "value": "APT-C-27",
+                    "category": "APT",
+                    "description": "Middle East APT"
+                },
+                {
+                    "value": "APT-C-37",
+                    "category": "APT",
+                    "description": "Middle East APT"
+                },
+                {
+                    "value": "AridViper",
+                    "category": "APT",
+                    "description": "Middle East APT"
+                },
+                {
+                    "value": "Aslan Neferler Tim",
+                    "category": "APT",
+                    "description": "Middle East APT"
+                },
+                {
+                    "value": "Ayyıldız Tim",
+                    "category": "APT",
+                    "description": "Middle East APT"
+                },
+                {
+                    "value": "BackdoorDiplomacy",
+                    "category": "APT",
+                    "description": "Middle East APT"
+                },
+                {
+                    "value": "Corsair Jackal",
+                    "category": "APT",
+                    "description": "Middle East APT"
+                },
+                {
+                    "value": "Cyber Caliphate Army (CCA)",
+                    "category": "APT",
+                    "description": "Middle East APT"
+                },
+                {
+                    "value": "Dark Caracal",
+                    "category": "APT",
+                    "description": "Middle East APT"
+                },
+                {
+                    "value": "Electric Powder",
+                    "category": "APT",
+                    "description": "Middle East APT"
+                },
+                {
+                    "value": "Extreme Jackal",
+                    "category": "APT",
+                    "description": "Middle East APT"
+                },
+                {
+                    "value": "Gallmaker",
+                    "category": "APT",
+                    "description": "Middle East APT"
+                },
+                {
+                    "value": "Ghost Jackal",
+                    "category": "APT",
+                    "description": "Middle East APT"
+                },
+                {
+                    "value": "Group WITRE",
+                    "category": "APT",
+                    "description": "Middle East APT"
+                },
+                {
+                    "value": "Molerats",
+                    "category": "APT",
+                    "description": "Middle East APT"
+                },
+                {
+                    "value": "POLONIUM",
+                    "category": "APT",
+                    "description": "Middle East APT"
+                },
+                {
+                    "value": "Sandcat",
+                    "category": "APT",
+                    "description": "Middle East APT"
+                },
+                {
+                    "value": "Syrian Electronic Army (SEA)",
+                    "category": "APT",
+                    "description": "Middle East APT"
+                },
+                {
+                    "value": "Tempting Cedar",
+                    "category": "APT",
+                    "description": "Middle East APT"
+                },
+                {
+                    "value": "TurkHackTeam",
+                    "category": "APT",
+                    "description": "Middle East APT"
+                },
+                {
+                    "value": "Volatile Cedar",
+                    "category": "APT",
+                    "description": "Middle East APT"
+                },
+                {
+                    "value": "ZooPark",
+                    "category": "APT",
+                    "description": "Middle East APT"
+                },
+                {
+                    "value": "APT-C-44",
+                    "category": "APT",
+                    "description": "Other Actors APT"
+                },
+                {
+                    "value": "APT32",
+                    "category": "APT",
+                    "description": "Other Actors APT"
+                },
+                {
+                    "value": "Andromeda Spider",
+                    "category": "APT",
+                    "description": "Other Actors APT"
+                },
+                {
+                    "value": "Anunak",
+                    "category": "APT",
+                    "description": "Other Actors APT"
+                },
+                {
+                    "value": "Bahamut",
+                    "category": "APT",
+                    "description": "Other Actors APT"
+                },
+                {
+                    "value": "Bamboo Spider",
+                    "category": "APT",
+                    "description": "Other Actors APT"
+                },
+                {
+                    "value": "Bitter",
+                    "category": "APT",
+                    "description": "Other Actors APT"
+                },
+                {
+                    "value": "BlackOasis",
+                    "category": "APT",
+                    "description": "Other Actors APT"
+                },
+                {
+                    "value": "Blackgear",
+                    "category": "APT",
+                    "description": "Other Actors APT"
+                },
+                {
+                    "value": "Blind Eagle",
+                    "category": "APT",
+                    "description": "Other Actors APT"
+                },
+                {
+                    "value": "Boson Spider",
+                    "category": "APT",
+                    "description": "Other Actors APT"
+                },
+                {
+                    "value": "Cobalt Spider",
+                    "category": "APT",
+                    "description": "Other Actors APT"
+                },
+                {
+                    "value": "Corsair Jackal",
+                    "category": "APT",
+                    "description": "Other Actors APT"
+                },
+                {
+                    "value": "Curious Jackal",
+                    "category": "APT",
+                    "description": "Other Actors APT"
+                },
+                {
+                    "value": "Cyber Partisans",
+                    "category": "APT",
+                    "description": "Other Actors APT"
+                },
+                {
+                    "value": "DNSpionage",
+                    "category": "APT",
+                    "description": "Other Actors APT"
+                },
+                {
+                    "value": "Danti",
+                    "category": "APT",
+                    "description": "Other Actors APT"
+                },
+                {
+                    "value": "DarkHotel",
+                    "category": "APT",
+                    "description": "Other Actors APT"
+                },
+                {
+                    "value": "Dextorous Spider",
+                    "category": "APT",
+                    "description": "Other Actors APT"
+                },
+                {
+                    "value": "Donot Team",
+                    "category": "APT",
+                    "description": "Other Actors APT"
+                },
+                {
+                    "value": "Dungeon Spider",
+                    "category": "APT",
+                    "description": "Other Actors APT"
+                },
+                {
+                    "value": "El Machete",
+                    "category": "APT",
+                    "description": "Other Actors APT"
+                },
+                {
+                    "value": "EmpireMonkey",
+                    "category": "APT",
+                    "description": "Other Actors APT"
+                },
+                {
+                    "value": "Evilnum",
+                    "category": "APT",
+                    "description": "Other Actors APT"
+                },
+                {
+                    "value": "Extreme Jackal",
+                    "category": "APT",
+                    "description": "Other Actors APT"
+                },
+                {
+                    "value": "Gekko Jackal",
+                    "category": "APT",
+                    "description": "Other Actors APT"
+                },
+                {
+                    "value": "Golden Chickens",
+                    "category": "APT",
+                    "description": "Other Actors APT"
+                },
+                {
+                    "value": "Gorgon Group",
+                    "category": "APT",
+                    "description": "Other Actors APT"
+                },
+                {
+                    "value": "GravityRAT",
+                    "category": "APT",
+                    "description": "Other Actors APT"
+                },
+                {
+                    "value": "GreyEnergy Group",
+                    "category": "APT",
+                    "description": "Other Actors APT"
+                },
+                {
+                    "value": "Grim Spider",
+                    "category": "APT",
+                    "description": "Other Actors APT"
+                },
+                {
+                    "value": "Hellsing APT",
+                    "category": "APT",
+                    "description": "Other Actors APT"
+                },
+                {
+                    "value": "Hound Spider",
+                    "category": "APT",
+                    "description": "Other Actors APT"
+                },
+                {
+                    "value": "IamtheKing",
+                    "category": "APT",
+                    "description": "Other Actors APT"
+                },
+                {
+                    "value": "Indrik Spider",
+                    "category": "APT",
+                    "description": "Other Actors APT"
+                },
+                {
+                    "value": "InvisiMole",
+                    "category": "APT",
+                    "description": "Other Actors APT"
+                },
+                {
+                    "value": "KNOTWEED",
+                    "category": "APT",
+                    "description": "Other Actors APT"
+                },
+                {
+                    "value": "Lunar Spider",
+                    "category": "APT",
+                    "description": "Other Actors APT"
+                },
+                {
+                    "value": "Magnetic Spider",
+                    "category": "APT",
+                    "description": "Other Actors APT"
+                },
+                {
+                    "value": "Mimic Spider",
+                    "category": "APT",
+                    "description": "Other Actors APT"
+                },
+                {
+                    "value": "ModifiedElephant",
+                    "category": "APT",
+                    "description": "Other Actors APT"
+                },
+                {
+                    "value": "Monty Spider",
+                    "category": "APT",
+                    "description": "Other Actors APT"
+                },
+                {
+                    "value": "Mummy Spider",
+                    "category": "APT",
+                    "description": "Other Actors APT"
+                },
+                {
+                    "value": "Mythic Leopard",
+                    "category": "APT",
+                    "description": "Other Actors APT"
+                },
+                {
+                    "value": "NEODYMIUM",
+                    "category": "APT",
+                    "description": "Other Actors APT"
+                },
+                {
+                    "value": "Nomadic Octopus",
+                    "category": "APT",
+                    "description": "Other Actors APT"
+                },
+                {
+                    "value": "Overlord Spider",
+                    "category": "APT",
+                    "description": "Other Actors APT"
+                },
+                {
+                    "value": "PLATINUM",
+                    "category": "APT",
+                    "description": "Other Actors APT"
+                },
+                {
+                    "value": "PROMETHIUM",
+                    "category": "APT",
+                    "description": "Other Actors APT"
+                },
+                {
+                    "value": "Pacha Group",
+                    "category": "APT",
+                    "description": "Other Actors APT"
+                },
+                {
+                    "value": "Patchwork",
+                    "category": "APT",
+                    "description": "Other Actors APT"
+                },
+                {
+                    "value": "Pinchy Spider",
+                    "category": "APT",
+                    "description": "Other Actors APT"
+                },
+                {
+                    "value": "Pizzo Spider",
+                    "category": "APT",
+                    "description": "Other Actors APT"
+                },
+                {
+                    "value": "Platinum",
+                    "category": "APT",
+                    "description": "Other Actors APT"
+                },
+                {
+                    "value": "STIBNITE",
+                    "category": "APT",
+                    "description": "Other Actors APT"
+                },
+                {
+                    "value": "SVCMONDR",
+                    "category": "APT",
+                    "description": "Other Actors APT"
+                },
+                {
+                    "value": "Scattered Spider ",
+                    "category": "APT",
+                    "description": "Other Actors APT"
+                },
+                {
+                    "value": "Shark Spider",
+                    "category": "APT",
+                    "description": "Other Actors APT"
+                },
+                {
+                    "value": "Shifty Jackal",
+                    "category": "APT",
+                    "description": "Other Actors APT"
+                },
+                {
+                    "value": "SideCopy",
+                    "category": "APT",
+                    "description": "Other Actors APT"
+                },
+                {
+                    "value": "SideWinder ",
+                    "category": "APT",
+                    "description": "Other Actors APT"
+                },
+                {
+                    "value": "SilverTerrier",
+                    "category": "APT",
+                    "description": "Other Actors APT"
+                },
+                {
+                    "value": "Singing Spider",
+                    "category": "APT",
+                    "description": "Other Actors APT"
+                },
+                {
+                    "value": "Skeleton Spider",
+                    "category": "APT",
+                    "description": "Other Actors APT"
+                },
+                {
+                    "value": "Static Spider",
+                    "category": "APT",
+                    "description": "Other Actors APT"
+                },
+                {
+                    "value": "Stealth Mango and Tangelo",
+                    "category": "APT",
+                    "description": "Other Actors APT"
+                },
+                {
+                    "value": "Sykipot ",
+                    "category": "APT",
+                    "description": "Other Actors APT"
+                },
+                {
+                    "value": "TA2101",
+                    "category": "APT",
+                    "description": "Other Actors APT"
+                },
+                {
+                    "value": "TA505              (merged w/Indrik Spider)",
+                    "category": "APT",
+                    "description": "Other Actors APT"
+                },
+                {
+                    "value": "TA516",
+                    "category": "APT",
+                    "description": "Other Actors APT"
+                },
+                {
+                    "value": "TA543",
+                    "category": "APT",
+                    "description": "Other Actors APT"
+                },
+                {
+                    "value": "TA544",
+                    "category": "APT",
+                    "description": "Other Actors APT"
+                },
+                {
+                    "value": "TA545",
+                    "category": "APT",
+                    "description": "Other Actors APT"
+                },
+                {
+                    "value": "TA551",
+                    "category": "APT",
+                    "description": "Other Actors APT"
+                },
+                {
+                    "value": "TA555",
+                    "category": "APT",
+                    "description": "Other Actors APT"
+                },
+                {
+                    "value": "TA564",
+                    "category": "APT",
+                    "description": "Other Actors APT"
+                },
+                {
+                    "value": "The Mask",
+                    "category": "APT",
+                    "description": "Other Actors APT"
+                },
+                {
+                    "value": "Transparent Tribe",
+                    "category": "APT",
+                    "description": "Other Actors APT"
+                },
+                {
+                    "value": "UNC1151",
+                    "category": "APT",
+                    "description": "Other Actors APT"
+                },
+                {
+                    "value": "UNC1945",
+                    "category": "APT",
+                    "description": "Other Actors APT"
+                },
+                {
+                    "value": "Union Spider",
+                    "category": "APT",
+                    "description": "Other Actors APT"
+                },
+                {
+                    "value": "Wicked Spider",
+                    "category": "APT",
+                    "description": "Other Actors APT"
+                },
+                {
+                    "value": "Wild Neutron",
+                    "category": "APT",
+                    "description": "Other Actors APT"
+                },
+                {
+                    "value": "WindShift",
+                    "category": "APT",
+                    "description": "Other Actors APT"
+                },
+                {
+                    "value": "Wizard Spider",
+                    "category": "APT",
+                    "description": "Other Actors APT"
+                },
+                {
+                    "value": "Wold Spider",
+                    "category": "APT",
+                    "description": "Other Actors APT"
+                },
+                {
+                    "value": "Zombie Spider",
+                    "category": "APT",
+                    "description": "Other Actors APT"
+                },
+                {
+                    "value": "theMx0nday",
+                    "category": "APT",
+                    "description": "Other Actors APT"
+                }
+            ]
+        }
+    ]
+}

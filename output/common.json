@@ -1,0 +1,321 @@
+{
+    "version": 1,
+    "data": [
+        {
+            "name": "Common IT Security Terms",
+            "description": "List of common IT security terms",
+            "usage": 4,
+            "link": "https://raw.githubusercontent.com/ait-cs-IaaS/wordlists/master/output/common.json",
+            "entries": [
+                {
+                    "value": "(APT)",
+                    "category": "Cybersecurity"
+                },
+                {
+                    "value": "(MFA)",
+                    "category": "Cybersecurity"
+                },
+                {
+                    "value": "Advanced persistent threat",
+                    "category": "Cybersecurity"
+                },
+                {
+                    "value": "Adwind RAT",
+                    "category": "Cybersecurity"
+                },
+                {
+                    "value": "Agent.BTZ",
+                    "category": "Cybersecurity"
+                },
+                {
+                    "value": "BACKSPACe",
+                    "category": "Cybersecurity"
+                },
+                {
+                    "value": "BlackEnergy",
+                    "category": "Cybersecurity"
+                },
+                {
+                    "value": "BlackEnergy2 ",
+                    "category": "Cybersecurity"
+                },
+                {
+                    "value": "Carbon Rootkit",
+                    "category": "Cybersecurity"
+                },
+                {
+                    "value": "Comfoo",
+                    "category": "Cybersecurity"
+                },
+                {
+                    "value": "Cybersecurity incident",
+                    "category": "Cybersecurity"
+                },
+                {
+                    "value": "DNSChanger",
+                    "category": "Cybersecurity"
+                },
+                {
+                    "value": "Data breach",
+                    "category": "Cybersecurity"
+                },
+                {
+                    "value": "Data exfiltration attempt",
+                    "category": "Cybersecurity"
+                },
+                {
+                    "value": "Denial of service",
+                    "category": "Cybersecurity"
+                },
+                {
+                    "value": "DeputyDog",
+                    "category": "Cybersecurity"
+                },
+                {
+                    "value": "Derusbi",
+                    "category": "Cybersecurity"
+                },
+                {
+                    "value": "DustySky",
+                    "category": "Cybersecurity"
+                },
+                {
+                    "value": "Etumbot",
+                    "category": "Cybersecurity"
+                },
+                {
+                    "value": "Exforel",
+                    "category": "Cybersecurity"
+                },
+                {
+                    "value": "FallChill",
+                    "category": "Cybersecurity"
+                },
+                {
+                    "value": "Firewall rule",
+                    "category": "Cybersecurity"
+                },
+                {
+                    "value": "Gh0st RAT",
+                    "category": "Cybersecurity"
+                },
+                {
+                    "value": "GreyEnergy Mini",
+                    "category": "Cybersecurity"
+                },
+                {
+                    "value": "HDRoot",
+                    "category": "Cybersecurity"
+                },
+                {
+                    "value": "HTran",
+                    "category": "Cybersecurity"
+                },
+                {
+                    "value": "Hikit",
+                    "category": "Cybersecurity"
+                },
+                {
+                    "value": "HttpBrowser",
+                    "category": "Cybersecurity"
+                },
+                {
+                    "value": "HydraQ",
+                    "category": "Cybersecurity"
+                },
+                {
+                    "value": "IEXPLORE RAT",
+                    "category": "Cybersecurity"
+                },
+                {
+                    "value": "IceFog",
+                    "category": "Cybersecurity"
+                },
+                {
+                    "value": "Incident response",
+                    "category": "Cybersecurity"
+                },
+                {
+                    "value": "Industroyer",
+                    "category": "Cybersecurity"
+                },
+                {
+                    "value": "Intrusion detection system",
+                    "category": "Cybersecurity"
+                },
+                {
+                    "value": "Jiripbot",
+                    "category": "Cybersecurity"
+                },
+                {
+                    "value": "LStudio",
+                    "category": "Cybersecurity"
+                },
+                {
+                    "value": "LoJax",
+                    "category": "Cybersecurity"
+                },
+                {
+                    "value": "MNKit",
+                    "category": "Cybersecurity"
+                },
+                {
+                    "value": "Malware attack",
+                    "category": "Cybersecurity"
+                },
+                {
+                    "value": "Mimikatz",
+                    "category": "Cybersecurity"
+                },
+                {
+                    "value": "Multi-factor authentication",
+                    "category": "Cybersecurity"
+                },
+                {
+                    "value": "NetTraveler",
+                    "category": "Cybersecurity"
+                },
+                {
+                    "value": "Network intrusion",
+                    "category": "Cybersecurity"
+                },
+                {
+                    "value": "NjRAT",
+                    "category": "Cybersecurity"
+                },
+                {
+                    "value": "NotPetya",
+                    "category": "Cybersecurity"
+                },
+                {
+                    "value": "OrcaRAT",
+                    "category": "Cybersecurity"
+                },
+                {
+                    "value": "Password reset",
+                    "category": "Cybersecurity"
+                },
+                {
+                    "value": "Phishing email",
+                    "category": "Cybersecurity"
+                },
+                {
+                    "value": "PlugX",
+                    "category": "Cybersecurity"
+                },
+                {
+                    "value": "Poison Ivy",
+                    "category": "Cybersecurity"
+                },
+                {
+                    "value": "Quasar RAT",
+                    "category": "Cybersecurity"
+                },
+                {
+                    "value": "ROKRAT",
+                    "category": "Cybersecurity"
+                },
+                {
+                    "value": "SIEM",
+                    "category": "Cybersecurity"
+                },
+                {
+                    "value": "SQL Injection",
+                    "category": "Cybersecurity"
+                },
+                {
+                    "value": "SQL-Injections",
+                    "category": "Cybersecurity"
+                },
+                {
+                    "value": "Security awareness training",
+                    "category": "Cybersecurity"
+                },
+                {
+                    "value": "Security breach",
+                    "category": "Cybersecurity"
+                },
+                {
+                    "value": "Security incident report",
+                    "category": "Cybersecurity"
+                },
+                {
+                    "value": "Security policy violation",
+                    "category": "Cybersecurity"
+                },
+                {
+                    "value": "SeduUploader",
+                    "category": "Cybersecurity"
+                },
+                {
+                    "value": "Social engineering attack",
+                    "category": "Cybersecurity"
+                },
+                {
+                    "value": "Sofacy",
+                    "category": "Cybersecurity"
+                },
+                {
+                    "value": "Turla",
+                    "category": "Cybersecurity"
+                },
+                {
+                    "value": "Vulnerability assessment",
+                    "category": "Cybersecurity"
+                },
+                {
+                    "value": "Wipbot",
+                    "category": "Cybersecurity"
+                },
+                {
+                    "value": "X-Agent",
+                    "category": "Cybersecurity"
+                },
+                {
+                    "value": "Xtunnel",
+                    "category": "Cybersecurity"
+                },
+                {
+                    "value": "Zebrocy",
+                    "category": "Cybersecurity"
+                },
+                {
+                    "value": "Zero-day vulnerability exploit",
+                    "category": "Cybersecurity"
+                },
+                {
+                    "value": "Zxshell",
+                    "category": "Cybersecurity"
+                },
+                {
+                    "value": "blockchain",
+                    "category": "Cybersecurity"
+                },
+                {
+                    "value": "keylogger",
+                    "category": "Cybersecurity"
+                },
+                {
+                    "value": "man-in-the-middle",
+                    "category": "Cybersecurity"
+                },
+                {
+                    "value": "phishing",
+                    "category": "Cybersecurity"
+                },
+                {
+                    "value": "ransomware",
+                    "category": "Cybersecurity"
+                },
+                {
+                    "value": "supply chain",
+                    "category": "Cybersecurity"
+                },
+                {
+                    "value": "zero-day",
+                    "category": "Cybersecurity"
+                }
+            ]
+        }
+    ]
+}
