@@ -3,7 +3,7 @@
     "data": [
         {
             "name": "CVE_VENDORS",
-            "description": "Vendors Exported from CVEList 2023-09-06T20:08:59.492413",
+            "description": "Vendors Exported from CVEList 2023-09-07T15:51:39.444172",
             "usage": 4,
             "link": "https://raw.githubusercontent.com/ait-cs-IaaS/wordlists/master/output/vendors.json",
             "entries": [
@@ -553,11 +553,6 @@
                     "description": "CVE-2023-2981"
                 },
                 {
-                    "value": "Academy",
-                    "category": "CVE_VENDOR",
-                    "description": "CVE-2023-4119"
-                },
-                {
                     "value": "Accellion",
                     "category": "CVE_VENDOR",
                     "description": "CVE-2019-5623"
@@ -616,11 +611,6 @@
                     "value": "ActiveITzone",
                     "category": "CVE_VENDOR",
                     "description": "CVE-2023-3788"
-                },
-                {
-                    "value": "Activity",
-                    "category": "CVE_VENDOR",
-                    "description": "CVE-2012-2079"
                 },
                 {
                     "value": "Activity Log Team",
@@ -14218,11 +14208,6 @@
                     "description": "CVE-2022-46308"
                 },
                 {
-                    "value": "SHARP",
-                    "category": "CVE_VENDOR",
-                    "description": "CVE-2022-45796"
-                },
-                {
                     "value": "SHDesigns",
                     "category": "CVE_VENDOR",
                     "description": "CVE-2016-6567"
@@ -19608,11 +19593,6 @@
                     "description": "CVE-2023-1471"
                 },
                 {
-                    "value": "actions",
-                    "category": "CVE_VENDOR",
-                    "description": "CVE-2022-39321"
-                },
-                {
                     "value": "acymailing.com",
                     "category": "CVE_VENDOR",
                     "description": "CVE-2023-39974"
@@ -20318,11 +20298,6 @@
                     "description": "CVE-2022-0323"
                 },
                 {
-                    "value": "bolt",
-                    "category": "CVE_VENDOR",
-                    "description": "CVE-2020-4041"
-                },
-                {
                     "value": "bonitasoft",
                     "category": "CVE_VENDOR",
                     "description": "CVE-2020-36640"
@@ -20381,11 +20356,6 @@
                     "value": "brantburnett",
                     "category": "CVE_VENDOR",
                     "description": "CVE-2023-28638"
-                },
-                {
-                    "value": "brave",
-                    "category": "CVE_VENDOR",
-                    "description": "CVE-2021-21323"
                 },
                 {
                     "value": "brettwooldridge",
@@ -20618,16 +20588,6 @@
                     "description": "CVE-2021-4250"
                 },
                 {
-                    "value": "chalk",
-                    "category": "CVE_VENDOR",
-                    "description": "CVE-2021-3807"
-                },
-                {
-                    "value": "challenge",
-                    "category": "CVE_VENDOR",
-                    "description": "CVE-2017-20150"
-                },
-                {
                     "value": "charleskorn",
                     "category": "CVE_VENDOR",
                     "description": "CVE-2023-28118"
@@ -20666,11 +20626,6 @@
                     "value": "chedabob",
                     "category": "CVE_VENDOR",
                     "description": "CVE-2020-36621"
-                },
-                {
-                    "value": "chicken",
-                    "category": "CVE_VENDOR",
-                    "description": "CVE-2013-2075"
                 },
                 {
                     "value": "chilidevs",
@@ -20938,11 +20893,6 @@
                     "description": "CVE-2023-25173"
                 },
                 {
-                    "value": "containers",
-                    "category": "CVE_VENDOR",
-                    "description": "CVE-2020-5291"
-                },
-                {
                     "value": "containous",
                     "category": "CVE_VENDOR",
                     "description": "CVE-2020-15129"
@@ -21001,11 +20951,6 @@
                     "value": "cortexproject",
                     "category": "CVE_VENDOR",
                     "description": "CVE-2022-23536"
-                },
-                {
-                    "value": "cosmos",
-                    "category": "CVE_VENDOR",
-                    "description": "CVE-2021-41135"
                 },
                 {
                     "value": "coturn",
@@ -21111,21 +21056,6 @@
                     "value": "cube-js",
                     "category": "CVE_VENDOR",
                     "description": "CVE-2022-23510"
-                },
-                {
-                    "value": "cumin",
-                    "category": "CVE_VENDOR",
-                    "description": "CVE-2013-0264"
-                },
-                {
-                    "value": "cups",
-                    "category": "CVE_VENDOR",
-                    "description": "CVE-2012-6094"
-                },
-                {
-                    "value": "curveball",
-                    "category": "CVE_VENDOR",
-                    "description": "CVE-2021-29452"
                 },
                 {
                     "value": "cvat-ai",
@@ -21443,11 +21373,6 @@
                     "description": "CVE-2011-2207"
                 },
                 {
-                    "value": "discourse",
-                    "category": "CVE_VENDOR",
-                    "description": "CVE-2023-38685"
-                },
-                {
                     "value": "django-helpdesk",
                     "category": "CVE_VENDOR",
                     "description": "CVE-2021-3994"
@@ -21591,11 +21516,6 @@
                     "value": "duoFAQ - Responsive",
                     "category": "CVE_VENDOR",
                     "description": "CVE-2021-39319"
-                },
-                {
-                    "value": "duplicity",
-                    "category": "CVE_VENDOR",
-                    "description": "CVE-2014-3495"
                 },
                 {
                     "value": "duracelltomi",
@@ -22223,16 +22143,6 @@
                     "description": "CVE-2021-4367"
                 },
                 {
-                    "value": "flow",
-                    "category": "CVE_VENDOR",
-                    "description": "CVE-2023-25500"
-                },
-                {
-                    "value": "fluent",
-                    "category": "CVE_VENDOR",
-                    "description": "CVE-2022-39379"
-                },
-                {
                     "value": "fluid-cloudnative",
                     "category": "CVE_VENDOR",
                     "description": "CVE-2023-30840"
@@ -22296,11 +22206,6 @@
                     "value": "foxoverflow",
                     "category": "CVE_VENDOR",
                     "description": "CVE-2015-10019"
-                },
-                {
-                    "value": "fraction",
-                    "category": "CVE_VENDOR",
-                    "description": "CVE-2020-11003"
                 },
                 {
                     "value": "francoisjacquet",
@@ -25183,11 +25088,6 @@
                     "description": "CVE-2022-0855"
                 },
                 {
-                    "value": "migrate",
-                    "category": "CVE_VENDOR",
-                    "description": "CVE-2023-3977"
-                },
-                {
                     "value": "migueldeicaza",
                     "category": "CVE_VENDOR",
                     "description": "CVE-2022-23465"
@@ -25323,16 +25223,6 @@
                     "description": "CVE-2020-15275"
                 },
                 {
-                    "value": "mom",
-                    "category": "CVE_VENDOR",
-                    "description": "CVE-2012-4480"
-                },
-                {
-                    "value": "moment",
-                    "category": "CVE_VENDOR",
-                    "description": "CVE-2023-22467"
-                },
-                {
                     "value": "momofoolish",
                     "category": "CVE_VENDOR",
                     "description": "CVE-2022-39301"
@@ -25346,16 +25236,6 @@
                     "value": "monitorjbl",
                     "category": "CVE_VENDOR",
                     "description": "CVE-2022-23640"
-                },
-                {
-                    "value": "monkey",
-                    "category": "CVE_VENDOR",
-                    "description": "CVE-2013-2183"
-                },
-                {
-                    "value": "mono",
-                    "category": "CVE_VENDOR",
-                    "description": "CVE-2012-3543"
                 },
                 {
                     "value": "monopd",
@@ -28273,11 +28153,6 @@
                     "description": "CVE-2023-38502"
                 },
                 {
-                    "value": "tasks",
-                    "category": "CVE_VENDOR",
-                    "description": "CVE-2022-39349"
-                },
-                {
                     "value": "tastyigniter",
                     "category": "CVE_VENDOR",
                     "description": "CVE-2022-0602"
@@ -29691,11 +29566,6 @@
                     "value": "yaniiliev",
                     "category": "CVE_VENDOR",
                     "description": "CVE-2022-1476"
-                },
-                {
-                    "value": "yard",
-                    "category": "CVE_VENDOR",
-                    "description": "CVE-2019-1020001"
                 },
                 {
                     "value": "yarkeev",

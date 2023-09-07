@@ -1,5 +1,7 @@
 import os
 import json
+import zipfile
+import requests
 from datetime import datetime
 from common import make_unique
 
@@ -91,5 +93,47 @@ def get_cves():
     print(f"Saved {len(product_data['data'][0]['entries'])} entries to output/products.json successfully!")
 
 
+def get_latest_release_download_url(endswith_str):
+    api_url = "https://api.github.com/repos/CVEProject/cvelistV5/releases/latest"
+
+    response = requests.get(api_url)
+    response.raise_for_status()
+    release_data = response.json()
+
+    download_url = next(
+        (asset["browser_download_url"] for asset in release_data["assets"] if asset["name"].endswith(endswith_str)),
+        None,
+    )
+    download_file(download_url, "/tmp/cve/cvelistv5.zip")
+    unzip_flatten("/tmp/cve/cvelistv5.zip", "/tmp/cve/")
+
+
+def unzip_flatten(zip_path, output_dir):
+    with zipfile.ZipFile(zip_path, "r") as zip_ref:
+        for zip_info in zip_ref.infolist():
+            zip_info.filename = os.path.basename(zip_info.filename)
+
+            if zip_info.filename:
+                zip_ref.extract(zip_info, output_dir)
+
+
+def download_file(url, save_path):
+    response = requests.get(url, stream=True)
+    response.raise_for_status()
+
+    total_size = int(response.headers.get("content-length", 0))
+    downloaded_size = 0
+
+    with open(save_path, "wb") as f:
+        for chunk in response.iter_content(chunk_size=8192):
+            downloaded_size += len(chunk)
+            f.write(chunk)
+
+            progress_percentage = (downloaded_size / total_size) * 100
+            print(f"\rDownloading... {progress_percentage:.2f}% complete", end="")
+    print("\nDownload finished.")
+
+
 if __name__ == "__main__":
+    # get_latest_release_download_url("midnight.zip.zip")
     get_cves()
