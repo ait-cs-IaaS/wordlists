@@ -3,35 +3,10 @@
     "data": [
         {
             "name": "CVE_VENDORS",
-            "description": "Vendors Exported from CVEList 2023-09-07T15:51:39.444172",
+            "description": "Vendors Exported from CVEList 2023-09-07T16:50:05.322424",
             "usage": 4,
             "link": "https://raw.githubusercontent.com/ait-cs-IaaS/wordlists/master/output/vendors.json",
             "entries": [
-                {
-                    "value": "*** n/a ***",
-                    "category": "CVE_VENDOR",
-                    "description": "CVE-2018-9594"
-                },
-                {
-                    "value": ". LTD.",
-                    "category": "CVE_VENDOR",
-                    "description": "CVE-2018-0648"
-                },
-                {
-                    "value": ".Ltd.",
-                    "category": "CVE_VENDOR",
-                    "description": "CVE-2019-5990"
-                },
-                {
-                    "value": ".htaccess Redirect",
-                    "category": "CVE_VENDOR",
-                    "description": "CVE-2021-38361"
-                },
-                {
-                    "value": "01-Scripts",
-                    "category": "CVE_VENDOR",
-                    "description": "CVE-2021-4310"
-                },
                 {
                     "value": "07FLY",
                     "category": "CVE_VENDOR",
@@ -3561,11 +3536,6 @@
                     "value": "CubeCart Limited",
                     "category": "CVE_VENDOR",
                     "description": "CVE-2017-2117"
-                },
-                {
-                    "value": "Culture",
-                    "category": "CVE_VENDOR",
-                    "description": "CVE-2017-2225"
                 },
                 {
                     "value": "Curiosity-org",
