@@ -673,6 +673,11 @@
                     "description": "China APT"
                 },
                 {
+                    "value": "VANGUARD PANDA",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
                     "value": "VAPOR PANDA",
                     "category": "APT",
                     "description": "China APT"
@@ -689,6 +694,11 @@
                 },
                 {
                     "value": "Vixen Panda",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "Volt Typhoon",
                     "category": "APT",
                     "description": "China APT"
                 },

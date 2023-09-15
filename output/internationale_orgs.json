@@ -1,0 +1,425 @@
+{
+    "version": 1,
+    "data": [
+        {
+            "name": "Internationale Organisationen",
+            "description": "Wichtigsten internationalen Organisationen",
+            "usage": 4,
+            "link": "https://raw.githubusercontent.com/ait-cs-IaaS/wordlists/master/output/internationale_orgs.json",
+            "entries": [
+                {
+                    "value": "African Export-Import Bank",
+                    "category": "NGO"
+                },
+                {
+                    "value": "Afrikanische Entwicklungsbank",
+                    "category": "NGO"
+                },
+                {
+                    "value": "Afrikanischer Entwicklungsfonds",
+                    "category": "NGO"
+                },
+                {
+                    "value": "Amt des Flüchtlingsbeauftragten der Vereinten Nationen",
+                    "category": "NGO"
+                },
+                {
+                    "value": "Andean Development Corporation",
+                    "category": "NGO"
+                },
+                {
+                    "value": "Arabische Bank für wirtschaftliche Entwicklung in Afrika",
+                    "category": "NGO"
+                },
+                {
+                    "value": "Arabischer Währungsfonds",
+                    "category": "NGO"
+                },
+                {
+                    "value": "Asian Infrastructure Investment Bank",
+                    "category": "NGO"
+                },
+                {
+                    "value": "Asiatische Entwicklungsbank",
+                    "category": "NGO"
+                },
+                {
+                    "value": "Asiatischer Entwicklungsfonds",
+                    "category": "NGO"
+                },
+                {
+                    "value": "Banco Latino Americano De Comercio Exterior",
+                    "category": "NGO"
+                },
+                {
+                    "value": "Bank für Internationale Zahlungsausgleich",
+                    "category": "NGO"
+                },
+                {
+                    "value": "Banque Centrale des Etats de l`Afrique de l`Ouest",
+                    "category": "NGO"
+                },
+                {
+                    "value": "Banque des Etats de l`Afrique Centrale",
+                    "category": "NGO"
+                },
+                {
+                    "value": "Black Sea Trade and Development Banks",
+                    "category": "NGO"
+                },
+                {
+                    "value": "Council of Europe Development Bank",
+                    "category": "NGO"
+                },
+                {
+                    "value": "EU-Africa Infrastructure Trust Fund",
+                    "category": "NGO"
+                },
+                {
+                    "value": "Eastern Caribbean Central Bank",
+                    "category": "NGO"
+                },
+                {
+                    "value": "Eastern Caribbean Currency Union",
+                    "category": "NGO"
+                },
+                {
+                    "value": "Entwicklungsbank der zentralafrikanischen Staaten",
+                    "category": "NGO"
+                },
+                {
+                    "value": "Ernährungs- und Landwirtschaftsorganisation der Vereinten Nationen",
+                    "category": "NGO"
+                },
+                {
+                    "value": "Eurasian Development Bank",
+                    "category": "NGO"
+                },
+                {
+                    "value": "European Commission incl. European Union Institutions financed via the EU Budget",
+                    "category": "NGO"
+                },
+                {
+                    "value": "European Company for the Financing of Railroad Rolling Stock",
+                    "category": "NGO"
+                },
+                {
+                    "value": "European Financial Stability Facility",
+                    "category": "NGO"
+                },
+                {
+                    "value": "European Molecular Biology Laboratory",
+                    "category": "NGO"
+                },
+                {
+                    "value": "Europäische Atomgemeinschaft",
+                    "category": "NGO"
+                },
+                {
+                    "value": "Europäische Bank für Wiederaufbau und Entwicklung",
+                    "category": "NGO"
+                },
+                {
+                    "value": "Europäische Fernmeldesatellitenorganisation",
+                    "category": "NGO"
+                },
+                {
+                    "value": "Europäische Freihandelszone",
+                    "category": "NGO"
+                },
+                {
+                    "value": "Europäische Gemeinschaft für Kohle und Stahl",
+                    "category": "NGO"
+                },
+                {
+                    "value": "Europäische Investitionsbank",
+                    "category": "NGO"
+                },
+                {
+                    "value": "Europäische Organisation für Kernforschung",
+                    "category": "NGO"
+                },
+                {
+                    "value": "Europäische Organisation für astronomische Forschung in der südlichen Hemisphäre",
+                    "category": "NGO"
+                },
+                {
+                    "value": "Europäische Organisation zur Nutzung meteorologischer Satelliten",
+                    "category": "NGO"
+                },
+                {
+                    "value": "Europäische Organisation zur Sicherung der Luftfahrt",
+                    "category": "NGO"
+                },
+                {
+                    "value": "Europäische Patentorganisation",
+                    "category": "NGO"
+                },
+                {
+                    "value": "Europäische Weltraumorganisation",
+                    "category": "NGO"
+                },
+                {
+                    "value": "Europäische Zentralbank",
+                    "category": "NGO"
+                },
+                {
+                    "value": "Europäischer Entwicklungsfonds",
+                    "category": "NGO"
+                },
+                {
+                    "value": "Europäischer Investitionsfonds",
+                    "category": "NGO"
+                },
+                {
+                    "value": "Europäischer Rat",
+                    "category": "NGO"
+                },
+                {
+                    "value": "Europäischer Rechnungshof",
+                    "category": "NGO"
+                },
+                {
+                    "value": "Europäischer Stabilitätsmechanismus",
+                    "category": "NGO"
+                },
+                {
+                    "value": "Europäisches Parlament",
+                    "category": "NGO"
+                },
+                {
+                    "value": "Europäisches Währungssystem",
+                    "category": "NGO"
+                },
+                {
+                    "value": "Europäisches Zentrum für mittelfristige Wettervorhersage",
+                    "category": "NGO"
+                },
+                {
+                    "value": "Facility for Euro-Mediterranean Invesment and Partnership",
+                    "category": "NGO"
+                },
+                {
+                    "value": "Fondo Latino Americano de Reservas",
+                    "category": "NGO"
+                },
+                {
+                    "value": "Fonds Belgo-Congolais d'Amortissement et de Gestion",
+                    "category": "NGO"
+                },
+                {
+                    "value": "Fonds spécial unifié de développement",
+                    "category": "NGO"
+                },
+                {
+                    "value": "Hilfswerk der Vereinten Nationen für Palästinaflüchtlinge im Nahen Osten",
+                    "category": "NGO"
+                },
+                {
+                    "value": "Inter-Amerikanische Entwicklungsbank",
+                    "category": "NGO"
+                },
+                {
+                    "value": "Inter-Amerikanische Investitionsgesellschaft",
+                    "category": "NGO"
+                },
+                {
+                    "value": "International Centre for Settlement of Investment Disputes",
+                    "category": "NGO"
+                },
+                {
+                    "value": "International Union of Credit and Investment Insurers",
+                    "category": "NGO"
+                },
+                {
+                    "value": "International finance Facility for Immunisation",
+                    "category": "NGO"
+                },
+                {
+                    "value": "Internationale Arbeitsorganisation",
+                    "category": "NGO"
+                },
+                {
+                    "value": "Internationale Atomenergie-Organisation",
+                    "category": "NGO"
+                },
+                {
+                    "value": "Internationale Bank für Wiederaufbau und Entwicklung",
+                    "category": "NGO"
+                },
+                {
+                    "value": "Internationale Bank für wirtschaftliche Zusammenarbeit",
+                    "category": "NGO"
+                },
+                {
+                    "value": "Internationale Entwicklungsorganisation",
+                    "category": "NGO"
+                },
+                {
+                    "value": "Internationale Fernmelde-Union",
+                    "category": "NGO"
+                },
+                {
+                    "value": "Internationale Fernmeldesatellitenorganisation",
+                    "category": "NGO"
+                },
+                {
+                    "value": "Internationale Finanzkorporation",
+                    "category": "NGO"
+                },
+                {
+                    "value": "Internationale Investitionsbank",
+                    "category": "NGO"
+                },
+                {
+                    "value": "Internationale Maritime Satellite Organisation",
+                    "category": "NGO"
+                },
+                {
+                    "value": "Internationaler Agrarentwicklungsfonds",
+                    "category": "NGO"
+                },
+                {
+                    "value": "Internationaler Währungsfonds",
+                    "category": "NGO"
+                },
+                {
+                    "value": "Internationales Amt für Wanderungsbewegungen",
+                    "category": "NGO"
+                },
+                {
+                    "value": "Internationales Komitee vom Roten Kreuz",
+                    "category": "NGO"
+                },
+                {
+                    "value": "Islamic Development Bank",
+                    "category": "NGO"
+                },
+                {
+                    "value": "Joint Committee of the European Supervisory Authorities",
+                    "category": "NGO"
+                },
+                {
+                    "value": "Karibische Entwicklungsbank",
+                    "category": "NGO"
+                },
+                {
+                    "value": "Kinderhilfswerk der Vereinten Nationen",
+                    "category": "NGO"
+                },
+                {
+                    "value": "Multilaterale Investitions-Garantie Agentur",
+                    "category": "NGO"
+                },
+                {
+                    "value": "Neighbourhood Investment Facility",
+                    "category": "NGO"
+                },
+                {
+                    "value": "Nordantlantischer Pakt",
+                    "category": "NGO"
+                },
+                {
+                    "value": "Nordische Investitionsbank",
+                    "category": "NGO"
+                },
+                {
+                    "value": "OPEC-Fonds für internationale Entwicklung",
+                    "category": "NGO"
+                },
+                {
+                    "value": "Organisation der Vereinten Nationen für Erziehung",
+                    "category": "NGO"
+                },
+                {
+                    "value": "Organisation der erdölexportierenden Länder",
+                    "category": "NGO"
+                },
+                {
+                    "value": "Organisation for Economic Co-operation and Development",
+                    "category": "NGO"
+                },
+                {
+                    "value": "Organisation für Sicherheit und Zusammenarbeit in Europa",
+                    "category": "NGO"
+                },
+                {
+                    "value": "Ostafrikanische Entwicklungsbank",
+                    "category": "NGO"
+                },
+                {
+                    "value": "Paris Club Creditor Institutions",
+                    "category": "NGO"
+                },
+                {
+                    "value": "Rat der Europäischen Union",
+                    "category": "NGO"
+                },
+                {
+                    "value": "Rest of UN Organisations n.i.e.",
+                    "category": "NGO"
+                },
+                {
+                    "value": "Single Resolution Board",
+                    "category": "NGO"
+                },
+                {
+                    "value": "Sonstige EU-Institutionen ohne eigenen Code",
+                    "category": "NGO"
+                },
+                {
+                    "value": "The Eastern and Southern African Trade and Development Bank",
+                    "category": "NGO"
+                },
+                {
+                    "value": "UN-Organisation für industrielle Entwicklung",
+                    "category": "NGO"
+                },
+                {
+                    "value": "Union der Europäischen Rundfunkorganisationen",
+                    "category": "NGO"
+                },
+                {
+                    "value": "Universal Postal Union",
+                    "category": "NGO"
+                },
+                {
+                    "value": "Weltgesundheitsorganisation",
+                    "category": "NGO"
+                },
+                {
+                    "value": "Welthandelsorganisation",
+                    "category": "NGO"
+                },
+                {
+                    "value": "Weltkirchenrat",
+                    "category": "NGO"
+                },
+                {
+                    "value": "West African Economic and Monetary Union",
+                    "category": "NGO"
+                },
+                {
+                    "value": "Westeuropäische Union",
+                    "category": "NGO"
+                },
+                {
+                    "value": "Wiedereingliederungsfonds des Europarates",
+                    "category": "NGO"
+                },
+                {
+                    "value": "Wirtschafts-und Sozialausschuss der Europäische Gemeinschaften",
+                    "category": "NGO"
+                },
+                {
+                    "value": "World Bank Group",
+                    "category": "NGO"
+                },
+                {
+                    "value": "Zentralamerikanische Bank für wirtschaftliche Integration",
+                    "category": "NGO"
+                }
+            ]
+        }
+    ]
+}

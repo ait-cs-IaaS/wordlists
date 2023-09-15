@@ -1,0 +1,137 @@
+{
+    "version": 1,
+    "data": [
+        {
+            "name": "Unternehmen",
+            "description": "Größten Unternehmen in Österreich",
+            "usage": 4,
+            "link": "https://raw.githubusercontent.com/ait-cs-IaaS/wordlists/master/output/companies_austria.json",
+            "entries": [
+                {
+                    "value": "Allianz",
+                    "category": "Company"
+                },
+                {
+                    "value": "Alpla",
+                    "category": "Company"
+                },
+                {
+                    "value": "Andritz",
+                    "category": "Company"
+                },
+                {
+                    "value": "BMW Group",
+                    "category": "Company"
+                },
+                {
+                    "value": "Benteler",
+                    "category": "Company"
+                },
+                {
+                    "value": "Borealis",
+                    "category": "Company"
+                },
+                {
+                    "value": "Erste Group Bank",
+                    "category": "Company"
+                },
+                {
+                    "value": "Hofer",
+                    "category": "Company"
+                },
+                {
+                    "value": "Infineon",
+                    "category": "Company"
+                },
+                {
+                    "value": "Magna Steyr Fahrzeugtechnik",
+                    "category": "Company"
+                },
+                {
+                    "value": "Markant",
+                    "category": "Company"
+                },
+                {
+                    "value": "Mayr-Melnhof Karton",
+                    "category": "Company"
+                },
+                {
+                    "value": "Mondi Group",
+                    "category": "Company"
+                },
+                {
+                    "value": "Münze Österreich",
+                    "category": "Company"
+                },
+                {
+                    "value": "OMV",
+                    "category": "Company"
+                },
+                {
+                    "value": "Porr",
+                    "category": "Company"
+                },
+                {
+                    "value": "Porsche",
+                    "category": "Company"
+                },
+                {
+                    "value": "Raiffeisen Bank International",
+                    "category": "Company"
+                },
+                {
+                    "value": "Red Bull",
+                    "category": "Company"
+                },
+                {
+                    "value": "Rewe",
+                    "category": "Company"
+                },
+                {
+                    "value": "Spar",
+                    "category": "Company"
+                },
+                {
+                    "value": "Strabag SE",
+                    "category": "Company"
+                },
+                {
+                    "value": "Telekom Austria",
+                    "category": "Company"
+                },
+                {
+                    "value": "Verbund",
+                    "category": "Company"
+                },
+                {
+                    "value": "Vienna Insurance Group",
+                    "category": "Company"
+                },
+                {
+                    "value": "Wien Energie",
+                    "category": "Company"
+                },
+                {
+                    "value": "Wiener Stadtwerke",
+                    "category": "Company"
+                },
+                {
+                    "value": "Wienerberger",
+                    "category": "Company"
+                },
+                {
+                    "value": "ams-Osram",
+                    "category": "Company"
+                },
+                {
+                    "value": "voestalpine",
+                    "category": "Company"
+                },
+                {
+                    "value": "ÖBB",
+                    "category": "Company"
+                }
+            ]
+        }
+    ]
+}

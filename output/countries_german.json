@@ -2,29 +2,33 @@
     "version": 1,
     "data": [
         {
-            "name": "Countries",
-            "description": "List of countries 2023-09-15T16:41:06.707807",
+            "name": "Länder",
+            "description": "Liste aller Länder",
             "usage": 4,
-            "link": "https://raw.githubusercontent.com/ait-cs-IaaS/wordlists/master/output/countries.json",
+            "link": "https://raw.githubusercontent.com/ait-cs-IaaS/wordlists/master/output/countries_german.json",
             "entries": [
                 {
                     "value": "Afghanistan",
                     "category": "Country"
                 },
                 {
-                    "value": "Aland Islands",
+                    "value": "Albanien",
                     "category": "Country"
                 },
                 {
-                    "value": "Albania",
+                    "value": "Alderney",
                     "category": "Country"
                 },
                 {
-                    "value": "Algeria",
+                    "value": "Algerien",
                     "category": "Country"
                 },
                 {
-                    "value": "American Samoa",
+                    "value": "Amerikanisch-Samoa",
+                    "category": "Country"
+                },
+                {
+                    "value": "Amerikanische Jungferninseln",
                     "category": "Country"
                 },
                 {
@@ -40,19 +44,19 @@
                     "category": "Country"
                 },
                 {
-                    "value": "Antarctica",
+                    "value": "Antarktis",
                     "category": "Country"
                 },
                 {
-                    "value": "Antigua and Barbuda",
+                    "value": "Antigua und Barbuda",
                     "category": "Country"
                 },
                 {
-                    "value": "Argentina",
+                    "value": "Argentinien",
                     "category": "Country"
                 },
                 {
-                    "value": "Armenia",
+                    "value": "Armenien",
                     "category": "Country"
                 },
                 {
@@ -60,15 +64,11 @@
                     "category": "Country"
                 },
                 {
-                    "value": "Australia",
+                    "value": "Aserbaidschan",
                     "category": "Country"
                 },
                 {
-                    "value": "Austria",
-                    "category": "Country"
-                },
-                {
-                    "value": "Azerbaijan",
+                    "value": "Australien",
                     "category": "Country"
                 },
                 {
@@ -80,7 +80,7 @@
                     "category": "Country"
                 },
                 {
-                    "value": "Bangladesh",
+                    "value": "Bangladesch",
                     "category": "Country"
                 },
                 {
@@ -92,7 +92,7 @@
                     "category": "Country"
                 },
                 {
-                    "value": "Belgium",
+                    "value": "Belgien",
                     "category": "Country"
                 },
                 {
@@ -112,43 +112,39 @@
                     "category": "Country"
                 },
                 {
-                    "value": "Bolivia",
+                    "value": "Bolivien",
                     "category": "Country"
                 },
                 {
-                    "value": "Bonaire, Saint Eustatius and Saba ",
+                    "value": "Bonaire",
                     "category": "Country"
                 },
                 {
-                    "value": "Bosnia and Herzegovina",
+                    "value": "Bosnien und Herzegowina",
                     "category": "Country"
                 },
                 {
-                    "value": "Botswana",
+                    "value": "Botsuana",
                     "category": "Country"
                 },
                 {
-                    "value": "Bouvet Island",
+                    "value": "Bouvetinsel",
                     "category": "Country"
                 },
                 {
-                    "value": "Brazil",
+                    "value": "Brasilien",
                     "category": "Country"
                 },
                 {
-                    "value": "British Indian Ocean Territory",
+                    "value": "Britische Jungferninseln",
                     "category": "Country"
                 },
                 {
-                    "value": "British Virgin Islands",
+                    "value": "Brunei Darussalam",
                     "category": "Country"
                 },
                 {
-                    "value": "Brunei",
-                    "category": "Country"
-                },
-                {
-                    "value": "Bulgaria",
+                    "value": "Bulgarien",
                     "category": "Country"
                 },
                 {
@@ -160,31 +156,7 @@
                     "category": "Country"
                 },
                 {
-                    "value": "Cambodia",
-                    "category": "Country"
-                },
-                {
-                    "value": "Cameroon",
-                    "category": "Country"
-                },
-                {
-                    "value": "Canada",
-                    "category": "Country"
-                },
-                {
-                    "value": "Cape Verde",
-                    "category": "Country"
-                },
-                {
-                    "value": "Cayman Islands",
-                    "category": "Country"
-                },
-                {
-                    "value": "Central African Republic",
-                    "category": "Country"
-                },
-                {
-                    "value": "Chad",
+                    "value": "Cabo Verde",
                     "category": "Country"
                 },
                 {
@@ -196,23 +168,7 @@
                     "category": "Country"
                 },
                 {
-                    "value": "Christmas Island",
-                    "category": "Country"
-                },
-                {
-                    "value": "Cocos Islands",
-                    "category": "Country"
-                },
-                {
-                    "value": "Colombia",
-                    "category": "Country"
-                },
-                {
-                    "value": "Comoros",
-                    "category": "Country"
-                },
-                {
-                    "value": "Cook Islands",
+                    "value": "Cookinseln",
                     "category": "Country"
                 },
                 {
@@ -220,35 +176,19 @@
                     "category": "Country"
                 },
                 {
-                    "value": "Croatia",
+                    "value": "Curaçao",
                     "category": "Country"
                 },
                 {
-                    "value": "Cuba",
+                    "value": "Côte d'Ivoire",
                     "category": "Country"
                 },
                 {
-                    "value": "Curacao",
+                    "value": "DR Kongo",
                     "category": "Country"
                 },
                 {
-                    "value": "Cyprus",
-                    "category": "Country"
-                },
-                {
-                    "value": "Czech Republic",
-                    "category": "Country"
-                },
-                {
-                    "value": "Democratic Republic of the Congo",
-                    "category": "Country"
-                },
-                {
-                    "value": "Denmark",
-                    "category": "Country"
-                },
-                {
-                    "value": "Djibouti",
+                    "value": "Deutschland",
                     "category": "Country"
                 },
                 {
@@ -256,11 +196,15 @@
                     "category": "Country"
                 },
                 {
-                    "value": "Dominican Republic",
+                    "value": "Dominikanische Republik",
                     "category": "Country"
                 },
                 {
-                    "value": "East Timor",
+                    "value": "Dschibuti",
+                    "category": "Country"
+                },
+                {
+                    "value": "Dänemark",
                     "category": "Country"
                 },
                 {
@@ -268,15 +212,7 @@
                     "category": "Country"
                 },
                 {
-                    "value": "Egypt",
-                    "category": "Country"
-                },
-                {
                     "value": "El Salvador",
-                    "category": "Country"
-                },
-                {
-                    "value": "Equatorial Guinea",
                     "category": "Country"
                 },
                 {
@@ -284,47 +220,47 @@
                     "category": "Country"
                 },
                 {
-                    "value": "Estonia",
+                    "value": "Estland",
                     "category": "Country"
                 },
                 {
-                    "value": "Ethiopia",
+                    "value": "Eswatini",
                     "category": "Country"
                 },
                 {
-                    "value": "Falkland Islands",
+                    "value": "Falklandinseln",
                     "category": "Country"
                 },
                 {
-                    "value": "Faroe Islands",
+                    "value": "Fidschi",
                     "category": "Country"
                 },
                 {
-                    "value": "Fiji",
+                    "value": "Finnland",
                     "category": "Country"
                 },
                 {
-                    "value": "Finland",
+                    "value": "Frankreich",
                     "category": "Country"
                 },
                 {
-                    "value": "France",
+                    "value": "Französisch-Guayana",
                     "category": "Country"
                 },
                 {
-                    "value": "French Guiana",
+                    "value": "Französisch-Polynesien",
                     "category": "Country"
                 },
                 {
-                    "value": "French Polynesia",
+                    "value": "Französische Süd- u. Antarktisgebiete",
                     "category": "Country"
                 },
                 {
-                    "value": "French Southern Territories",
+                    "value": "Färöer",
                     "category": "Country"
                 },
                 {
-                    "value": "Gabon",
+                    "value": "Gabun",
                     "category": "Country"
                 },
                 {
@@ -332,11 +268,7 @@
                     "category": "Country"
                 },
                 {
-                    "value": "Georgia",
-                    "category": "Country"
-                },
-                {
-                    "value": "Germany",
+                    "value": "Georgien",
                     "category": "Country"
                 },
                 {
@@ -348,15 +280,15 @@
                     "category": "Country"
                 },
                 {
-                    "value": "Greece",
-                    "category": "Country"
-                },
-                {
-                    "value": "Greenland",
-                    "category": "Country"
-                },
-                {
                     "value": "Grenada",
+                    "category": "Country"
+                },
+                {
+                    "value": "Griechenland",
+                    "category": "Country"
+                },
+                {
+                    "value": "Grönland",
                     "category": "Country"
                 },
                 {
@@ -392,7 +324,7 @@
                     "category": "Country"
                 },
                 {
-                    "value": "Heard Island and McDonald Islands",
+                    "value": "Heard und McDonaldinseln",
                     "category": "Country"
                 },
                 {
@@ -404,19 +336,15 @@
                     "category": "Country"
                 },
                 {
-                    "value": "Hungary",
+                    "value": "Indien",
                     "category": "Country"
                 },
                 {
-                    "value": "Iceland",
+                    "value": "Indonesien",
                     "category": "Country"
                 },
                 {
-                    "value": "India",
-                    "category": "Country"
-                },
-                {
-                    "value": "Indonesia",
+                    "value": "Irak",
                     "category": "Country"
                 },
                 {
@@ -424,11 +352,11 @@
                     "category": "Country"
                 },
                 {
-                    "value": "Iraq",
+                    "value": "Irland",
                     "category": "Country"
                 },
                 {
-                    "value": "Ireland",
+                    "value": "Island",
                     "category": "Country"
                 },
                 {
@@ -440,15 +368,11 @@
                     "category": "Country"
                 },
                 {
-                    "value": "Italy",
+                    "value": "Italien",
                     "category": "Country"
                 },
                 {
-                    "value": "Ivory Coast",
-                    "category": "Country"
-                },
-                {
-                    "value": "Jamaica",
+                    "value": "Jamaika",
                     "category": "Country"
                 },
                 {
@@ -456,19 +380,55 @@
                     "category": "Country"
                 },
                 {
+                    "value": "Jemen",
+                    "category": "Country"
+                },
+                {
                     "value": "Jersey",
                     "category": "Country"
                 },
                 {
-                    "value": "Jordan",
+                    "value": "Jordanien",
                     "category": "Country"
                 },
                 {
-                    "value": "Kazakhstan",
+                    "value": "Jugoslawien",
                     "category": "Country"
                 },
                 {
-                    "value": "Kenya",
+                    "value": "Kaimaninseln",
+                    "category": "Country"
+                },
+                {
+                    "value": "Kambodscha",
+                    "category": "Country"
+                },
+                {
+                    "value": "Kamerun",
+                    "category": "Country"
+                },
+                {
+                    "value": "Kanada",
+                    "category": "Country"
+                },
+                {
+                    "value": "Kanalinseln",
+                    "category": "Country"
+                },
+                {
+                    "value": "Kasachstan",
+                    "category": "Country"
+                },
+                {
+                    "value": "Katar",
+                    "category": "Country"
+                },
+                {
+                    "value": "Kenia",
+                    "category": "Country"
+                },
+                {
+                    "value": "Kirgisistan",
                     "category": "Country"
                 },
                 {
@@ -476,7 +436,31 @@
                     "category": "Country"
                 },
                 {
+                    "value": "Kokosinseln",
+                    "category": "Country"
+                },
+                {
+                    "value": "Kolumbien",
+                    "category": "Country"
+                },
+                {
+                    "value": "Komoren",
+                    "category": "Country"
+                },
+                {
+                    "value": "Kongo",
+                    "category": "Country"
+                },
+                {
                     "value": "Kosovo",
+                    "category": "Country"
+                },
+                {
+                    "value": "Kroatien",
+                    "category": "Country"
+                },
+                {
+                    "value": "Kuba",
                     "category": "Country"
                 },
                 {
@@ -484,19 +468,7 @@
                     "category": "Country"
                 },
                 {
-                    "value": "Kyrgyzstan",
-                    "category": "Country"
-                },
-                {
                     "value": "Laos",
-                    "category": "Country"
-                },
-                {
-                    "value": "Latvia",
-                    "category": "Country"
-                },
-                {
-                    "value": "Lebanon",
                     "category": "Country"
                 },
                 {
@@ -504,11 +476,19 @@
                     "category": "Country"
                 },
                 {
+                    "value": "Lettland",
+                    "category": "Country"
+                },
+                {
+                    "value": "Libanon",
+                    "category": "Country"
+                },
+                {
                     "value": "Liberia",
                     "category": "Country"
                 },
                 {
-                    "value": "Libya",
+                    "value": "Libyen",
                     "category": "Country"
                 },
                 {
@@ -516,11 +496,11 @@
                     "category": "Country"
                 },
                 {
-                    "value": "Lithuania",
+                    "value": "Litauen",
                     "category": "Country"
                 },
                 {
-                    "value": "Luxembourg",
+                    "value": "Luxemburg",
                     "category": "Country"
                 },
                 {
@@ -528,11 +508,7 @@
                     "category": "Country"
                 },
                 {
-                    "value": "Macedonia",
-                    "category": "Country"
-                },
-                {
-                    "value": "Madagascar",
+                    "value": "Madagaskar",
                     "category": "Country"
                 },
                 {
@@ -544,7 +520,7 @@
                     "category": "Country"
                 },
                 {
-                    "value": "Maldives",
+                    "value": "Malediven",
                     "category": "Country"
                 },
                 {
@@ -556,7 +532,15 @@
                     "category": "Country"
                 },
                 {
-                    "value": "Marshall Islands",
+                    "value": "Malwinen",
+                    "category": "Country"
+                },
+                {
+                    "value": "Marokko",
+                    "category": "Country"
+                },
+                {
+                    "value": "Marshallinseln",
                     "category": "Country"
                 },
                 {
@@ -564,7 +548,7 @@
                     "category": "Country"
                 },
                 {
-                    "value": "Mauritania",
+                    "value": "Mauretanien",
                     "category": "Country"
                 },
                 {
@@ -576,15 +560,15 @@
                     "category": "Country"
                 },
                 {
-                    "value": "Mexico",
+                    "value": "Mexiko",
                     "category": "Country"
                 },
                 {
-                    "value": "Micronesia",
+                    "value": "Mikronesien",
                     "category": "Country"
                 },
                 {
-                    "value": "Moldova",
+                    "value": "Moldau",
                     "category": "Country"
                 },
                 {
@@ -592,7 +576,7 @@
                     "category": "Country"
                 },
                 {
-                    "value": "Mongolia",
+                    "value": "Mongolei",
                     "category": "Country"
                 },
                 {
@@ -604,11 +588,7 @@
                     "category": "Country"
                 },
                 {
-                    "value": "Morocco",
-                    "category": "Country"
-                },
-                {
-                    "value": "Mozambique",
+                    "value": "Mosambik",
                     "category": "Country"
                 },
                 {
@@ -628,19 +608,23 @@
                     "category": "Country"
                 },
                 {
-                    "value": "Netherlands",
+                    "value": "Neukaledonien",
                     "category": "Country"
                 },
                 {
-                    "value": "New Caledonia",
-                    "category": "Country"
-                },
-                {
-                    "value": "New Zealand",
+                    "value": "Neuseeland",
                     "category": "Country"
                 },
                 {
                     "value": "Nicaragua",
+                    "category": "Country"
+                },
+                {
+                    "value": "Niederlande",
+                    "category": "Country"
+                },
+                {
+                    "value": "Niederländische Antillen",
                     "category": "Country"
                 },
                 {
@@ -656,19 +640,27 @@
                     "category": "Country"
                 },
                 {
-                    "value": "Norfolk Island",
+                    "value": "Nordirland",
                     "category": "Country"
                 },
                 {
-                    "value": "North Korea",
+                    "value": "Nordkorea",
                     "category": "Country"
                 },
                 {
-                    "value": "Northern Mariana Islands",
+                    "value": "Nordmazedonien",
                     "category": "Country"
                 },
                 {
-                    "value": "Norway",
+                    "value": "Norfolkinseln",
+                    "category": "Country"
+                },
+                {
+                    "value": "Norwegen",
+                    "category": "Country"
+                },
+                {
+                    "value": "Nördliche Marianen",
                     "category": "Country"
                 },
                 {
@@ -684,7 +676,7 @@
                     "category": "Country"
                 },
                 {
-                    "value": "Palestinian Territory",
+                    "value": "Palästina",
                     "category": "Country"
                 },
                 {
@@ -692,7 +684,7 @@
                     "category": "Country"
                 },
                 {
-                    "value": "Papua New Guinea",
+                    "value": "Papua-Neuguinea",
                     "category": "Country"
                 },
                 {
@@ -704,15 +696,15 @@
                     "category": "Country"
                 },
                 {
-                    "value": "Philippines",
+                    "value": "Philippinen",
                     "category": "Country"
                 },
                 {
-                    "value": "Pitcairn",
+                    "value": "Pitcairninseln",
                     "category": "Country"
                 },
                 {
-                    "value": "Poland",
+                    "value": "Polen",
                     "category": "Country"
                 },
                 {
@@ -724,55 +716,39 @@
                     "category": "Country"
                 },
                 {
-                    "value": "Qatar",
+                    "value": "Ruanda",
                     "category": "Country"
                 },
                 {
-                    "value": "Republic of the Congo",
+                    "value": "Rumänien",
                     "category": "Country"
                 },
                 {
-                    "value": "Reunion",
+                    "value": "Russland",
                     "category": "Country"
                 },
                 {
-                    "value": "Romania",
+                    "value": "Réunion",
                     "category": "Country"
                 },
                 {
-                    "value": "Russia",
+                    "value": "Saint-Barthélemy",
                     "category": "Country"
                 },
                 {
-                    "value": "Rwanda",
+                    "value": "Saint-Martin",
                     "category": "Country"
                 },
                 {
-                    "value": "Saint Barthelemy",
+                    "value": "Saint-Pierre und Miquelon",
                     "category": "Country"
                 },
                 {
-                    "value": "Saint Helena",
+                    "value": "Salomonen",
                     "category": "Country"
                 },
                 {
-                    "value": "Saint Kitts and Nevis",
-                    "category": "Country"
-                },
-                {
-                    "value": "Saint Lucia",
-                    "category": "Country"
-                },
-                {
-                    "value": "Saint Martin",
-                    "category": "Country"
-                },
-                {
-                    "value": "Saint Pierre and Miquelon",
-                    "category": "Country"
-                },
-                {
-                    "value": "Saint Vincent and the Grenadines",
+                    "value": "Sambia",
                     "category": "Country"
                 },
                 {
@@ -784,11 +760,19 @@
                     "category": "Country"
                 },
                 {
-                    "value": "Sao Tome and Principe",
+                    "value": "Sark (Kanalinseln)",
                     "category": "Country"
                 },
                 {
-                    "value": "Saudi Arabia",
+                    "value": "Saudi-Arabien",
+                    "category": "Country"
+                },
+                {
+                    "value": "Schweden",
+                    "category": "Country"
+                },
+                {
+                    "value": "Schweiz",
                     "category": "Country"
                 },
                 {
@@ -796,11 +780,15 @@
                     "category": "Country"
                 },
                 {
-                    "value": "Serbia",
+                    "value": "Serbien",
                     "category": "Country"
                 },
                 {
-                    "value": "Seychelles",
+                    "value": "Serbien und Montenegro",
+                    "category": "Country"
+                },
+                {
+                    "value": "Seychellen",
                     "category": "Country"
                 },
                 {
@@ -808,7 +796,11 @@
                     "category": "Country"
                 },
                 {
-                    "value": "Singapore",
+                    "value": "Simbabwe",
+                    "category": "Country"
+                },
+                {
+                    "value": "Singapur",
                     "category": "Country"
                 },
                 {
@@ -816,15 +808,11 @@
                     "category": "Country"
                 },
                 {
-                    "value": "Slovakia",
+                    "value": "Slowakei",
                     "category": "Country"
                 },
                 {
-                    "value": "Slovenia",
-                    "category": "Country"
-                },
-                {
-                    "value": "Solomon Islands",
+                    "value": "Slowenien",
                     "category": "Country"
                 },
                 {
@@ -832,27 +820,31 @@
                     "category": "Country"
                 },
                 {
-                    "value": "South Africa",
+                    "value": "Sowjetunion",
                     "category": "Country"
                 },
                 {
-                    "value": "South Georgia and the South Sandwich Islands",
-                    "category": "Country"
-                },
-                {
-                    "value": "South Korea",
-                    "category": "Country"
-                },
-                {
-                    "value": "South Sudan",
-                    "category": "Country"
-                },
-                {
-                    "value": "Spain",
+                    "value": "Spanien",
                     "category": "Country"
                 },
                 {
                     "value": "Sri Lanka",
+                    "category": "Country"
+                },
+                {
+                    "value": "St. Helena",
+                    "category": "Country"
+                },
+                {
+                    "value": "St. Kitts und Nevis",
+                    "category": "Country"
+                },
+                {
+                    "value": "St. Lucia",
+                    "category": "Country"
+                },
+                {
+                    "value": "St. Vincent und die Grenadinen",
                     "category": "Country"
                 },
                 {
@@ -864,23 +856,31 @@
                     "category": "Country"
                 },
                 {
-                    "value": "Svalbard and Jan Mayen",
+                    "value": "Svalbard",
                     "category": "Country"
                 },
                 {
-                    "value": "Swaziland",
+                    "value": "Syrien",
                     "category": "Country"
                 },
                 {
-                    "value": "Sweden",
+                    "value": "São Tomé und Príncipe",
                     "category": "Country"
                 },
                 {
-                    "value": "Switzerland",
+                    "value": "Südafrika",
                     "category": "Country"
                 },
                 {
-                    "value": "Syria",
+                    "value": "Südkorea",
+                    "category": "Country"
+                },
+                {
+                    "value": "Südsudan",
+                    "category": "Country"
+                },
+                {
+                    "value": "Tadschikistan",
                     "category": "Country"
                 },
                 {
@@ -888,15 +888,15 @@
                     "category": "Country"
                 },
                 {
-                    "value": "Tajikistan",
-                    "category": "Country"
-                },
-                {
-                    "value": "Tanzania",
+                    "value": "Tansania",
                     "category": "Country"
                 },
                 {
                     "value": "Thailand",
+                    "category": "Country"
+                },
+                {
+                    "value": "Timor-Leste",
                     "category": "Country"
                 },
                 {
@@ -912,15 +912,23 @@
                     "category": "Country"
                 },
                 {
-                    "value": "Trinidad and Tobago",
+                    "value": "Trinidad und Tobago",
                     "category": "Country"
                 },
                 {
-                    "value": "Tunisia",
+                    "value": "Tschad",
                     "category": "Country"
                 },
                 {
-                    "value": "Turkey",
+                    "value": "Tschechien",
+                    "category": "Country"
+                },
+                {
+                    "value": "Tschechoslowakei",
+                    "category": "Country"
+                },
+                {
+                    "value": "Tunesien",
                     "category": "Country"
                 },
                 {
@@ -928,7 +936,7 @@
                     "category": "Country"
                 },
                 {
-                    "value": "Turks and Caicos Islands",
+                    "value": "Turks- und Caicosinseln",
                     "category": "Country"
                 },
                 {
@@ -936,7 +944,7 @@
                     "category": "Country"
                 },
                 {
-                    "value": "U.S. Virgin Islands",
+                    "value": "Türkei",
                     "category": "Country"
                 },
                 {
@@ -948,15 +956,7 @@
                     "category": "Country"
                 },
                 {
-                    "value": "United Arab Emirates",
-                    "category": "Country"
-                },
-                {
-                    "value": "United Kingdom",
-                    "category": "Country"
-                },
-                {
-                    "value": "United States",
+                    "value": "Ungarn",
                     "category": "Country"
                 },
                 {
@@ -968,7 +968,7 @@
                     "category": "Country"
                 },
                 {
-                    "value": "Uzbekistan",
+                    "value": "Usbekistan",
                     "category": "Country"
                 },
                 {
@@ -976,7 +976,7 @@
                     "category": "Country"
                 },
                 {
-                    "value": "Vatican",
+                    "value": "Vatikan",
                     "category": "Country"
                 },
                 {
@@ -984,27 +984,59 @@
                     "category": "Country"
                 },
                 {
+                    "value": "Vereinigte Arabische Emirate",
+                    "category": "Country"
+                },
+                {
+                    "value": "Vereinigte Staaten",
+                    "category": "Country"
+                },
+                {
+                    "value": "Vereinigtes Königreich",
+                    "category": "Country"
+                },
+                {
                     "value": "Vietnam",
                     "category": "Country"
                 },
                 {
-                    "value": "Wallis and Futuna",
+                    "value": "Wallis und Futuna",
                     "category": "Country"
                 },
                 {
-                    "value": "Western Sahara",
+                    "value": "Weihnachtsinsel",
                     "category": "Country"
                 },
                 {
-                    "value": "Yemen",
+                    "value": "Westsahara",
                     "category": "Country"
                 },
                 {
-                    "value": "Zambia",
+                    "value": "Zentralafrikanische Republik",
                     "category": "Country"
                 },
                 {
-                    "value": "Zimbabwe",
+                    "value": "Zypern",
+                    "category": "Country"
+                },
+                {
+                    "value": "Ägypten",
+                    "category": "Country"
+                },
+                {
+                    "value": "Äquatorialguinea",
+                    "category": "Country"
+                },
+                {
+                    "value": "Äthiopien",
+                    "category": "Country"
+                },
+                {
+                    "value": "Ålandinseln",
+                    "category": "Country"
+                },
+                {
+                    "value": "Österreich",
                     "category": "Country"
                 }
             ]
