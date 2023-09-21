@@ -7,7 +7,7 @@ def make_unique(data_list):
     result_list = []
     for data in sorted(data_list, key=lambda x: x["value"]):
         value = data["value"].lower()
-        if filter_stopword(value) or (not value.islower()) and value not in ["hp", "x"]:
+        if filter_stopword(value) or (not value.islower()):
             continue
         if value not in unique_entries:
             unique_entries.add(value)
@@ -99,6 +99,11 @@ common_words = [
     "SQL-Injections",
     "SQL Injection",
 ]
+
+
+def get_first_names():
+    with open("data/names.txt", "r") as f:
+        return f.read().splitlines()
 
 
 def get_common_words():

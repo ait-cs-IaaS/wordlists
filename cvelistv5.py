@@ -1,26 +1,86 @@
 import os
+import re
 import json
 import zipfile
 import requests
 from datetime import datetime
-from common import make_unique
+from common import make_unique, get_first_names
+
+first_names = get_first_names()
 
 
-def get_affected(json_data, category):
+def shortest_substrings(strings: list[str]) -> list[str]:
+    if not strings:
+        return []
+
+    min_str = min(strings, key=len)
+    shortest_substrings = []
+
+    for i in range(len(min_str)):
+        for j in range(i + 1, len(min_str) + 1):
+            substr = min_str[i:j]
+            if all(substr in string for string in strings):
+                shortest_substrings.append(substr)
+
+    return sorted(shortest_substrings, key=len, reverse=True)[:1] if shortest_substrings else []
+
+
+def not_in_blacklist(value: str) -> bool:
+    if not value:
+        return False
+    if len(value) < 3 or len(value) > 32:
+        return False
+    if not value[0].isalpha() or value[0].islower():
+        return False
+    if value in {
+        "subsidiary",
+        "division",
+        "subsidiaries",
+        "divisions",
+        "Money Forward for",
+        "Modicon Quantum ",
+        "Firewall",
+        "Firewall Module",
+        "Japan",
+    }:
+        return False
+    if any(
+        check_str in value.lower() for check_str in {"unknown", "none", "n/a", "version", "ex ", "er ", "/", "|", "before", "coming soon"}
+    ):
+        return False
+    if all(not char.isalpha() for char in value):
+        return False
+    if any(re.match(f"^{name}\s\w+$", value) for name in first_names):
+        return False
+    return True
+
+
+def cleanup_value(input_str: str) -> str:
+    cleaned_str = re.sub(r"\([^)]*\)", "", input_str)
+    cleaned_str = re.sub(r"\[[^\]]*\]", "", cleaned_str)
+    cleaned_str = re.sub(r"\{[^\}]*\}", "", cleaned_str)
+    cleaned_str = re.sub(r"[\(\)\[\]\{\}]", "", cleaned_str)
+    cleaned_str = re.sub(r"\s+", " ", cleaned_str)
+    return cleaned_str.strip()
+    # return "".join(char for char in input_str if char.isalnum() or char.isspace()).strip()
+
+
+def get_affected(json_data, category) -> set[str]:
     affected_entries = set()
     for entry in json_data.get("containers", {}).get("cna", {}).get("affected", []):
         if value := entry.get(category):
-            if "," in value:
-                for value in value.split(","):
+            for value in re.split(r",|AND|and", value):
+                value = cleanup_value(value)
+                if not_in_blacklist(value):
                     affected_entries.add(value)
-            else:
-                affected_entries.add(value)
     return affected_entries
 
 
 def create_data(original_json, category):
     affected_entries = get_affected(original_json, category)
     cve_id = original_json.get("cveMetadata", {}).get("cveId", "")
+
+    # affected_entries = shortest_substrings(list(affected_entries))
 
     return [
         {
