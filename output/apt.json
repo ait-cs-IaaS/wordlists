@@ -33,6 +33,11 @@
                     "description": "China APT"
                 },
                 {
+                    "value": "APT21",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
                     "value": "APT22",
                     "category": "APT",
                     "description": "China APT"
@@ -228,6 +233,16 @@
                     "description": "China APT"
                 },
                 {
+                    "value": "Famous Sparrow",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
+                    "value": "FamousSparrow",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
                     "value": "Foxy Panda",
                     "category": "APT",
                     "description": "China APT"
@@ -399,11 +414,6 @@
                 },
                 {
                     "value": "Naikon",
-                    "category": "APT",
-                    "description": "China APT"
-                },
-                {
-                    "value": "NetTraveler",
                     "category": "APT",
                     "description": "China APT"
                 },
@@ -598,11 +608,6 @@
                     "description": "China APT"
                 },
                 {
-                    "value": "TEMP.Zhenbao",
-                    "category": "APT",
-                    "description": "China APT"
-                },
-                {
                     "value": "Taidoor",
                     "category": "APT",
                     "description": "China APT"
@@ -654,11 +659,6 @@
                 },
                 {
                     "value": "UNC3886",
-                    "category": "APT",
-                    "description": "China APT"
-                },
-                {
-                    "value": "UNC4841",
                     "category": "APT",
                     "description": "China APT"
                 },
@@ -743,6 +743,11 @@
                     "description": "China APT"
                 },
                 {
+                    "value": "ALLANITE",
+                    "category": "APT",
+                    "description": "Russia APT"
+                },
+                {
                     "value": "APT29",
                     "category": "APT",
                     "description": "Russia APT"
@@ -754,6 +759,11 @@
                 },
                 {
                     "value": "Bl00dy",
+                    "category": "APT",
+                    "description": "Russia APT"
+                },
+                {
+                    "value": "Brain Spider",
                     "category": "APT",
                     "description": "Russia APT"
                 },
@@ -863,17 +873,27 @@
                     "description": "Russia APT"
                 },
                 {
+                    "value": "Salty Spider",
+                    "category": "APT",
+                    "description": "Russia APT"
+                },
+                {
                     "value": "Sandworm",
                     "category": "APT",
                     "description": "Russia APT"
                 },
                 {
-                    "value": "SectorJ04",
+                    "value": "Skeleton Spider",
                     "category": "APT",
                     "description": "Russia APT"
                 },
                 {
                     "value": "Sofacy",
+                    "category": "APT",
+                    "description": "Russia APT"
+                },
+                {
+                    "value": "TA505",
                     "category": "APT",
                     "description": "Russia APT"
                 },
@@ -909,6 +929,11 @@
                 },
                 {
                     "value": "WhiteBear",
+                    "category": "APT",
+                    "description": "Russia APT"
+                },
+                {
+                    "value": "Winter Vivern ",
                     "category": "APT",
                     "description": "Russia APT"
                 },
@@ -1049,11 +1074,6 @@
                 },
                 {
                     "value": "Domestic Kitten",
-                    "category": "APT",
-                    "description": "Iran APT"
-                },
-                {
-                    "value": "FamousSparrow",
                     "category": "APT",
                     "description": "Iran APT"
                 },

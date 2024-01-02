@@ -43,11 +43,11 @@ def get_countries():
 def transform_austrian_municipialities_json(content):
     dialect = csv.Sniffer().sniff(content)
     cr = csv.reader(content.splitlines(), dialect)
-    return [{"value": row[4], "category": "Municipality"} for row in cr]
+    return [{"value": row[4], "category": "Municipality"} for row in cr if len(row) > 3]
 
 
 def get_austrian_municipialities():
-    url = "https://secure.umweltbundesamt.at/edm_portal/redaList.do?seqCode=8yc33c74k8xcc2&6578706f7274=1&display=plain&d-49520-e=1"
+    url = "https://edm.gv.at/edm_portal/redaList.do?seqCode=8yc33c74k8xcc2&6578706f7274=1&display=plain&d-49520-e=1"
 
     try:
         response = requests.get(url)
