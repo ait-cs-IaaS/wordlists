@@ -2,7 +2,7 @@ import requests
 import json
 import csv
 from datetime import datetime
-
+from common import make_unique
 
 def transform_country_json(json_data):
     return [{"value": name, "category": "Country"} for code, name in json_data.items()]
@@ -16,7 +16,7 @@ def get_countries():
         response.raise_for_status()  # Check for HTTP request errors
 
         json_data = response.json()
-        transformed_data = sorted(transform_country_json(json_data), key=lambda x: x["value"])
+        transformed_data = make_unique(transform_country_json(json_data))
 
         result_data = {
             "version": 1,
@@ -54,7 +54,7 @@ def get_austrian_municipialities():
         response.raise_for_status()  # Check for HTTP request errors
 
         json_data = response.text
-        transformed_data = sorted(transform_austrian_municipialities_json(json_data), key=lambda x: x["value"])
+        transformed_data = make_unique(transform_austrian_municipialities_json(json_data))
 
         result_data = {
             "version": 1,

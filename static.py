@@ -27,7 +27,7 @@ def get_static_list(static_file: str, category: str, result_file: str, name: str
         with open(f"output/{result_file}", "w") as output_file:
             json.dump(result_data, output_file, indent=4, ensure_ascii=False)
 
-        print(f"Saved {len(transformed_data)} entries to output/countries.json successfully!")
+        print(f"Saved {len(transformed_data)} entries to output/{result_file} successfully!")
 
     except Exception as e:
         print(f"Error: {e}")
