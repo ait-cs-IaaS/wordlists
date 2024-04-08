@@ -753,6 +753,11 @@
                     "description": "Russia APT"
                 },
                 {
+                    "value": "APT44",
+                    "category": "APT",
+                    "description": "Russia APT"
+                },
+                {
                     "value": "Anonymous Sudan",
                     "category": "APT",
                     "description": "Russia APT"
@@ -874,11 +879,6 @@
                 },
                 {
                     "value": "Salty Spider",
-                    "category": "APT",
-                    "description": "Russia APT"
-                },
-                {
-                    "value": "Sandworm",
                     "category": "APT",
                     "description": "Russia APT"
                 },

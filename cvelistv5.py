@@ -22,7 +22,11 @@ def shortest_substrings(strings: list[str]) -> list[str]:
             if all(substr in string for string in strings):
                 shortest_substrings.append(substr)
 
-    return sorted(shortest_substrings, key=len, reverse=True)[:1] if shortest_substrings else []
+    return (
+        sorted(shortest_substrings, key=len, reverse=True)[:1]
+        if shortest_substrings
+        else []
+    )
 
 
 def not_in_blacklist(value: str) -> bool:
@@ -45,7 +49,24 @@ def not_in_blacklist(value: str) -> bool:
     }:
         return False
     if any(
-        check_str in value.lower() for check_str in {"unknown", "none", "n/a", "version", "ex ", "er ", "/", "|", "before", "coming soon"}
+        check_str in value.lower()
+        for check_str in {
+            "unknown",
+            "none",
+            "n/a",
+            "version",
+            "scalance",
+            "simantic",
+            "melsec",
+            "email",
+            "event",
+            "ex ",
+            "er ",
+            "/",
+            "|",
+            "before",
+            "coming soon",
+        }
     ):
         return False
     if all(not char.isalpha() for char in value):
@@ -97,8 +118,12 @@ def get_cves():
 
     if not os.path.exists(rootdir):
         print(f"Error: {rootdir} does not exist")
-        print("Please download the CVE JSON files from https://github.com/CVEProject/cvelistV5/releases")
-        print("and extract them to /tmp/cve/ with `unzip -j cvelistv5.zip -d /tmp/cve/`")
+        print(
+            "Please download the CVE JSON files from https://github.com/CVEProject/cvelistV5/releases"
+        )
+        print(
+            "and extract them to /tmp/cve/ with `unzip -j cvelistv5.zip -d /tmp/cve/`"
+        )
         return
 
     vendor_data = {
@@ -126,7 +151,11 @@ def get_cves():
         ],
     }
 
-    json_files = [cve_file for cve_file in os.listdir(rootdir) if cve_file.endswith(".json") and cve_file.startswith("CVE-")]
+    json_files = [
+        cve_file
+        for cve_file in os.listdir(rootdir)
+        if cve_file.endswith(".json") and cve_file.startswith("CVE-")
+    ]
 
     for file_name in json_files:
         with open(os.path.join(rootdir, file_name), "r") as json_file:
@@ -144,13 +173,17 @@ def get_cves():
     with open("output/vendors.json", "w") as output_file:
         json.dump(vendor_data, output_file, indent=4, ensure_ascii=False)
 
-    print(f"Saved {len(vendor_data['data'][0]['entries'])} entries to output/vendors.json successfully!")
+    print(
+        f"Saved {len(vendor_data['data'][0]['entries'])} entries to output/vendors.json successfully!"
+    )
 
     # Write the result to products.json
     with open("output/products.json", "w") as output_file:
         json.dump(product_data, output_file, indent=4, ensure_ascii=False)
 
-    print(f"Saved {len(product_data['data'][0]['entries'])} entries to output/products.json successfully!")
+    print(
+        f"Saved {len(product_data['data'][0]['entries'])} entries to output/products.json successfully!"
+    )
 
 
 def get_latest_release_download_url(endswith_str):
@@ -161,7 +194,11 @@ def get_latest_release_download_url(endswith_str):
     release_data = response.json()
 
     download_url = next(
-        (asset["browser_download_url"] for asset in release_data["assets"] if asset["name"].endswith(endswith_str)),
+        (
+            asset["browser_download_url"]
+            for asset in release_data["assets"]
+            if asset["name"].endswith(endswith_str)
+        ),
         None,
     )
     download_file(download_url, "/tmp/cve/cvelistv5.zip")

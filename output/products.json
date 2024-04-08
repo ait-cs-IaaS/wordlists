@@ -3,7 +3,7 @@
     "data": [
         {
             "name": "CVE_PRODUCTS",
-            "description": "Products Exported from CVEList 2024-04-03T20:38:14.900343",
+            "description": "Products Exported from CVEList 2024-04-08T20:28:45.468792",
             "usage": 4,
             "link": "https://raw.githubusercontent.com/ait-cs-IaaS/wordlists/master/output/products.json",
             "entries": [
@@ -4923,11 +4923,6 @@
                     "description": "CVE-2022-38204"
                 },
                 {
-                    "value": "ArcGIS GeoEvent Server",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-29101"
-                },
-                {
                     "value": "ArcGIS Insights",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2023-25839"
@@ -7788,11 +7783,6 @@
                     "description": "CVE-2023-7102"
                 },
                 {
-                    "value": "Barracuda Email Security Gateway",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-2868"
-                },
-                {
                     "value": "Base Module",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2020-28400"
@@ -8868,24 +8858,9 @@
                     "description": "CVE-2021-20716"
                 },
                 {
-                    "value": "Bug Library",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-38355"
-                },
-                {
                     "value": "Build App Online",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2022-3241"
-                },
-                {
-                    "value": "Build service",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-36777"
-                },
-                {
-                    "value": "Buildroot",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-43608"
                 },
                 {
                     "value": "Bulgarisation for WooCommerce",
@@ -8893,34 +8868,9 @@
                     "description": "CVE-2024-2395"
                 },
                 {
-                    "value": "Bulk Add to Cart for WooCommerce",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-4337"
-                },
-                {
-                    "value": "Bulk Comment Remove",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-48330"
-                },
-                {
-                    "value": "Bulk Creator",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-0647"
-                },
-                {
                     "value": "Bulk Datetime Change",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2021-24842"
-                },
-                {
-                    "value": "Bulk Delete Users by Email",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-4267"
-                },
-                {
-                    "value": "Bulk Edit",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-1089"
                 },
                 {
                     "value": "Bulk Edit Post Titles",
@@ -9073,11 +9023,6 @@
                     "description": "CVE-2020-4530"
                 },
                 {
-                    "value": "Business Edition",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-39341"
-                },
-                {
                     "value": "Business Hours Indicator",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2021-24593"
@@ -9128,11 +9073,6 @@
                     "description": "CVE-2021-20306"
                 },
                 {
-                    "value": "Butter",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-39230"
-                },
-                {
                     "value": "Butterfly Button plugin",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2023-24499"
@@ -9156,11 +9096,6 @@
                     "value": "Buy Me a Coffee",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2023-2578"
-                },
-                {
-                    "value": "Buy Me a Coffee – Button",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-2082"
                 },
                 {
                     "value": "BuySpeed",
@@ -9381,11 +9316,6 @@
                     "value": "CAS",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2023-28857"
-                },
-                {
-                    "value": "CASH",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-42337"
                 },
                 {
                     "value": "CASS",
@@ -10378,11 +10308,6 @@
                     "description": "CVE-2022-0811"
                 },
                 {
-                    "value": "CRM",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-27897"
-                },
-                {
                     "value": "CRM Gateway for Mobile Devices",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2020-2838"
@@ -10703,16 +10628,6 @@
                     "description": "CVE-2022-33705"
                 },
                 {
-                    "value": "Calendar Event Management System",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-0675"
-                },
-                {
-                    "value": "Calendar Event Multi View",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-24498"
-                },
-                {
                     "value": "CalendarXP",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2022-4522"
@@ -10993,11 +10908,6 @@
                     "description": "CVE-2023-2065"
                 },
                 {
-                    "value": "Carousel",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-24463"
-                },
-                {
                     "value": "Carousel CK",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2022-1336"
@@ -11061,11 +10971,6 @@
                     "value": "CataBlog",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2023-47842"
-                },
-                {
-                    "value": "Catalog Mode",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-34344"
                 },
                 {
                     "value": "Catch Breadcrumb",
@@ -11211,16 +11116,6 @@
                     "value": "Central Dogma",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2021-38388"
-                },
-                {
-                    "value": "Central Licensing System",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-8481"
-                },
-                {
-                    "value": "Centre",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-16101"
                 },
                 {
                     "value": "Centre Diagnostics Service",
@@ -11393,21 +11288,6 @@
                     "description": "CVE-2021-24287"
                 },
                 {
-                    "value": "Change Control",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-7334"
-                },
-                {
-                    "value": "Change Memory Limit",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-1093"
-                },
-                {
-                    "value": "Change Table Prefix",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-25932"
-                },
-                {
                     "value": "Change Uploaded File Permissions",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2022-1788"
@@ -11491,11 +11371,6 @@
                     "value": "Chcnav - P5E GNSS",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2022-30627"
-                },
-                {
-                    "value": "Check & Log Email",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-24908"
                 },
                 {
                     "value": "Check Point Gaia Portal",
@@ -11613,11 +11488,6 @@
                     "description": "CVE-2022-47135"
                 },
                 {
-                    "value": "Chronosly Events Calendar",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-31093"
-                },
-                {
                     "value": "Chrony",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2020-14367"
@@ -11706,11 +11576,6 @@
                     "value": "Cisco Edge Fog Fabric",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2020-26084"
-                },
-                {
-                    "value": "Cisco Email Security Appliance",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-3133"
                 },
                 {
                     "value": "Cisco Emergency Responder",
@@ -12051,11 +11916,6 @@
                     "value": "Cisco Secure Client",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2024-20337"
-                },
-                {
-                    "value": "Cisco Secure Email",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-26082"
                 },
                 {
                     "value": "Cisco Secure Endpoint",
@@ -12493,11 +12353,6 @@
                     "description": "CVE-2022-1325"
                 },
                 {
-                    "value": "Cloak Front End Email",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-0150"
-                },
-                {
                     "value": "Clockwork SMS Notfications",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2023-50843"
@@ -12738,11 +12593,6 @@
                     "description": "CVE-2024-0523"
                 },
                 {
-                    "value": "Co-Authors",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-39164"
-                },
-                {
                     "value": "Co-marquage service-public.fr",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2024-29908"
@@ -12781,11 +12631,6 @@
                     "value": "Code Embed",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2023-49837"
-                },
-                {
-                    "value": "Code Snippets",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-25008"
                 },
                 {
                     "value": "Code Snippets Extended",
@@ -12911,21 +12756,6 @@
                     "value": "Collectchat",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2024-30436"
-                },
-                {
-                    "value": "Collector",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-21218"
-                },
-                {
-                    "value": "Collector software",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-32575"
-                },
-                {
-                    "value": "College",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-2813"
                 },
                 {
                     "value": "College Management System v1.0",
@@ -13058,11 +12888,6 @@
                     "description": "CVE-2021-34993"
                 },
                 {
-                    "value": "Comment",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-4337"
-                },
-                {
                     "value": "Comment Engine Pro",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2021-36911"
@@ -13081,11 +12906,6 @@
                     "value": "Comment Link Remove",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2021-24725"
-                },
-                {
-                    "value": "Comment Reply Email",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-45008"
                 },
                 {
                     "value": "Comment Reply Notification",
@@ -13178,16 +12998,6 @@
                     "description": "CVE-2020-2823"
                 },
                 {
-                    "value": "Common Event Enabler",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-32477"
-                },
-                {
-                    "value": "Common Licensing",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-50306"
-                },
-                {
                     "value": "CommonsBooking",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2022-0658"
@@ -13203,11 +13013,6 @@
                     "description": "CVE-2021-38432"
                 },
                 {
-                    "value": "Communications Billing",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-21390"
-                },
-                {
                     "value": "Communications Convergence",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2022-21338"
@@ -13221,16 +13026,6 @@
                     "value": "Community Collections",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2020-25635"
-                },
-                {
-                    "value": "Community Edition",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-1770"
-                },
-                {
-                    "value": "Community Events",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-24496"
                 },
                 {
                     "value": "Community by PeepSo",
@@ -13543,21 +13338,6 @@
                     "description": "CVE-2020-2865"
                 },
                 {
-                    "value": "Configure",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-34457"
-                },
-                {
-                    "value": "Configure SMTP",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-27192"
-                },
-                {
-                    "value": "Confirm Data",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-40700"
-                },
-                {
                     "value": "Confluence Data Center",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2020-36290"
@@ -13738,11 +13518,6 @@
                     "description": "CVE-2022-2116"
                 },
                 {
-                    "value": "Contact Form Email",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-42361"
-                },
-                {
                     "value": "Contact Form Entries",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2022-3604"
@@ -13873,26 +13648,6 @@
                     "description": "CVE-2021-24731"
                 },
                 {
-                    "value": "Content Security Policy",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-40662"
-                },
-                {
-                    "value": "Content Server",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-26457"
-                },
-                {
-                    "value": "Content Staging",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-39356"
-                },
-                {
-                    "value": "Content Transfer",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-41796"
-                },
-                {
                     "value": "Content Views – Post Grid",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2024-0612"
@@ -13958,24 +13713,9 @@
                     "description": "CVE-2022-22189"
                 },
                 {
-                    "value": "Control",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-14534"
-                },
-                {
                     "value": "Control - REC615",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2021-22283"
-                },
-                {
-                    "value": "Control Center",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-20528"
-                },
-                {
-                    "value": "Control Desk",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-20559"
                 },
                 {
                     "value": "Control FPWIN Pro",
@@ -14408,34 +14148,9 @@
                     "description": "CVE-2021-24821"
                 },
                 {
-                    "value": "Cosy",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-16230"
-                },
-                {
-                    "value": "CountUp",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-34636"
-                },
-                {
-                    "value": "Countdown",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-34636"
-                },
-                {
                     "value": "Countdown & Clock",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2022-29420"
-                },
-                {
-                    "value": "Countdown Block",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-24633"
-                },
-                {
-                    "value": "Countdown Timer",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-36526"
                 },
                 {
                     "value": "Counterparty Settlement",
@@ -14643,16 +14358,6 @@
                     "description": "CVE-2022-1826"
                 },
                 {
-                    "value": "Crow",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-23824"
-                },
-                {
-                    "value": "Crowd",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-36240"
-                },
-                {
                     "value": "Crowd Data Center",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2022-43782"
@@ -14783,34 +14488,14 @@
                     "description": "CVE-2022-47605"
                 },
                 {
-                    "value": "Custom Add User",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-0043"
-                },
-                {
-                    "value": "Custom Banners",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-4407"
-                },
-                {
                     "value": "Custom Base Terms",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2023-2600"
                 },
                 {
-                    "value": "Custom CSS",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-4418"
-                },
-                {
                     "value": "Custom Content Shortcode",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2021-24824"
-                },
-                {
-                    "value": "Custom Dashboard",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-52128"
                 },
                 {
                     "value": "Custom Dashboard Widgets",
@@ -14853,24 +14538,9 @@
                     "description": "CVE-2022-4888"
                 },
                 {
-                    "value": "Custom Login",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-24239"
-                },
-                {
                     "value": "Custom Login Admin Front-end CSS",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2022-40700"
-                },
-                {
-                    "value": "Custom Login Page",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-52128"
-                },
-                {
-                    "value": "Custom Login Redirect",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-24536"
                 },
                 {
                     "value": "Custom Menu Plugin",
@@ -14896,11 +14566,6 @@
                     "value": "Custom Post Carousels with Owl",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2023-51493"
-                },
-                {
-                    "value": "Custom Post Type",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-0420"
                 },
                 {
                     "value": "Custom Post Type Generator",
@@ -14966,31 +14631,6 @@
                     "value": "Custom fields shortcode",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2023-6809"
-                },
-                {
-                    "value": "Customer",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-22542"
-                },
-                {
-                    "value": "Customers Online",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-2156"
-                },
-                {
-                    "value": "Customization Service",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-25373"
-                },
-                {
-                    "value": "Customize Button",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-49153"
-                },
-                {
-                    "value": "Customize WordPress Emails",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-0345"
                 },
                 {
                     "value": "Customizr",
@@ -15603,11 +15243,6 @@
                     "description": "CVE-2023-35867"
                 },
                 {
-                    "value": "DJ EmailPublish",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-38329"
-                },
-                {
                     "value": "DL8000",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2023-1935"
@@ -15643,16 +15278,6 @@
                     "description": "CVE-2021-40186"
                 },
                 {
-                    "value": "DNS",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-5935"
-                },
-                {
-                    "value": "DNS Server",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-27615"
-                },
-                {
                     "value": "DNUI",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2022-47609"
@@ -15681,11 +15306,6 @@
                     "value": "DP300",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2020-1841"
-                },
-                {
-                    "value": "DPA",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-33231"
                 },
                 {
                     "value": "DPD Baltic Shipping",
@@ -15938,11 +15558,6 @@
                     "description": "CVE-2024-0414"
                 },
                 {
-                    "value": "DSGVO",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-4013"
-                },
-                {
                     "value": "DSGVO All in one for WP",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2021-24294"
@@ -16046,11 +15661,6 @@
                     "value": "DVP32ES2 PLC",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2023-5459"
-                },
-                {
-                    "value": "DVR",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-3923"
                 },
                 {
                     "value": "DVR HVR-16781",
@@ -16168,11 +15778,6 @@
                     "description": "CVE-2022-2188"
                 },
                 {
-                    "value": "DXP",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-25149"
-                },
-                {
                     "value": "DaOffice",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2020-7816"
@@ -16211,11 +15816,6 @@
                     "value": "Dark Mode",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2021-4332"
-                },
-                {
-                    "value": "Dart",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-3095"
                 },
                 {
                     "value": "Dart SDK",
@@ -16258,26 +15858,6 @@
                     "description": "CVE-2023-5916"
                 },
                 {
-                    "value": "Data Center",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-14165"
-                },
-                {
-                    "value": "Data Domain",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-23692"
-                },
-                {
-                    "value": "Data Loss Prevention",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-7307"
-                },
-                {
-                    "value": "Data Masking",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-2983"
-                },
-                {
                     "value": "Data Protection Advisor",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2020-5351"
@@ -16296,26 +15876,6 @@
                     "value": "Data Protector",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2021-22517"
-                },
-                {
-                    "value": "Data Risk Manager",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-4617"
-                },
-                {
-                    "value": "Data Security Firewall",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-1778"
-                },
-                {
-                    "value": "Data Server",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-9044"
-                },
-                {
-                    "value": "Data Transfer",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-14496"
                 },
                 {
                     "value": "Data module compactplus",
@@ -16423,16 +15983,6 @@
                     "description": "CVE-2022-4945"
                 },
                 {
-                    "value": "Date",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-41650"
-                },
-                {
-                    "value": "Date Remover",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-4823"
-                },
-                {
                     "value": "Dav-Cogs",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2021-32646"
@@ -16498,11 +16048,6 @@
                     "description": "CVE-2023-7207"
                 },
                 {
-                    "value": "Debug",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-24798"
-                },
-                {
                     "value": "Debug Assistant",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2023-26527"
@@ -16566,11 +16111,6 @@
                     "value": "Delete Duplicate Posts",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2023-47754"
-                },
-                {
-                    "value": "Delete Me",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-5126"
                 },
                 {
                     "value": "Delete Old Orders",
@@ -17048,11 +16588,6 @@
                     "description": "CVE-2023-4769"
                 },
                 {
-                    "value": "Desktop Client",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-8140"
-                },
-                {
                     "value": "Desktop Connector",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2023-29069"
@@ -17066,11 +16601,6 @@
                     "value": "DevExpress",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2022-28684"
-                },
-                {
-                    "value": "DevOps Deploy",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-22331"
                 },
                 {
                     "value": "Development System V3",
@@ -17738,11 +17268,6 @@
                     "description": "CVE-2023-25984"
                 },
                 {
-                    "value": "Download",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-2086"
-                },
-                {
                     "value": "Download Attachments",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2023-0076"
@@ -17756,46 +17281,6 @@
                     "value": "Download Community by PeepSo",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2023-39925"
-                },
-                {
-                    "value": "Download Manager",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-25069"
-                },
-                {
-                    "value": "Download Media",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-27190"
-                },
-                {
-                    "value": "Download Monitor",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-36920"
-                },
-                {
-                    "value": "Download Plugin",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-24703"
-                },
-                {
-                    "value": "Download Station",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-34810"
-                },
-                {
-                    "value": "Download Theme",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-38062"
-                },
-                {
-                    "value": "Downloads",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-27629"
-                },
-                {
-                    "value": "Drag",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-24907"
                 },
                 {
                     "value": "Drag & Drop Builder",
@@ -17863,11 +17348,6 @@
                     "description": "CVE-2020-8317"
                 },
                 {
-                    "value": "Drivers for Windows",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-32162"
-                },
-                {
                     "value": "Drives AOP",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2021-22665"
@@ -17881,11 +17361,6 @@
                     "value": "Droit Elementor Addons – Widgets",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2024-22136"
-                },
-                {
-                    "value": "Drop",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-2813"
                 },
                 {
                     "value": "Drop Editor",
@@ -17911,16 +17386,6 @@
                     "value": "Dropbox Lepton",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2022-4104"
-                },
-                {
-                    "value": "Dropdown",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-38353"
-                },
-                {
-                    "value": "Dropdown Menu Widget",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-25113"
                 },
                 {
                     "value": "Dropdown Multisite selector",
@@ -18168,11 +17633,6 @@
                     "description": "CVE-2023-2750"
                 },
                 {
-                    "value": "E10",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-3142"
-                },
-                {
                     "value": "E1090",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2022-36407"
@@ -18181,11 +17641,6 @@
                     "value": "E1090H",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2022-36407"
-                },
-                {
-                    "value": "E11",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-0350"
                 },
                 {
                     "value": "E2 Series",
@@ -18241,11 +17696,6 @@
                     "value": "E790H",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2022-36407"
-                },
-                {
-                    "value": "E80",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-3142"
                 },
                 {
                     "value": "E805",
@@ -18958,11 +18408,6 @@
                     "description": "CVE-2023-0246"
                 },
                 {
-                    "value": "ESS",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-25162"
-                },
-                {
                     "value": "ESXi",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2020-3955"
@@ -19076,11 +18521,6 @@
                     "value": "Early Warning System",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2023-3797"
-                },
-                {
-                    "value": "Earnings",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-1688"
                 },
                 {
                     "value": "Earth Pro",
@@ -19236,11 +18676,6 @@
                     "value": "Easy Download Manager",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2021-24736"
-                },
-                {
-                    "value": "Easy Event calendar",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-28169"
                 },
                 {
                     "value": "Easy FAQ with Exp",
@@ -19863,11 +19298,6 @@
                     "description": "CVE-2020-7010"
                 },
                 {
-                    "value": "Elastic Email Sender",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-38387"
-                },
-                {
                     "value": "Elastic Endgame Security",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2022-38774"
@@ -20058,116 +19488,6 @@
                     "description": "CVE-2022-36784"
                 },
                 {
-                    "value": "Email Address Encoder",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-48765"
-                },
-                {
-                    "value": "Email Artillery",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-24490"
-                },
-                {
-                    "value": "Email Automation",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-1430"
-                },
-                {
-                    "value": "Email Center",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-2794"
-                },
-                {
-                    "value": "Email Encoder",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-47821"
-                },
-                {
-                    "value": "Email List Building",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-52119"
-                },
-                {
-                    "value": "Email Log",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-24924"
-                },
-                {
-                    "value": "Email Marketing",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-3342"
-                },
-                {
-                    "value": "Email Pop Up",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-4961"
-                },
-                {
-                    "value": "Email Security",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-20021"
-                },
-                {
-                    "value": "Email Security Virtual Appliance",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-20025"
-                },
-                {
-                    "value": "Email Security with DLP enabled",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-1700"
-                },
-                {
-                    "value": "Email Subscriber",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-24556"
-                },
-                {
-                    "value": "Email Subscribers",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-1935"
-                },
-                {
-                    "value": "Email Subscribers & Newsletters",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-22300"
-                },
-                {
-                    "value": "Email Subscription Popup",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-27960"
-                },
-                {
-                    "value": "Email Templates Customizer",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-47181"
-                },
-                {
-                    "value": "Email Tracker",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-44777"
-                },
-                {
-                    "value": "Email Users",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-1605"
-                },
-                {
-                    "value": "Email by PrintFriendly",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-0663"
-                },
-                {
-                    "value": "Email download link",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-36523"
-                },
-                {
-                    "value": "Email posts to subscribers",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-46818"
-                },
-                {
                     "value": "Embed Any Document – Embed PDF",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2023-23707"
@@ -20176,21 +19496,6 @@
                     "value": "Embed Calendly",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2023-4995"
-                },
-                {
-                    "value": "Embed PDF",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-4788"
-                },
-                {
-                    "value": "Embed Privacy",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-51694"
-                },
-                {
-                    "value": "Embed Swagger",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-0381"
                 },
                 {
                     "value": "Embed YouTube Videos",
@@ -20246,16 +19551,6 @@
                     "value": "Emlog Pro",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2022-1526"
-                },
-                {
-                    "value": "Employee",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-2090"
-                },
-                {
-                    "value": "Employee Management System",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-2394"
                 },
                 {
                     "value": "Employee Payslip Generator",
@@ -20398,11 +19693,6 @@
                     "description": "CVE-2021-35246"
                 },
                 {
-                    "value": "Engineering",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-2290"
-                },
-                {
                     "value": "Engineering Lifecycle Management",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2022-34355"
@@ -20426,11 +19716,6 @@
                     "value": "Engineers Online Portal",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2024-0349"
-                },
-                {
-                    "value": "Engines",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-3369"
                 },
                 {
                     "value": "English WordPress Admin",
@@ -20468,11 +19753,6 @@
                     "description": "CVE-2023-2189"
                 },
                 {
-                    "value": "Enlighten",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-24867"
-                },
-                {
                     "value": "Enqueue Anything",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2021-25116"
@@ -20486,11 +19766,6 @@
                     "value": "Enterprise Asset Management",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2021-2233"
-                },
-                {
-                    "value": "Enterprise Comm",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-22106"
                 },
                 {
                     "value": "Enterprise Communications Broker",
@@ -20528,11 +19803,6 @@
                     "description": "CVE-2021-36309"
                 },
                 {
-                    "value": "Enterprise Search",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-49923"
-                },
-                {
                     "value": "Enterprise Security Manager",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2023-3314"
@@ -20558,11 +19828,6 @@
                     "description": "CVE-2021-37940"
                 },
                 {
-                    "value": "Entity Embed",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-13673"
-                },
-                {
                     "value": "Entra",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2024-21401"
@@ -20581,11 +19846,6 @@
                     "value": "Envira Gallery Lite",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2021-24126"
-                },
-                {
-                    "value": "Envoy",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-33869"
                 },
                 {
                     "value": "EnvíaloSimple",
@@ -20733,166 +19993,6 @@
                     "description": "CVE-2022-3753"
                 },
                 {
-                    "value": "Event Banner",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-24252"
-                },
-                {
-                    "value": "Event Booking Calendar",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-3558"
-                },
-                {
-                    "value": "Event Calendar – Calendar",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-36390"
-                },
-                {
-                    "value": "Event Geek",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-24480"
-                },
-                {
-                    "value": "Event List",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-0418"
-                },
-                {
-                    "value": "Event Management Plugin",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-1054"
-                },
-                {
-                    "value": "Event Manager",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-1122"
-                },
-                {
-                    "value": "Event Monster",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-3336"
-                },
-                {
-                    "value": "Event Registration System",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-4233"
-                },
-                {
-                    "value": "Event Schedule",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-2843"
-                },
-                {
-                    "value": "Event Schedule by MotoPress",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-24583"
-                },
-                {
-                    "value": "Event Script",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-3475"
-                },
-                {
-                    "value": "Event Streams",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-4662"
-                },
-                {
-                    "value": "Event Tickets",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-25028"
-                },
-                {
-                    "value": "Event post",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-49179"
-                },
-                {
-                    "value": "EventCalendar",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-25024"
-                },
-                {
-                    "value": "EventCam App",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-31411"
-                },
-                {
-                    "value": "EventON",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-0238"
-                },
-                {
-                    "value": "EventON Premium",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-0238"
-                },
-                {
-                    "value": "EventON Pro",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-6244"
-                },
-                {
-                    "value": "EventON-RSVP",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-7170"
-                },
-                {
-                    "value": "EventPrime",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-24832"
-                },
-                {
-                    "value": "EventPrime – Events Calendar",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-1320"
-                },
-                {
-                    "value": "EventStore",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-26133"
-                },
-                {
-                    "value": "Eventify™",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-4110"
-                },
-                {
-                    "value": "Events Addon for Elementor",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-47827"
-                },
-                {
-                    "value": "Events Calendar",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-1122"
-                },
-                {
-                    "value": "Events Calendar – Amelia",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-1484"
-                },
-                {
-                    "value": "Events Made Easy",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-24813"
-                },
-                {
-                    "value": "Events Manager",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-35012"
-                },
-                {
-                    "value": "Events Server",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-38744"
-                },
-                {
-                    "value": "Events Tickets Plus",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-1319"
-                },
-                {
                     "value": "Ever-L29B",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2020-1882"
@@ -20961,11 +20061,6 @@
                     "value": "Exceed Turbo X",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2023-38536"
-                },
-                {
-                    "value": "Excel Files",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-23707"
                 },
                 {
                     "value": "Excel Services",
@@ -21158,19 +20253,9 @@
                     "description": "CVE-2020-4462"
                 },
                 {
-                    "value": "External Media",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-24311"
-                },
-                {
                     "value": "External Media without Import",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2022-1398"
-                },
-                {
-                    "value": "External Videos",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-30752"
                 },
                 {
                     "value": "Extra Block Design",
@@ -21244,11 +20329,6 @@
                 },
                 {
                     "value": "F-Secure Elements Agent",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-44750"
-                },
-                {
-                    "value": "F-Secure Email",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2021-44750"
                 },
@@ -21401,11 +20481,6 @@
                     "value": "FANTSY",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2023-28698"
-                },
-                {
-                    "value": "FAQ",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-21438"
                 },
                 {
                     "value": "FAQ Management System",
@@ -22213,11 +21288,6 @@
                     "description": "CVE-2023-6592"
                 },
                 {
-                    "value": "Faster",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-24867"
-                },
-                {
                     "value": "Fatal Error Notify",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2023-7202"
@@ -22393,16 +21463,6 @@
                     "description": "CVE-2021-20992"
                 },
                 {
-                    "value": "Field Service",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-2603"
-                },
-                {
-                    "value": "Fields",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-24339"
-                },
-                {
                     "value": "Fighting Cock Information System",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2024-0477"
@@ -22416,16 +21476,6 @@
                     "value": "File Gallery",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2023-48771"
-                },
-                {
-                    "value": "File Manager",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-24177"
-                },
-                {
-                    "value": "File Permissions",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-3881"
                 },
                 {
                     "value": "File Renaming on Upload",
@@ -22973,11 +22023,6 @@
                     "description": "CVE-2022-3240"
                 },
                 {
-                    "value": "Follow Up Emails",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-2389"
-                },
-                {
                     "value": "FoneTracker",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2022-0732"
@@ -23056,11 +22101,6 @@
                     "value": "Foody Friend",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2023-3796"
-                },
-                {
-                    "value": "Football",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-24384"
                 },
                 {
                     "value": "Football Pool",
@@ -23731,16 +22771,6 @@
                     "value": "FrameWorX Server",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2020-12013"
-                },
-                {
-                    "value": "Frappe",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-41712"
-                },
-                {
-                    "value": "Fraud Prevention For Woocommerce",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-39159"
                 },
                 {
                     "value": "Free Antivirus",
@@ -25018,11 +24048,6 @@
                     "description": "CVE-2020-14510"
                 },
                 {
-                    "value": "Gateway",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-1580"
-                },
-                {
                     "value": "Gateway & Management",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2022-23746"
@@ -25716,11 +24741,6 @@
                     "value": "Gotham",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2022-27892"
-                },
-                {
-                    "value": "Goto",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-24297"
                 },
                 {
                     "value": "Govee Home",
@@ -27133,11 +26153,6 @@
                     "description": "CVE-2024-29094"
                 },
                 {
-                    "value": "HT Event",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-0496"
-                },
-                {
                     "value": "HT Feed",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2023-23804"
@@ -27193,24 +26208,9 @@
                     "description": "CVE-2021-24667"
                 },
                 {
-                    "value": "HTTP Auth",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-27435"
-                },
-                {
                     "value": "HTTP Headers",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2023-1207"
-                },
-                {
-                    "value": "HTTP Server",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-2530"
-                },
-                {
-                    "value": "HTTP-Daemon",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-31081"
                 },
                 {
                     "value": "HUAWEI Mate 10",
@@ -27596,11 +26596,6 @@
                     "value": "Helpdesk",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2020-2506"
-                },
-                {
-                    "value": "Helpful",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-24841"
                 },
                 {
                     "value": "HelpuFTClient.dll",
@@ -28018,19 +27013,9 @@
                     "description": "CVE-2022-1765"
                 },
                 {
-                    "value": "Hot R",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-29796"
-                },
-                {
                     "value": "HotCRP",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2022-4819"
-                },
-                {
-                    "value": "Hotdog",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-3101"
                 },
                 {
                     "value": "Hotel Booking",
@@ -28041,11 +27026,6 @@
                     "value": "Hotel Booking Lite",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2023-28498"
-                },
-                {
-                    "value": "Hotel Listing",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-36666"
                 },
                 {
                     "value": "Hotel Management",
@@ -28071,11 +27051,6 @@
                     "value": "Hotscot Contact Form",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2021-24777"
-                },
-                {
-                    "value": "House Rental",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-3806"
                 },
                 {
                     "value": "House Rental Management System",
@@ -28191,11 +27166,6 @@
                     "value": "Hummingbird – Optimize Speed",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2022-0994"
-                },
-                {
-                    "value": "Hustle – Email Marketing",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-0368"
                 },
                 {
                     "value": "HyCMS-J1",
@@ -28633,11 +27603,6 @@
                     "description": "CVE-2022-43462"
                 },
                 {
-                    "value": "IP Camera",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-6118"
-                },
-                {
                     "value": "IP Camera B8220",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2023-43755"
@@ -28821,11 +27786,6 @@
                     "value": "IPFire",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2022-36368"
-                },
-                {
-                    "value": "IPS",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-21887"
                 },
                 {
                     "value": "IPS Engine",
@@ -29471,16 +28431,6 @@
                     "value": "Imou Life app",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2023-6913"
-                },
-                {
-                    "value": "Import",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-3558"
-                },
-                {
-                    "value": "Import All Pages",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-4139"
                 },
                 {
                     "value": "Import CSV Files",
@@ -31238,44 +30188,14 @@
                     "description": "CVE-2021-41363"
                 },
                 {
-                    "value": "Inventor",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-40159"
-                },
-                {
-                    "value": "Inventory",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-2005"
-                },
-                {
-                    "value": "Inventory Agent",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-1149"
-                },
-                {
-                    "value": "Inventory Management System",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-0422"
-                },
-                {
                     "value": "Inventory System",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2023-1179"
                 },
                 {
-                    "value": "Inventory manager",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-52221"
-                },
-                {
                     "value": "InventoryPress",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2023-2579"
-                },
-                {
-                    "value": "Inverter",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-0808"
                 },
                 {
                     "value": "Invitation Based Registrations",
@@ -31286,16 +30206,6 @@
                     "value": "Invitation Codes",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2021-24731"
-                },
-                {
-                    "value": "Invoice",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-38481"
-                },
-                {
-                    "value": "Invoices",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-3342"
                 },
                 {
                     "value": "Invoices for WordPress",
@@ -32051,11 +30961,6 @@
                     "value": "Jenkins ElasticBox CI Plugin",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2023-37964"
-                },
-                {
-                    "value": "Jenkins Email Extension Plugin",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-2232"
                 },
                 {
                     "value": "Jenkins Extra Columns Plugin",
@@ -34138,11 +33043,6 @@
                     "description": "CVE-2022-31482"
                 },
                 {
-                    "value": "LOGIN",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-47138"
-                },
-                {
                     "value": "LOGO! 230RCE",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2020-25236"
@@ -34283,11 +33183,6 @@
                     "description": "CVE-2024-23611"
                 },
                 {
-                    "value": "Labor",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-14612"
-                },
-                {
                     "value": "Labor Distribution",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2021-2267"
@@ -34316,11 +33211,6 @@
                     "value": "Lana Downloads Manager",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2022-2392"
-                },
-                {
-                    "value": "Lana Email Logger",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-3166"
                 },
                 {
                     "value": "Lana Shortcodes",
@@ -34386,11 +33276,6 @@
                     "value": "Lava Directory Manager",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2023-47659"
-                },
-                {
-                    "value": "Lawyer",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-3944"
                 },
                 {
                     "value": "Laya-AL00EP",
@@ -35961,631 +34846,6 @@
                     "value": "MELIPC Series MI5122-VW",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2021-20609"
-                },
-                {
-                    "value": "MELSEC L Series L02CPU",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-20609"
-                },
-                {
-                    "value": "MELSEC L Series L02CPU-P",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-20609"
-                },
-                {
-                    "value": "MELSEC L Series L06CPU",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-20609"
-                },
-                {
-                    "value": "MELSEC L Series L06CPU-P",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-20609"
-                },
-                {
-                    "value": "MELSEC L Series L26CPU",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-20609"
-                },
-                {
-                    "value": "MELSEC L Series L26CPU-BT",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-20609"
-                },
-                {
-                    "value": "MELSEC L Series L26CPU-P",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-20609"
-                },
-                {
-                    "value": "MELSEC L Series L26CPU-PBT",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-20609"
-                },
-                {
-                    "value": "MELSEC Q Series MR-MQ100",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-20609"
-                },
-                {
-                    "value": "MELSEC Q Series Q03UDECPU",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-20609"
-                },
-                {
-                    "value": "MELSEC Q Series Q03UDVCPU",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-20609"
-                },
-                {
-                    "value": "MELSEC Q Series Q04UDEHCPU",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-20609"
-                },
-                {
-                    "value": "MELSEC Q Series Q04UDPVCPU",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-20609"
-                },
-                {
-                    "value": "MELSEC Q Series Q04UDVCPU",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-20609"
-                },
-                {
-                    "value": "MELSEC Q Series Q06UDEHCPU",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-20609"
-                },
-                {
-                    "value": "MELSEC Q Series Q06UDPVCPU",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-20609"
-                },
-                {
-                    "value": "MELSEC Q Series Q06UDVCPU",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-20609"
-                },
-                {
-                    "value": "MELSEC Q Series Q100UDEHCPU",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-20609"
-                },
-                {
-                    "value": "MELSEC Q Series Q10UDEHCPU",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-20609"
-                },
-                {
-                    "value": "MELSEC Q Series Q12DCCPU-V",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-20609"
-                },
-                {
-                    "value": "MELSEC Q Series Q13UDEHCPU",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-20609"
-                },
-                {
-                    "value": "MELSEC Q Series Q13UDPVCPU",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-20609"
-                },
-                {
-                    "value": "MELSEC Q Series Q13UDVCPU",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-20609"
-                },
-                {
-                    "value": "MELSEC Q Series Q170MCPU",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-20609"
-                },
-                {
-                    "value": "MELSEC Q Series Q170MSCPU",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-20609"
-                },
-                {
-                    "value": "MELSEC Q Series Q170MSCPU-S1",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-20609"
-                },
-                {
-                    "value": "MELSEC Q Series Q172DCPU-S1",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-20609"
-                },
-                {
-                    "value": "MELSEC Q Series Q172DSCPU",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-20609"
-                },
-                {
-                    "value": "MELSEC Q Series Q173DCPU-S1",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-20609"
-                },
-                {
-                    "value": "MELSEC Q Series Q173DSCPU",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-20609"
-                },
-                {
-                    "value": "MELSEC Q Series Q20UDEHCPU",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-20609"
-                },
-                {
-                    "value": "MELSEC Q Series Q24DHCCPU-LS",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-20609"
-                },
-                {
-                    "value": "MELSEC Q Series Q24DHCCPU-V",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-20609"
-                },
-                {
-                    "value": "MELSEC Q Series Q24DHCCPU-VG",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-20609"
-                },
-                {
-                    "value": "MELSEC Q Series Q26DHCCPU-LS",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-20609"
-                },
-                {
-                    "value": "MELSEC Q Series Q26UDEHCPU",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-20609"
-                },
-                {
-                    "value": "MELSEC Q Series Q26UDPVCPU",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-20609"
-                },
-                {
-                    "value": "MELSEC Q Series Q26UDVCPU",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-20609"
-                },
-                {
-                    "value": "MELSEC Q Series Q50UDEHCPU",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-20609"
-                },
-                {
-                    "value": "MELSEC WS Series WS0-GETH00200",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-6374"
-                },
-                {
-                    "value": "MELSEC WinCPU Setting Utility",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-14496"
-                },
-                {
-                    "value": "MELSEC iQ-F Series FX5-ENET",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-0457"
-                },
-                {
-                    "value": "MELSEC iQ-F series FX5U CPU unit",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-5665"
-                },
-                {
-                    "value": "MELSEC iQ-L Series L04HCPU",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-33324"
-                },
-                {
-                    "value": "MELSEC iQ-L Series L08HCPU",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-33324"
-                },
-                {
-                    "value": "MELSEC iQ-L Series L16HCPU",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-33324"
-                },
-                {
-                    "value": "MELSEC iQ-L Series L32HCPU",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-33324"
-                },
-                {
-                    "value": "MELSEC iQ-R",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-5594"
-                },
-                {
-                    "value": "MELSEC iQ-R Series CPU Modules",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-5666"
-                },
-                {
-                    "value": "MELSEC iQ-R Series Motion Module",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-14523"
-                },
-                {
-                    "value": "MELSEC iQ-R Series R00CPU",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-20609"
-                },
-                {
-                    "value": "MELSEC iQ-R Series R01CPU",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-20609"
-                },
-                {
-                    "value": "MELSEC iQ-R Series R02CPU",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-20609"
-                },
-                {
-                    "value": "MELSEC iQ-R Series R04CPU",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-20609"
-                },
-                {
-                    "value": "MELSEC iQ-R Series R04ENCPU",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-20609"
-                },
-                {
-                    "value": "MELSEC iQ-R Series R08CPU",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-20609"
-                },
-                {
-                    "value": "MELSEC iQ-R Series R08ENCPU",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-20609"
-                },
-                {
-                    "value": "MELSEC iQ-R Series R08PCPU",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-20609"
-                },
-                {
-                    "value": "MELSEC iQ-R Series R08PSFCPU",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-20609"
-                },
-                {
-                    "value": "MELSEC iQ-R Series R08SFCPU",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-20609"
-                },
-                {
-                    "value": "MELSEC iQ-R Series R120CPU",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-20609"
-                },
-                {
-                    "value": "MELSEC iQ-R Series R120ENCPU",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-20609"
-                },
-                {
-                    "value": "MELSEC iQ-R Series R120PCPU",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-20609"
-                },
-                {
-                    "value": "MELSEC iQ-R Series R120PSFCPU",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-20609"
-                },
-                {
-                    "value": "MELSEC iQ-R Series R120SFCPU",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-20609"
-                },
-                {
-                    "value": "MELSEC iQ-R Series R12CCPU-V",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-20609"
-                },
-                {
-                    "value": "MELSEC iQ-R Series R16CPU",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-20609"
-                },
-                {
-                    "value": "MELSEC iQ-R Series R16ENCPU",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-20609"
-                },
-                {
-                    "value": "MELSEC iQ-R Series R16MTCPU",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-20609"
-                },
-                {
-                    "value": "MELSEC iQ-R Series R16PCPU",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-20609"
-                },
-                {
-                    "value": "MELSEC iQ-R Series R16PSFCPU",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-20609"
-                },
-                {
-                    "value": "MELSEC iQ-R Series R16SFCPU",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-20609"
-                },
-                {
-                    "value": "MELSEC iQ-R Series R32CPU",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-20609"
-                },
-                {
-                    "value": "MELSEC iQ-R Series R32ENCPU",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-20609"
-                },
-                {
-                    "value": "MELSEC iQ-R Series R32MTCPU",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-20609"
-                },
-                {
-                    "value": "MELSEC iQ-R Series R32PCPU",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-20609"
-                },
-                {
-                    "value": "MELSEC iQ-R Series R32PSFCPU",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-20609"
-                },
-                {
-                    "value": "MELSEC iQ-R Series R32SFCPU",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-20609"
-                },
-                {
-                    "value": "MELSEC iQ-R Series R64MTCPU",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-20609"
-                },
-                {
-                    "value": "MELSEC iQ-R Series RJ71EN71",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-40265"
-                },
-                {
-                    "value": "MELSEC iQ-R series",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-5655"
-                },
-                {
-                    "value": "MELSEC-F Series FX3GA-24MR-CM",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-2846"
-                },
-                {
-                    "value": "MELSEC-F Series FX3GA-24MT-CM",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-2846"
-                },
-                {
-                    "value": "MELSEC-F Series FX3GA-40MR-CM",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-2846"
-                },
-                {
-                    "value": "MELSEC-F Series FX3GA-40MT-CM",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-2846"
-                },
-                {
-                    "value": "MELSEC-F Series FX3GA-60MR-CM",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-2846"
-                },
-                {
-                    "value": "MELSEC-F Series FX3GA-60MT-CM",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-2846"
-                },
-                {
-                    "value": "MELSEC-F Series FX3SA-10MR-CM",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-2846"
-                },
-                {
-                    "value": "MELSEC-F Series FX3SA-10MT-CM",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-2846"
-                },
-                {
-                    "value": "MELSEC-F Series FX3SA-14MR-CM",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-2846"
-                },
-                {
-                    "value": "MELSEC-F Series FX3SA-14MT-CM",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-2846"
-                },
-                {
-                    "value": "MELSEC-F Series FX3SA-20MR-CM",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-2846"
-                },
-                {
-                    "value": "MELSEC-F Series FX3SA-20MT-CM",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-2846"
-                },
-                {
-                    "value": "MELSEC-F Series FX3SA-30MR-CM",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-2846"
-                },
-                {
-                    "value": "MELSEC-F Series FX3SA-30MT-CM",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-2846"
-                },
-                {
-                    "value": "MELSEC-F Series FX3UC-32MT-LT",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-2846"
-                },
-                {
-                    "value": "MELSEC-F Series FX3UC-32MT-LT-2",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-2846"
-                },
-                {
-                    "value": "MELSEC-L Series L02CPU",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-0802"
-                },
-                {
-                    "value": "MELSEC-L Series L02CPU-P",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-0802"
-                },
-                {
-                    "value": "MELSEC-L Series L06CPU",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-0802"
-                },
-                {
-                    "value": "MELSEC-L Series L06CPU-P",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-0802"
-                },
-                {
-                    "value": "MELSEC-L Series L26CPU",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-0802"
-                },
-                {
-                    "value": "MELSEC-L Series L26CPU-BT",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-0802"
-                },
-                {
-                    "value": "MELSEC-L Series L26CPU-P",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-0802"
-                },
-                {
-                    "value": "MELSEC-L Series L26CPU-PBT",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-0802"
-                },
-                {
-                    "value": "MELSEC-L Series LJ71E71-100",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-0457"
-                },
-                {
-                    "value": "MELSEC-Q Series Q03UDECPU",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-0802"
-                },
-                {
-                    "value": "MELSEC-Q Series Q03UDVCPU",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-0802"
-                },
-                {
-                    "value": "MELSEC-Q Series Q04UDEHCPU",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-0802"
-                },
-                {
-                    "value": "MELSEC-Q Series Q04UDPVCPU",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-0802"
-                },
-                {
-                    "value": "MELSEC-Q Series Q04UDVCPU",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-0802"
-                },
-                {
-                    "value": "MELSEC-Q Series Q06UDEHCPU",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-0802"
-                },
-                {
-                    "value": "MELSEC-Q Series Q06UDPVCPU",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-0802"
-                },
-                {
-                    "value": "MELSEC-Q Series Q06UDVCPU",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-0802"
-                },
-                {
-                    "value": "MELSEC-Q Series Q100UDEHCPU",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-0802"
-                },
-                {
-                    "value": "MELSEC-Q Series Q10UDEHCPU",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-0802"
-                },
-                {
-                    "value": "MELSEC-Q Series Q13UDEHCPU",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-0802"
-                },
-                {
-                    "value": "MELSEC-Q Series Q13UDPVCPU",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-0802"
-                },
-                {
-                    "value": "MELSEC-Q Series Q13UDVCPU",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-0802"
-                },
-                {
-                    "value": "MELSEC-Q Series Q20UDEHCPU",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-0802"
-                },
-                {
-                    "value": "MELSEC-Q Series Q26UDEHCPU",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-0802"
-                },
-                {
-                    "value": "MELSEC-Q Series Q26UDPVCPU",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-0802"
-                },
-                {
-                    "value": "MELSEC-Q Series Q26UDVCPU",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-0802"
-                },
-                {
-                    "value": "MELSEC-Q Series Q50UDEHCPU",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-0802"
-                },
-                {
-                    "value": "MELSEC-Q Series QJ71E71-100",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-0457"
                 },
                 {
                     "value": "MELSOFT Complete Clean Up Tool",
@@ -38958,11 +37218,6 @@
                     "description": "CVE-2021-26606"
                 },
                 {
-                    "value": "Mail Control – Email Customizer",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-3158"
-                },
-                {
                     "value": "Mail Queue",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2023-3167"
@@ -39021,11 +37276,6 @@
                     "value": "MailGun",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2023-3087"
-                },
-                {
-                    "value": "MailMunch – Grow your Email List",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-41852"
                 },
                 {
                     "value": "MailOptin",
@@ -39458,11 +37708,6 @@
                     "description": "CVE-2023-27430"
                 },
                 {
-                    "value": "Mass Email To users",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-47600"
-                },
-                {
                     "value": "MasterLab",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2023-7147"
@@ -39716,11 +37961,6 @@
                     "value": "McAfee Drive Encryption",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2021-31853"
-                },
-                {
-                    "value": "McAfee Email Gateway",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-7268"
                 },
                 {
                     "value": "McAfee Endpoint Security",
@@ -40126,11 +38366,6 @@
                     "value": "Mendeley Plugin",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2023-45073"
-                },
-                {
-                    "value": "Mendix Email Connector",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-45936"
                 },
                 {
                     "value": "Mendix Forgot Password",
@@ -41208,11 +39443,6 @@
                     "description": "CVE-2023-24401"
                 },
                 {
-                    "value": "Mobile Events Manager",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-25049"
-                },
-                {
                     "value": "Mobile Field Service",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2021-35570"
@@ -41326,11 +39556,6 @@
                     "value": "ModelSim Simulation",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2021-42023"
-                },
-                {
-                    "value": "Modern Events Calendar Lite",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-24147"
                 },
                 {
                     "value": "Modern Footnotes",
@@ -45953,11 +44178,6 @@
                     "description": "CVE-2022-0916"
                 },
                 {
-                    "value": "Options for Twenty Seventeen",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-5162"
-                },
-                {
                     "value": "Opto 22 SoftPAC Project",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2020-10620"
@@ -46438,19 +44658,9 @@
                     "description": "CVE-2023-3710"
                 },
                 {
-                    "value": "PDF",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-24636"
-                },
-                {
                     "value": "PDF Block",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2023-45646"
-                },
-                {
-                    "value": "PDF Editor",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-37378"
                 },
                 {
                     "value": "PDF Embedder",
@@ -46466,11 +44676,6 @@
                     "value": "PDF Generator for WordPress",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2022-4321"
-                },
-                {
-                    "value": "PDF Invoices",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-1773"
                 },
                 {
                     "value": "PDF Products for WooCommerce",
@@ -47246,11 +45451,6 @@
                     "value": "Panon",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2023-1765"
-                },
-                {
-                    "value": "Panorama",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-6201"
                 },
                 {
                     "value": "PapaParse",
@@ -49258,11 +47458,6 @@
                     "description": "CVE-2023-2009"
                 },
                 {
-                    "value": "Prevent L",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-48772"
-                },
-                {
                     "value": "Preview E-Mails for WooCommerce",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2021-42363"
@@ -50631,11 +48826,6 @@
                     "value": "Quick Contact Form",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2022-47608"
-                },
-                {
-                    "value": "Quick Event Manager",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-46863"
                 },
                 {
                     "value": "Quick Paypal Payments",
@@ -53723,16 +51913,6 @@
                     "description": "CVE-2021-2103"
                 },
                 {
-                    "value": "Replace",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-24676"
-                },
-                {
-                    "value": "Replace All",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-2311"
-                },
-                {
                     "value": "Replace Word",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2023-37973"
@@ -54433,11 +52613,6 @@
                     "description": "CVE-2022-2409"
                 },
                 {
-                    "value": "Roundcubemail",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-5631"
-                },
-                {
                     "value": "Route Optimization",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2024-2005"
@@ -54491,11 +52666,6 @@
                     "value": "Royal Elementor Kit",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2024-0835"
-                },
-                {
-                    "value": "Royale Event Management System",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-1102"
                 },
                 {
                     "value": "Rpage",
@@ -55346,926 +53516,6 @@
                     "value": "SCADAWebServer",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2023-3329"
-                },
-                {
-                    "value": "SCALANCE LPE9403",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-27408"
-                },
-                {
-                    "value": "SCALANCE M-800",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-25667"
-                },
-                {
-                    "value": "SCALANCE M804PB",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-28400"
-                },
-                {
-                    "value": "SCALANCE M812-1 ADSL-Router",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-28400"
-                },
-                {
-                    "value": "SCALANCE M816-1 ADSL-Router",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-28400"
-                },
-                {
-                    "value": "SCALANCE M826-2 SHDSL-Router",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-28400"
-                },
-                {
-                    "value": "SCALANCE M874-2",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-28400"
-                },
-                {
-                    "value": "SCALANCE M874-3",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-28400"
-                },
-                {
-                    "value": "SCALANCE M876-3",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-28400"
-                },
-                {
-                    "value": "SCALANCE M876-4",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-28400"
-                },
-                {
-                    "value": "SCALANCE MUM853-1",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-36324"
-                },
-                {
-                    "value": "SCALANCE MUM856-1",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-36324"
-                },
-                {
-                    "value": "SCALANCE S615",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-28400"
-                },
-                {
-                    "value": "SCALANCE S615 EEC",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-34821"
-                },
-                {
-                    "value": "SCALANCE SC-600",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-25676"
-                },
-                {
-                    "value": "SCALANCE SC-600 Family",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-25667"
-                },
-                {
-                    "value": "SCALANCE SC622-2C",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-36324"
-                },
-                {
-                    "value": "SCALANCE SC626-2C",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-36324"
-                },
-                {
-                    "value": "SCALANCE SC632-2C",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-36324"
-                },
-                {
-                    "value": "SCALANCE SC636-2C",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-36324"
-                },
-                {
-                    "value": "SCALANCE SC642-2C",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-36324"
-                },
-                {
-                    "value": "SCALANCE SC646-2C",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-36324"
-                },
-                {
-                    "value": "SCALANCE W1748-1 M12",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-28400"
-                },
-                {
-                    "value": "SCALANCE W1788-1 M12",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-28400"
-                },
-                {
-                    "value": "SCALANCE W1788-2 EEC M12",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-28400"
-                },
-                {
-                    "value": "SCALANCE W1788-2 M12",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-28400"
-                },
-                {
-                    "value": "SCALANCE W1788-2IA M12",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-28400"
-                },
-                {
-                    "value": "SCALANCE W721-1 RJ45",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-36324"
-                },
-                {
-                    "value": "SCALANCE W722-1 RJ45",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-36324"
-                },
-                {
-                    "value": "SCALANCE W734-1 RJ45",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-36324"
-                },
-                {
-                    "value": "SCALANCE W738-1 M12",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-36324"
-                },
-                {
-                    "value": "SCALANCE W748-1 M12",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-36324"
-                },
-                {
-                    "value": "SCALANCE W748-1 RJ45",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-36324"
-                },
-                {
-                    "value": "SCALANCE W761-1 RJ45",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-36324"
-                },
-                {
-                    "value": "SCALANCE W774-1 M12 EEC",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-36324"
-                },
-                {
-                    "value": "SCALANCE W774-1 RJ45",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-36324"
-                },
-                {
-                    "value": "SCALANCE W778-1 M12",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-36324"
-                },
-                {
-                    "value": "SCALANCE W778-1 M12 EEC",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-36324"
-                },
-                {
-                    "value": "SCALANCE W780",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-25666"
-                },
-                {
-                    "value": "SCALANCE W786-1 RJ45",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-36324"
-                },
-                {
-                    "value": "SCALANCE W786-2 RJ45",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-36324"
-                },
-                {
-                    "value": "SCALANCE W786-2 SFP",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-36324"
-                },
-                {
-                    "value": "SCALANCE W786-2IA RJ45",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-36324"
-                },
-                {
-                    "value": "SCALANCE W788-1 M12",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-36324"
-                },
-                {
-                    "value": "SCALANCE W788-1 RJ45",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-36324"
-                },
-                {
-                    "value": "SCALANCE W788-2 M12",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-36324"
-                },
-                {
-                    "value": "SCALANCE W788-2 M12 EEC",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-36324"
-                },
-                {
-                    "value": "SCALANCE W788-2 RJ45",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-36324"
-                },
-                {
-                    "value": "SCALANCE WAM763-1",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-36324"
-                },
-                {
-                    "value": "SCALANCE WAM766-1",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-36324"
-                },
-                {
-                    "value": "SCALANCE WAM766-1 EEC",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-36324"
-                },
-                {
-                    "value": "SCALANCE WUM763-1",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-36324"
-                },
-                {
-                    "value": "SCALANCE WUM766-1",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-36324"
-                },
-                {
-                    "value": "SCALANCE X-200 switch family",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-28391"
-                },
-                {
-                    "value": "SCALANCE X-200IRT switch family",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-28391"
-                },
-                {
-                    "value": "SCALANCE X-200RNA switch family",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-28395"
-                },
-                {
-                    "value": "SCALANCE X200-4P IRT",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-28400"
-                },
-                {
-                    "value": "SCALANCE X201-3P IRT",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-28400"
-                },
-                {
-                    "value": "SCALANCE X201-3P IRT PRO",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-28400"
-                },
-                {
-                    "value": "SCALANCE X202-2 IRT",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-25669"
-                },
-                {
-                    "value": "SCALANCE X202-2IRT",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-28400"
-                },
-                {
-                    "value": "SCALANCE X202-2P IRT",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-28400"
-                },
-                {
-                    "value": "SCALANCE X202-2P IRT PRO",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-28400"
-                },
-                {
-                    "value": "SCALANCE X204 IRT",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-25669"
-                },
-                {
-                    "value": "SCALANCE X204 IRT PRO",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-25669"
-                },
-                {
-                    "value": "SCALANCE X204-2",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-28400"
-                },
-                {
-                    "value": "SCALANCE X204-2FM",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-28400"
-                },
-                {
-                    "value": "SCALANCE X204-2LD",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-28400"
-                },
-                {
-                    "value": "SCALANCE X204-2LD TS",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-28400"
-                },
-                {
-                    "value": "SCALANCE X204-2TS",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-28400"
-                },
-                {
-                    "value": "SCALANCE X204IRT",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-28400"
-                },
-                {
-                    "value": "SCALANCE X204IRT PRO",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-28400"
-                },
-                {
-                    "value": "SCALANCE X204RNA",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-46353"
-                },
-                {
-                    "value": "SCALANCE X204RNA EEC",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-46353"
-                },
-                {
-                    "value": "SCALANCE X206-1",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-28400"
-                },
-                {
-                    "value": "SCALANCE X206-1LD",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-28400"
-                },
-                {
-                    "value": "SCALANCE X208",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-28400"
-                },
-                {
-                    "value": "SCALANCE X208PRO",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-28400"
-                },
-                {
-                    "value": "SCALANCE X212-2",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-28400"
-                },
-                {
-                    "value": "SCALANCE X212-2LD",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-28400"
-                },
-                {
-                    "value": "SCALANCE X216",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-28400"
-                },
-                {
-                    "value": "SCALANCE X224",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-28400"
-                },
-                {
-                    "value": "SCALANCE X302-7 EEC",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-28400"
-                },
-                {
-                    "value": "SCALANCE X302-7 EEC 230V",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-28400"
-                },
-                {
-                    "value": "SCALANCE X302-7 EEC 24V",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-28400"
-                },
-                {
-                    "value": "SCALANCE X302-7 EEC 2x 230V",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-28400"
-                },
-                {
-                    "value": "SCALANCE X302-7 EEC 2x 24V",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-28400"
-                },
-                {
-                    "value": "SCALANCE X304-2FE",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-28400"
-                },
-                {
-                    "value": "SCALANCE X306-1LD FE",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-28400"
-                },
-                {
-                    "value": "SCALANCE X307-2 EEC",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-28400"
-                },
-                {
-                    "value": "SCALANCE X307-2 EEC 230V",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-28400"
-                },
-                {
-                    "value": "SCALANCE X307-2 EEC 24V",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-28400"
-                },
-                {
-                    "value": "SCALANCE X307-2 EEC 2x 230V",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-28400"
-                },
-                {
-                    "value": "SCALANCE X307-2 EEC 2x 24V",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-28400"
-                },
-                {
-                    "value": "SCALANCE X307-3",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-28400"
-                },
-                {
-                    "value": "SCALANCE X307-3LD",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-28400"
-                },
-                {
-                    "value": "SCALANCE X308-2",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-28400"
-                },
-                {
-                    "value": "SCALANCE X308-2LD",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-28400"
-                },
-                {
-                    "value": "SCALANCE X308-2LH",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-28400"
-                },
-                {
-                    "value": "SCALANCE X308-2LH+",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-28400"
-                },
-                {
-                    "value": "SCALANCE X308-2M",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-28400"
-                },
-                {
-                    "value": "SCALANCE X308-2M PoE",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-28400"
-                },
-                {
-                    "value": "SCALANCE X308-2M TS",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-28400"
-                },
-                {
-                    "value": "SCALANCE X310",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-28400"
-                },
-                {
-                    "value": "SCALANCE X310FE",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-28400"
-                },
-                {
-                    "value": "SCALANCE X320-1 FE",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-28400"
-                },
-                {
-                    "value": "SCALANCE X320-1-2LD FE",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-28400"
-                },
-                {
-                    "value": "SCALANCE X408-2",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-28400"
-                },
-                {
-                    "value": "SCALANCE XB-200",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-28400"
-                },
-                {
-                    "value": "SCALANCE XB205-3 SC",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-36324"
-                },
-                {
-                    "value": "SCALANCE XB205-3 ST",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-36324"
-                },
-                {
-                    "value": "SCALANCE XB205-3LD SC",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-36324"
-                },
-                {
-                    "value": "SCALANCE XB208",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-36324"
-                },
-                {
-                    "value": "SCALANCE XB213-3 SC",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-36324"
-                },
-                {
-                    "value": "SCALANCE XB213-3 ST",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-36324"
-                },
-                {
-                    "value": "SCALANCE XB213-3LD SC",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-36324"
-                },
-                {
-                    "value": "SCALANCE XB216",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-36324"
-                },
-                {
-                    "value": "SCALANCE XC-200",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-28400"
-                },
-                {
-                    "value": "SCALANCE XC206-2",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-36324"
-                },
-                {
-                    "value": "SCALANCE XC206-2G PoE",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-36324"
-                },
-                {
-                    "value": "SCALANCE XC206-2G PoE EEC",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-36324"
-                },
-                {
-                    "value": "SCALANCE XC206-2SFP",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-36324"
-                },
-                {
-                    "value": "SCALANCE XC206-2SFP EEC",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-36324"
-                },
-                {
-                    "value": "SCALANCE XC206-2SFP G",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-36324"
-                },
-                {
-                    "value": "SCALANCE XC206-2SFP G EEC",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-36324"
-                },
-                {
-                    "value": "SCALANCE XC208",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-36324"
-                },
-                {
-                    "value": "SCALANCE XC208EEC",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-36324"
-                },
-                {
-                    "value": "SCALANCE XC208G",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-36324"
-                },
-                {
-                    "value": "SCALANCE XC208G EEC",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-36324"
-                },
-                {
-                    "value": "SCALANCE XC208G PoE",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-36324"
-                },
-                {
-                    "value": "SCALANCE XC216",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-36324"
-                },
-                {
-                    "value": "SCALANCE XC216-3G PoE",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-36324"
-                },
-                {
-                    "value": "SCALANCE XC216-4C",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-36324"
-                },
-                {
-                    "value": "SCALANCE XC216-4C G",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-36324"
-                },
-                {
-                    "value": "SCALANCE XC216-4C G EEC",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-36324"
-                },
-                {
-                    "value": "SCALANCE XC216EEC",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-36324"
-                },
-                {
-                    "value": "SCALANCE XC224",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-36324"
-                },
-                {
-                    "value": "SCALANCE XC224-4C G",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-36324"
-                },
-                {
-                    "value": "SCALANCE XC224-4C G EEC",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-36324"
-                },
-                {
-                    "value": "SCALANCE XF-200BA",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-28400"
-                },
-                {
-                    "value": "SCALANCE XF201-3P IRT",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-28400"
-                },
-                {
-                    "value": "SCALANCE XF202-2P IRT",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-28400"
-                },
-                {
-                    "value": "SCALANCE XF204",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-28400"
-                },
-                {
-                    "value": "SCALANCE XF204 DNA",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-36324"
-                },
-                {
-                    "value": "SCALANCE XF204 IRT",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-25669"
-                },
-                {
-                    "value": "SCALANCE XF204-2",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-28400"
-                },
-                {
-                    "value": "SCALANCE XF204-2BA",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-36324"
-                },
-                {
-                    "value": "SCALANCE XF204-2BA DNA",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-36324"
-                },
-                {
-                    "value": "SCALANCE XF204-2BA IRT",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-28400"
-                },
-                {
-                    "value": "SCALANCE XF204IRT",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-28400"
-                },
-                {
-                    "value": "SCALANCE XF206-1",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-28400"
-                },
-                {
-                    "value": "SCALANCE XF208",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-28400"
-                },
-                {
-                    "value": "SCALANCE XM-400",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-28393"
-                },
-                {
-                    "value": "SCALANCE XM400",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-28400"
-                },
-                {
-                    "value": "SCALANCE XM408-4C",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-37182"
-                },
-                {
-                    "value": "SCALANCE XM408-8C",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-37182"
-                },
-                {
-                    "value": "SCALANCE XM416-4C",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-37182"
-                },
-                {
-                    "value": "SCALANCE XP-200",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-28400"
-                },
-                {
-                    "value": "SCALANCE XP208",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-36324"
-                },
-                {
-                    "value": "SCALANCE XP208EEC",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-36324"
-                },
-                {
-                    "value": "SCALANCE XP208PoE EEC",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-36324"
-                },
-                {
-                    "value": "SCALANCE XP216",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-36324"
-                },
-                {
-                    "value": "SCALANCE XP216EEC",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-36324"
-                },
-                {
-                    "value": "SCALANCE XP216POE EEC",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-36324"
-                },
-                {
-                    "value": "SCALANCE XR-300WG",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-25667"
-                },
-                {
-                    "value": "SCALANCE XR324-12M 230V",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-28400"
-                },
-                {
-                    "value": "SCALANCE XR324-12M 24V",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-28400"
-                },
-                {
-                    "value": "SCALANCE XR324-12M TS",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-28400"
-                },
-                {
-                    "value": "SCALANCE XR324-4M EEC 24V",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-28400"
-                },
-                {
-                    "value": "SCALANCE XR324-4M EEC 2x 24V",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-28400"
-                },
-                {
-                    "value": "SCALANCE XR324-4M PoE 230V",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-28400"
-                },
-                {
-                    "value": "SCALANCE XR324-4M PoE 24V",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-28400"
-                },
-                {
-                    "value": "SCALANCE XR324-4M PoE TS 24V",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-28400"
-                },
-                {
-                    "value": "SCALANCE XR324WG 24 X FE",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-36324"
-                },
-                {
-                    "value": "SCALANCE XR326-2C PoE WG",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-36324"
-                },
-                {
-                    "value": "SCALANCE XR328-4C WG 24XFE",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-36324"
-                },
-                {
-                    "value": "SCALANCE XR328-4C WG 28xGE",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-36324"
-                },
-                {
-                    "value": "SCALANCE XR500",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-28400"
-                },
-                {
-                    "value": "SCALANCE XR524-8C",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-37182"
-                },
-                {
-                    "value": "SCALANCE XR526-8C",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-37182"
-                },
-                {
-                    "value": "SCALANCE XR528-6M",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-37182"
-                },
-                {
-                    "value": "SCALANCE XR528-6M 2HR2",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-37182"
-                },
-                {
-                    "value": "SCALANCE XR552-12M",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-37182"
-                },
-                {
-                    "value": "SCALANCE XR552-12M 2HR2",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-37182"
                 },
                 {
                     "value": "SCIMono",
@@ -58143,36 +55393,6 @@
                     "description": "CVE-2021-33737"
                 },
                 {
-                    "value": "SIPLUS NET SCALANCE X202-2P IRT",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-40631"
-                },
-                {
-                    "value": "SIPLUS NET SCALANCE X308-2",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-28400"
-                },
-                {
-                    "value": "SIPLUS NET SCALANCE XC206-2",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-36324"
-                },
-                {
-                    "value": "SIPLUS NET SCALANCE XC206-2SFP",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-36324"
-                },
-                {
-                    "value": "SIPLUS NET SCALANCE XC208",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-36324"
-                },
-                {
-                    "value": "SIPLUS NET SCALANCE XC216-4C",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-36324"
-                },
-                {
                     "value": "SIPLUS NET variants",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2020-28395"
@@ -58731,11 +55951,6 @@
                     "value": "SMTP Mailing Queue",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2023-1090"
-                },
-                {
-                    "value": "SMTP2GO – Email Made Easy",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-28496"
                 },
                 {
                     "value": "SNAP PAC S1",
@@ -59321,11 +56536,6 @@
                     "value": "Samsung Data Store",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2024-20851"
-                },
-                {
-                    "value": "Samsung Email",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-25375"
                 },
                 {
                     "value": "Samsung Experience Service",
@@ -60098,11 +57308,6 @@
                     "description": "CVE-2022-32752"
                 },
                 {
-                    "value": "Security Event Manager",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-0692"
-                },
-                {
                     "value": "Security Gateway",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2021-25692"
@@ -60291,11 +57496,6 @@
                     "value": "Send PDF for Contact Form 7",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2023-0143"
-                },
-                {
-                    "value": "Send Users Email",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-52126"
                 },
                 {
                     "value": "SendGrid",
@@ -60596,16 +57796,6 @@
                     "value": "ServiceNow Records",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2023-1209"
-                },
-                {
-                    "value": "Services",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-1485"
-                },
-                {
-                    "value": "Services System",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-2412"
                 },
                 {
                     "value": "Servo Press Kit YJKP",
@@ -61143,11 +58333,6 @@
                     "description": "CVE-2022-41612"
                 },
                 {
-                    "value": "Simple",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-2814"
-                },
-                {
                     "value": "Simple Ajax Chat",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2024-1983"
@@ -61241,16 +58426,6 @@
                     "value": "Simple E-Learning System",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2022-2665"
-                },
-                {
-                    "value": "Simple Event Planner",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-25611"
-                },
-                {
-                    "value": "Simple Events Calendar",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-24552"
                 },
                 {
                     "value": "Simple FAQ",
@@ -62153,11 +59328,6 @@
                     "description": "CVE-2024-1995"
                 },
                 {
-                    "value": "Smart Email Alerts",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-34642"
-                },
-                {
                     "value": "Smart Fabric Storage Software",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2022-31232"
@@ -62873,11 +60043,6 @@
                     "description": "CVE-2021-20032"
                 },
                 {
-                    "value": "SonicWall Email Security",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-2324"
-                },
-                {
                     "value": "SonicWall GMS",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2021-20030"
@@ -62926,16 +60091,6 @@
                     "value": "Sophos Connect Client",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2021-25265"
-                },
-                {
-                    "value": "Sophos Email Appliance",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-36806"
-                },
-                {
-                    "value": "Sophos Exploit Prevention",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-25269"
                 },
                 {
                     "value": "Sophos Firewall",
@@ -63046,11 +60201,6 @@
                     "value": "Sparkling",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2020-36708"
-                },
-                {
-                    "value": "SpeakOut! Email Petitions",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-0846"
                 },
                 {
                     "value": "Special Text Boxes",
@@ -65993,11 +63143,6 @@
                     "description": "CVE-2023-44264"
                 },
                 {
-                    "value": "The Events Calendar",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-6557"
-                },
-                {
                     "value": "The Launcher",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2021-24867"
@@ -66121,11 +63266,6 @@
                     "value": "Themify Builder",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2024-24872"
-                },
-                {
-                    "value": "Themify Event Post",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-30440"
                 },
                 {
                     "value": "Themify Icons",
@@ -66458,11 +63598,6 @@
                     "description": "CVE-2023-3544"
                 },
                 {
-                    "value": "TimeMail",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-0344"
-                },
-                {
                     "value": "Timed Content",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2023-0067"
@@ -66566,11 +63701,6 @@
                     "value": "Title Experiments Free",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2022-0784"
-                },
-                {
-                    "value": "Tiva Events Calender",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-3787"
                 },
                 {
                     "value": "Tivoli Business Service Manager",
@@ -67233,11 +64363,6 @@
                     "description": "CVE-2023-30781"
                 },
                 {
-                    "value": "Twig",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-23614"
-                },
-                {
                     "value": "TwinCAT OPC UA Server",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2020-12526"
@@ -67291,11 +64416,6 @@
                     "value": "Typecho",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2023-6615"
-                },
-                {
-                    "value": "Types",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-27440"
                 },
                 {
                     "value": "Typha",
@@ -68218,19 +65338,9 @@
                     "description": "CVE-2023-0094"
                 },
                 {
-                    "value": "Upcoming Event",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-47525"
-                },
-                {
                     "value": "Update Image Tag Alt Attribute",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2023-27455"
-                },
-                {
-                    "value": "Update Server",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-0677"
                 },
                 {
                     "value": "Update Theme",
@@ -69628,11 +66738,6 @@
                     "description": "CVE-2022-28789"
                 },
                 {
-                    "value": "Voltage SecureMail Mail Relay.",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-38130"
-                },
-                {
                     "value": "Voluson S8",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2020-36549"
@@ -70518,11 +67623,6 @@
                     "description": "CVE-2022-1967"
                 },
                 {
-                    "value": "WP Change Email Sender",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-29815"
-                },
-                {
                     "value": "WP Chat App",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2024-1761"
@@ -70753,16 +67853,6 @@
                     "description": "CVE-2023-0498"
                 },
                 {
-                    "value": "WP Email Capture",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-23724"
-                },
-                {
-                    "value": "WP Email Users",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-24959"
-                },
-                {
                     "value": "WP Emoji One",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2023-37991"
@@ -70781,11 +67871,6 @@
                     "value": "WP Extra File Types",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2021-24936"
-                },
-                {
-                    "value": "WP FEvents Book",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-1129"
                 },
                 {
                     "value": "WP Fast Total Search",
@@ -71348,11 +68433,6 @@
                     "description": "CVE-2023-26534"
                 },
                 {
-                    "value": "WP Reroute Email",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-27606"
-                },
-                {
                     "value": "WP Reset PRO",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2021-36909"
@@ -71461,11 +68541,6 @@
                     "value": "WP Simple Booking Calendar",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2021-24726"
-                },
-                {
-                    "value": "WP Simple Events",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-24376"
                 },
                 {
                     "value": "WP Simple Galleries",
@@ -71843,11 +68918,6 @@
                     "description": "CVE-2021-44760"
                 },
                 {
-                    "value": "WP-EMail",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-1614"
-                },
-                {
                     "value": "WP-Eggdrop",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2024-2968"
@@ -72026,11 +69096,6 @@
                     "value": "WPForms Pro",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2022-3574"
-                },
-                {
-                    "value": "WPFrom Email",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-23982"
                 },
                 {
                     "value": "WPFront Notification Bar",
@@ -74163,11 +71228,6 @@
                     "description": "CVE-2023-47687"
                 },
                 {
-                    "value": "Woo Custom Emails",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-45004"
-                },
-                {
                     "value": "Woo Subscriptions",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2023-35914"
@@ -74246,11 +71306,6 @@
                     "value": "WooCommerce Etsy Integration",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2021-4409"
-                },
-                {
-                    "value": "WooCommerce Follow-Up Emails",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-33319"
                 },
                 {
                     "value": "WooCommerce Google Feed Manager",
@@ -74403,11 +71458,6 @@
                     "description": "CVE-2023-44260"
                 },
                 {
-                    "value": "Woocommerce Email Report",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-27627"
-                },
-                {
                     "value": "Woocommerce Products Designer",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2022-46856"
@@ -74526,11 +71576,6 @@
                     "value": "WordPress Download Manager",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2021-34638"
-                },
-                {
-                    "value": "WordPress Events Calendar Plugin",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-4320"
                 },
                 {
                     "value": "WordPress Exit Intent Popup",

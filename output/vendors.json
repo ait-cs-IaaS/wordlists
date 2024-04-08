@@ -3,7 +3,7 @@
     "data": [
         {
             "name": "CVE_VENDORS",
-            "description": "Vendors Exported from CVEList 2024-04-03T20:38:14.900336",
+            "description": "Vendors Exported from CVEList 2024-04-08T20:28:45.468765",
             "usage": 4,
             "link": "https://raw.githubusercontent.com/ait-cs-IaaS/wordlists/master/output/vendors.json",
             "entries": [
@@ -2373,11 +2373,6 @@
                     "description": "CVE-2023-3834"
                 },
                 {
-                    "value": "Bug Library",
-                    "category": "CVE_VENDOR",
-                    "description": "CVE-2021-38355"
-                },
-                {
                     "value": "Builderall Team",
                     "category": "CVE_VENDOR",
                     "description": "CVE-2024-30532"
@@ -2386,11 +2381,6 @@
                     "value": "Buildfail",
                     "category": "CVE_VENDOR",
                     "description": "CVE-2023-41244"
-                },
-                {
-                    "value": "Buildroot",
-                    "category": "CVE_VENDOR",
-                    "description": "CVE-2023-43608"
                 },
                 {
                     "value": "Bulletin",
@@ -3438,11 +3428,6 @@
                     "description": "CVE-2023-24410"
                 },
                 {
-                    "value": "Contact Form Email",
-                    "category": "CVE_VENDOR",
-                    "description": "CVE-2021-42361"
-                },
-                {
                     "value": "Contact Form With Captcha",
                     "category": "CVE_VENDOR",
                     "description": "CVE-2021-42358"
@@ -3461,11 +3446,6 @@
                     "value": "Contempoinc",
                     "category": "CVE_VENDOR",
                     "description": "CVE-2021-24387"
-                },
-                {
-                    "value": "Content Staging",
-                    "category": "CVE_VENDOR",
-                    "description": "CVE-2021-39356"
                 },
                 {
                     "value": "Contest Gallery",
@@ -3871,11 +3851,6 @@
                     "value": "DIYgod",
                     "category": "CVE_VENDOR",
                     "description": "CVE-2021-21278"
-                },
-                {
-                    "value": "DJ EmailPublish",
-                    "category": "CVE_VENDOR",
-                    "description": "CVE-2021-38329"
                 },
                 {
                     "value": "DJI",
@@ -4558,11 +4533,6 @@
                     "description": "CVE-2022-4768"
                 },
                 {
-                    "value": "Dropdown",
-                    "category": "CVE_VENDOR",
-                    "description": "CVE-2021-38353"
-                },
-                {
                     "value": "Drupal",
                     "category": "CVE_VENDOR",
                     "description": "CVE-2020-13671"
@@ -4928,11 +4898,6 @@
                     "description": "CVE-2020-7017"
                 },
                 {
-                    "value": "Elastic Email Sender",
-                    "category": "CVE_VENDOR",
-                    "description": "CVE-2023-38387"
-                },
-                {
                     "value": "Elcomplus",
                     "category": "CVE_VENDOR",
                     "description": "CVE-2021-43934"
@@ -4986,11 +4951,6 @@
                     "value": "Elsight",
                     "category": "CVE_VENDOR",
                     "description": "CVE-2022-36784"
-                },
-                {
-                    "value": "Embed Swagger",
-                    "category": "CVE_VENDOR",
-                    "description": "CVE-2022-0381"
                 },
                 {
                     "value": "EmbySupport",
@@ -5178,21 +5138,6 @@
                     "description": "CVE-2022-4513"
                 },
                 {
-                    "value": "EventON",
-                    "category": "CVE_VENDOR",
-                    "description": "CVE-2023-6244"
-                },
-                {
-                    "value": "EventPrime",
-                    "category": "CVE_VENDOR",
-                    "description": "CVE-2023-45637"
-                },
-                {
-                    "value": "EventStore",
-                    "category": "CVE_VENDOR",
-                    "description": "CVE-2024-26133"
-                },
-                {
                     "value": "EverPress",
                     "category": "CVE_VENDOR",
                     "description": "CVE-2024-30503"
@@ -5221,11 +5166,6 @@
                     "value": "Evgen Yurchenko",
                     "category": "CVE_VENDOR",
                     "description": "CVE-2023-27438"
-                },
-                {
-                    "value": "Evolution Events",
-                    "category": "CVE_VENDOR",
-                    "description": "CVE-2022-4869"
                 },
                 {
                     "value": "ExactMetrics",
@@ -5601,11 +5541,6 @@
                     "value": "Fieldcomm Group",
                     "category": "CVE_VENDOR",
                     "description": "CVE-2020-16209"
-                },
-                {
-                    "value": "File Manager",
-                    "category": "CVE_VENDOR",
-                    "description": "CVE-2023-6846"
                 },
                 {
                     "value": "Filseclab",
@@ -12378,11 +12313,6 @@
                     "description": "CVE-2021-4432"
                 },
                 {
-                    "value": "PDF",
-                    "category": "CVE_VENDOR",
-                    "description": "CVE-2023-25032"
-                },
-                {
                     "value": "PDF Embedder",
                     "category": "CVE_VENDOR",
                     "description": "CVE-2024-29141"
@@ -15326,11 +15256,6 @@
                     "value": "Simon Ward",
                     "category": "CVE_VENDOR",
                     "description": "CVE-2022-36373"
-                },
-                {
-                    "value": "Simple",
-                    "category": "CVE_VENDOR",
-                    "description": "CVE-2023-49179"
                 },
                 {
                     "value": "Simple Behance Portfolio",
@@ -18391,11 +18316,6 @@
                     "value": "WP Enhanced",
                     "category": "CVE_VENDOR",
                     "description": "CVE-2024-27969"
-                },
-                {
-                    "value": "WP Event Manager",
-                    "category": "CVE_VENDOR",
-                    "description": "CVE-2023-49181"
                 },
                 {
                     "value": "WP For The Win",
