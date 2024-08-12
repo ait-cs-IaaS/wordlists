@@ -548,6 +548,11 @@
                     "description": "China APT"
                 },
                 {
+                    "value": "Sharp Dragon (CHKPT)",
+                    "category": "APT",
+                    "description": "China APT"
+                },
+                {
                     "value": "Shell Crew",
                     "category": "APT",
                     "description": "China APT"
@@ -1209,6 +1214,11 @@
                 },
                 {
                     "value": "Unit 8200",
+                    "category": "APT",
+                    "description": "Israel APT"
+                },
+                {
+                    "value": "WeRedEvils",
                     "category": "APT",
                     "description": "Israel APT"
                 },
