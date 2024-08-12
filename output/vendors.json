@@ -3,7 +3,7 @@
     "data": [
         {
             "name": "CVE_VENDORS",
-            "description": "Vendors Exported from CVEList 2024-08-12T16:49:07.441823",
+            "description": "Vendors Exported from CVEList 2024-08-12T16:57:55.916958",
             "usage": 4,
             "link": "https://raw.githubusercontent.com/ait-cs-IaaS/wordlists/master/output/vendors.json",
             "entries": [
@@ -11468,16 +11468,6 @@
                     "description": "CVE-2023-49166"
                 },
                 {
-                    "value": "Magic Post Thumbnail",
-                    "category": "CVE_VENDOR",
-                    "description": "CVE-2023-29171"
-                },
-                {
-                    "value": "Magic Post Voice",
-                    "category": "CVE_VENDOR",
-                    "description": "CVE-2021-39315"
-                },
-                {
                     "value": "Magnet Forensics",
                     "category": "CVE_VENDOR",
                     "description": "CVE-2023-42128"
@@ -15316,21 +15306,6 @@
                     "value": "Positron S.R.L",
                     "category": "CVE_VENDOR",
                     "description": "CVE-2024-7007"
-                },
-                {
-                    "value": "Post Grid Team by WPXPO",
-                    "category": "CVE_VENDOR",
-                    "description": "CVE-2024-31246"
-                },
-                {
-                    "value": "Post SMTP",
-                    "category": "CVE_VENDOR",
-                    "description": "CVE-2024-29128"
-                },
-                {
-                    "value": "Post Title Counter",
-                    "category": "CVE_VENDOR",
-                    "description": "CVE-2021-38326"
                 },
                 {
                     "value": "PostHog",
@@ -19498,21 +19473,6 @@
                     "description": "CVE-2024-2758"
                 },
                 {
-                    "value": "TemplateInvaders",
-                    "category": "CVE_VENDOR",
-                    "description": "CVE-2022-0412"
-                },
-                {
-                    "value": "Templatecookie",
-                    "category": "CVE_VENDOR",
-                    "description": "CVE-2023-4168"
-                },
-                {
-                    "value": "TemplatesNext",
-                    "category": "CVE_VENDOR",
-                    "description": "CVE-2024-35753"
-                },
-                {
                     "value": "Temporal OSS",
                     "category": "CVE_VENDOR",
                     "description": "CVE-2024-2435"
@@ -22701,11 +22661,6 @@
                     "value": "WpSimpleTools",
                     "category": "CVE_VENDOR",
                     "description": "CVE-2024-24935"
-                },
-                {
-                    "value": "Wpazure Themes",
-                    "category": "CVE_VENDOR",
-                    "description": "CVE-2023-24009"
                 },
                 {
                     "value": "Wpmet",

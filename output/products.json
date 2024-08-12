@@ -3,7 +3,7 @@
     "data": [
         {
             "name": "CVE_PRODUCTS",
-            "description": "Products Exported from CVEList 2024-08-12T16:49:07.441831",
+            "description": "Products Exported from CVEList 2024-08-12T16:57:55.916966",
             "usage": 4,
             "link": "https://raw.githubusercontent.com/ait-cs-IaaS/wordlists/master/output/products.json",
             "entries": [
@@ -6383,431 +6383,6 @@
                     "description": "CVE-2020-12142"
                 },
                 {
-                    "value": "Azure AI Search",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-29063"
-                },
-                {
-                    "value": "Azure ARC",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-38007"
-                },
-                {
-                    "value": "Azure Active Directory",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-42306"
-                },
-                {
-                    "value": "Azure App Service",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-36052"
-                },
-                {
-                    "value": "Azure Arc Extension",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-28917"
-                },
-                {
-                    "value": "Azure Arc Jumpstart",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-35798"
-                },
-                {
-                    "value": "Azure Arc-Enabled Servers",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-38176"
-                },
-                {
-                    "value": "Azure Automation",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-42306"
-                },
-                {
-                    "value": "Azure Batch",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-33646"
-                },
-                {
-                    "value": "Azure Connected Machine Agent",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-21329"
-                },
-                {
-                    "value": "Azure CycleCloud 7",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-41085"
-                },
-                {
-                    "value": "Azure CycleCloud 7.9.0",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-38092"
-                },
-                {
-                    "value": "Azure CycleCloud 7.9.1",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-38092"
-                },
-                {
-                    "value": "Azure CycleCloud 7.9.10",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-33762"
-                },
-                {
-                    "value": "Azure CycleCloud 7.9.11",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-38092"
-                },
-                {
-                    "value": "Azure CycleCloud 7.9.2",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-38092"
-                },
-                {
-                    "value": "Azure CycleCloud 7.9.3",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-38092"
-                },
-                {
-                    "value": "Azure CycleCloud 7.9.4",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-38092"
-                },
-                {
-                    "value": "Azure CycleCloud 7.9.6",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-38092"
-                },
-                {
-                    "value": "Azure CycleCloud 7.9.7",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-38092"
-                },
-                {
-                    "value": "Azure CycleCloud 7.9.8",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-38092"
-                },
-                {
-                    "value": "Azure CycleCloud 7.9.9",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-38092"
-                },
-                {
-                    "value": "Azure CycleCloud 8",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-41085"
-                },
-                {
-                    "value": "Azure CycleCloud 8.0.0",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-38092"
-                },
-                {
-                    "value": "Azure CycleCloud 8.0.1",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-38092"
-                },
-                {
-                    "value": "Azure CycleCloud 8.0.2",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-38092"
-                },
-                {
-                    "value": "Azure CycleCloud 8.1.0",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-38092"
-                },
-                {
-                    "value": "Azure CycleCloud 8.1.1",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-38092"
-                },
-                {
-                    "value": "Azure CycleCloud 8.2.0",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-33762"
-                },
-                {
-                    "value": "Azure CycleCloud 8.2.1",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-38092"
-                },
-                {
-                    "value": "Azure CycleCloud 8.2.2",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-38092"
-                },
-                {
-                    "value": "Azure CycleCloud 8.3.0",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-38092"
-                },
-                {
-                    "value": "Azure CycleCloud 8.4.0",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-38092"
-                },
-                {
-                    "value": "Azure CycleCloud 8.4.1",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-38092"
-                },
-                {
-                    "value": "Azure CycleCloud 8.4.2",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-38092"
-                },
-                {
-                    "value": "Azure CycleCloud 8.5.0",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-38092"
-                },
-                {
-                    "value": "Azure CycleCloud 8.6.0",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-29993"
-                },
-                {
-                    "value": "Azure Data Box Gateway",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-21703"
-                },
-                {
-                    "value": "Azure Data Explorer",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-23256"
-                },
-                {
-                    "value": "Azure Data Studio",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-26203"
-                },
-                {
-                    "value": "Azure DevOps Server",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-1327"
-                },
-                {
-                    "value": "Azure Diagnostics",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-29149"
-                },
-                {
-                    "value": "Azure EFLOW",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-38014"
-                },
-                {
-                    "value": "Azure File Sync",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-21397"
-                },
-                {
-                    "value": "Azure Function App",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-36052"
-                },
-                {
-                    "value": "Azure Functions",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-16904"
-                },
-                {
-                    "value": "Azure Guest Configuration",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-38007"
-                },
-                {
-                    "value": "Azure HDInsight",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-21330"
-                },
-                {
-                    "value": "Azure Identity Library",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-35255"
-                },
-                {
-                    "value": "Azure Identity Library for .NET",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-29992"
-                },
-                {
-                    "value": "Azure Identity Library for C++",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-35255"
-                },
-                {
-                    "value": "Azure Identity Library for Java",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-35255"
-                },
-                {
-                    "value": "Azure Identity SDK for .NET",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-36415"
-                },
-                {
-                    "value": "Azure Identity SDK for Java",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-36415"
-                },
-                {
-                    "value": "Azure Identity SDK for Python",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-36415"
-                },
-                {
-                    "value": "Azure Kinect SDK",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-38086"
-                },
-                {
-                    "value": "Azure Kubernetes Service",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-27075"
-                },
-                {
-                    "value": "Azure Logic App",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-36052"
-                },
-                {
-                    "value": "Azure Logic Apps",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-36019"
-                },
-                {
-                    "value": "Azure Machine Learning",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-23382"
-                },
-                {
-                    "value": "Azure Migrate",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-42306"
-                },
-                {
-                    "value": "Azure Monitor",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-29989"
-                },
-                {
-                    "value": "Azure Pipelines Agent",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-36437"
-                },
-                {
-                    "value": "Azure Private 5G Core",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-20685"
-                },
-                {
-                    "value": "Azure RTOS GUIX Studio",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-41051"
-                },
-                {
-                    "value": "Azure Real Time Operating System",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-30178"
-                },
-                {
-                    "value": "Azure SDK",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-21421"
-                },
-                {
-                    "value": "Azure SDK for .Net",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-26907"
-                },
-                {
-                    "value": "Azure SDK for Java",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-16971"
-                },
-                {
-                    "value": "Azure Security Center",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-29149"
-                },
-                {
-                    "value": "Azure Sentinel",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-29149"
-                },
-                {
-                    "value": "Azure Service Connector",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-28300"
-                },
-                {
-                    "value": "Azure Service Fabric",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-27075"
-                },
-                {
-                    "value": "Azure Service Fabric 8.2",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-21531"
-                },
-                {
-                    "value": "Azure Service Fabric 9.1",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-21531"
-                },
-                {
-                    "value": "Azure Service Fabric Explorer",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-35829"
-                },
-                {
-                    "value": "Azure Site Recovery",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-42306"
-                },
-                {
-                    "value": "Azure Sphere",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-35821"
-                },
-                {
-                    "value": "Azure Spring Cloud",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-27075"
-                },
-                {
-                    "value": "Azure Stack Edge",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-37968"
-                },
-                {
-                    "value": "Azure Stack Hub",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-29149"
-                },
-                {
-                    "value": "Azure StorSimple 8000 Series",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-38017"
-                },
-                {
-                    "value": "Azure Storage",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-35252"
-                },
-                {
-                    "value": "Azure Storage Explorer",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-1416"
-                },
-                {
-                    "value": "Azure Storage Mover",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-20676"
-                },
-                {
                     "value": "B&R APROL",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2022-43762"
@@ -8313,11 +7888,6 @@
                     "description": "CVE-2024-2392"
                 },
                 {
-                    "value": "Blog Design Template",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-5291"
-                },
-                {
                     "value": "Blog Designer",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2022-4793"
@@ -8326,31 +7896,6 @@
                     "value": "Blog Floating Button",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2023-27445"
-                },
-                {
-                    "value": "Blog Post Builder",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-4331"
-                },
-                {
-                    "value": "Blog Post Carousel",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-5815"
-                },
-                {
-                    "value": "Blog Post Masonry",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-5815"
-                },
-                {
-                    "value": "Blog Post Slider",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-5815"
-                },
-                {
-                    "value": "Blog Post Ticker",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-5815"
                 },
                 {
                     "value": "Blog-in-Blog",
@@ -8993,11 +8538,6 @@
                     "description": "CVE-2021-24842"
                 },
                 {
-                    "value": "Bulk Edit Post Titles",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-0369"
-                },
-                {
                     "value": "Bulk Posts Editing For WordPress",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2024-4204"
@@ -9251,11 +8791,6 @@
                     "value": "C Library",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2023-0687"
-                },
-                {
-                    "value": "C SDK for Azure IoT",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-17002"
                 },
                 {
                     "value": "C&Cmail",
@@ -10668,11 +10203,6 @@
                     "description": "CVE-2022-32512"
                 },
                 {
-                    "value": "Canada Post Shipping Method",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-47789"
-                },
-                {
                     "value": "Canon IJ NW Tool",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2023-1764"
@@ -10961,11 +10491,6 @@
                     "value": "Category Meta plugin",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2023-44998"
-                },
-                {
-                    "value": "Category Post List Widget",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-47516"
                 },
                 {
                     "value": "Category Posts",
@@ -13643,11 +13168,6 @@
                     "description": "CVE-2022-1903"
                 },
                 {
-                    "value": "Content Views – Post Grid",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-0612"
-                },
-                {
                     "value": "ContentLock",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2024-6022"
@@ -13926,11 +13446,6 @@
                     "value": "Conversios.io – Google Analytics",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2021-24952"
-                },
-                {
-                    "value": "Convert Post Types",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-31112"
                 },
                 {
                     "value": "Convert Pro",
@@ -17053,11 +16568,6 @@
                     "description": "CVE-2024-2622"
                 },
                 {
-                    "value": "Display Post Metadata",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-24855"
-                },
-                {
                     "value": "Display Users",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2021-24400"
@@ -17066,11 +16576,6 @@
                     "value": "Display for WooCommerce",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2024-1807"
-                },
-                {
-                    "value": "Display post meta",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-1661"
                 },
                 {
                     "value": "Disqus Comments",
@@ -17711,11 +17216,6 @@
                     "value": "Duplicate Post",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2023-0958"
-                },
-                {
-                    "value": "Duplicate Post WordPress Plugin",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-43408"
                 },
                 {
                     "value": "Duplicate Theme",
@@ -19383,11 +18883,6 @@
                     "description": "CVE-2021-38336"
                 },
                 {
-                    "value": "Edit WooCommerce Templates",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-47509"
-                },
-                {
                     "value": "Edito CMS",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2024-4836"
@@ -19658,11 +19153,6 @@
                     "description": "CVE-2021-24259"
                 },
                 {
-                    "value": "Elementor Addon for Post Grid",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-1427"
-                },
-                {
                     "value": "Elementor Addons",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2024-37541"
@@ -19681,11 +19171,6 @@
                     "value": "Elementor Pro",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2024-23523"
-                },
-                {
-                    "value": "Elementor Templates Library",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-2923"
                 },
                 {
                     "value": "Elementor Website Builder",
@@ -20566,11 +20051,6 @@
                     "value": "Export Orders",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2023-46822"
-                },
-                {
-                    "value": "Export Post Info",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-38061"
                 },
                 {
                     "value": "Export Subscriptions",
@@ -23501,11 +22981,6 @@
                     "value": "Frontend File Manager",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2024-25903"
-                },
-                {
-                    "value": "Frontend Post WordPress Plugin",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-4946"
                 },
                 {
                     "value": "Frontend Uploader",
@@ -29493,11 +28968,6 @@
                     "description": "CVE-2022-4483"
                 },
                 {
-                    "value": "Insert Post Ads",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-35665"
-                },
-                {
                     "value": "Insight",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2022-38733"
@@ -31556,26 +31026,6 @@
                     "value": "Jenkins Audit Trail Plugin",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2020-2287"
-                },
-                {
-                    "value": "Jenkins Azure AD Plugin",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-2119"
-                },
-                {
-                    "value": "Jenkins Azure Credentials Plugin",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-25766"
-                },
-                {
-                    "value": "Jenkins Azure Key Vault Plugin",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-2313"
-                },
-                {
-                    "value": "Jenkins Azure VM Agents Plugin",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-32988"
                 },
                 {
                     "value": "Jenkins BART Plugin",
@@ -38188,16 +37638,6 @@
                     "description": "CVE-2023-23435"
                 },
                 {
-                    "value": "Magic Post Thumbnail",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-29171"
-                },
-                {
-                    "value": "Magic Post Voice",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-39315"
-                },
-                {
                     "value": "Magic UI",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2022-34741"
@@ -39783,11 +39223,6 @@
                     "description": "CVE-2024-0101"
                 },
                 {
-                    "value": "Mhr Post Ticker",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-3021"
-                },
-                {
                     "value": "Mi App Store",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2020-14118"
@@ -40603,11 +40038,6 @@
                     "description": "CVE-2021-24220"
                 },
                 {
-                    "value": "Mitsol Social Post Feed",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-0209"
-                },
-                {
                     "value": "Mitsubishi Electric MC Works64",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2020-12011"
@@ -41191,11 +40621,6 @@
                     "value": "Multiple NETGEAR switching hubs",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2020-5621"
-                },
-                {
-                    "value": "Multiple Post Passwords",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-49157"
                 },
                 {
                     "value": "Multiple Roles",
@@ -46318,16 +45743,6 @@
                     "description": "CVE-2023-42137"
                 },
                 {
-                    "value": "POST SMTP",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-29128"
-                },
-                {
-                    "value": "POST SMTP Mailer",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-5958"
-                },
-                {
                     "value": "PPDM Reporting",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2023-28062"
@@ -46856,11 +46271,6 @@
                     "value": "PatrowlManager",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2021-43829"
-                },
-                {
-                    "value": "Patterns & Templates",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-2255"
                 },
                 {
                     "value": "Pavilion8",
@@ -47768,11 +47178,6 @@
                     "description": "CVE-2022-4019"
                 },
                 {
-                    "value": "Playlist",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-24464"
-                },
-                {
                     "value": "Playlist for Youtube",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2024-3937"
@@ -48116,186 +47521,6 @@
                     "value": "Position Board utility 2",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2020-14521"
-                },
-                {
-                    "value": "Post Affiliate Pro",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-38482"
-                },
-                {
-                    "value": "Post Blocks",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-0881"
-                },
-                {
-                    "value": "Post Carousel",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-2286"
-                },
-                {
-                    "value": "Post Carousel & Post Grid",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-2949"
-                },
-                {
-                    "value": "Post Carousel – Combo Blocks",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-3155"
-                },
-                {
-                    "value": "Post Clone",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-5942"
-                },
-                {
-                    "value": "Post Connector",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-28931"
-                },
-                {
-                    "value": "Post Content XMLRPC",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-24629"
-                },
-                {
-                    "value": "Post Form",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-25981"
-                },
-                {
-                    "value": "Post Grid",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-1266"
-                },
-                {
-                    "value": "Post Grid Elementor Addon",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-34789"
-                },
-                {
-                    "value": "Post Grid Gutenberg Blocks",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-5326"
-                },
-                {
-                    "value": "Post Grid Master",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-34372"
-                },
-                {
-                    "value": "Post Index",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-34637"
-                },
-                {
-                    "value": "Post Layout",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-5291"
-                },
-                {
-                    "value": "Post Layouts for Gutenberg",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-38682"
-                },
-                {
-                    "value": "Post List With Featured Image",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-37997"
-                },
-                {
-                    "value": "Post Meta Data Manager",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-6264"
-                },
-                {
-                    "value": "Post Pay Counter",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-47673"
-                },
-                {
-                    "value": "Post Shortcode",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-0526"
-                },
-                {
-                    "value": "Post Slider",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-40975"
-                },
-                {
-                    "value": "Post Sliders & Post Grids",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-47226"
-                },
-                {
-                    "value": "Post Snippets",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-25010"
-                },
-                {
-                    "value": "Post State Tags",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-32588"
-                },
-                {
-                    "value": "Post Tabs",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-5662"
-                },
-                {
-                    "value": "Post Thumbnail Editor",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-24845"
-                },
-                {
-                    "value": "Post Ticker",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-5662"
-                },
-                {
-                    "value": "Post Timeline",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-4284"
-                },
-                {
-                    "value": "Post Title Counter",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-38326"
-                },
-                {
-                    "value": "Post Type Builder",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-31365"
-                },
-                {
-                    "value": "Post View Count",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-44996"
-                },
-                {
-                    "value": "Post Views Count",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-4761"
-                },
-                {
-                    "value": "Post Views Counter",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-24613"
-                },
-                {
-                    "value": "Post to CSV by BestWebSoft",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-3393"
-                },
-                {
-                    "value": "Post types",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-4140"
-                },
-                {
-                    "value": "Post views Stats",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-22289"
                 },
                 {
                     "value": "Post-Office",
@@ -48651,16 +47876,6 @@
                     "value": "Pre-Publish Checklist",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2023-44151"
-                },
-                {
-                    "value": "Pre-built Templates",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-1569"
-                },
-                {
-                    "value": "PrePost SEO",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-2029"
                 },
                 {
                     "value": "PredictApp",
@@ -49086,11 +48301,6 @@
                     "value": "Process Manufacturing Financials",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2024-21152"
-                },
-                {
-                    "value": "Process Steps Template Designer",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-4349"
                 },
                 {
                     "value": "ProcessMaker",
@@ -49673,11 +48883,6 @@
                     "description": "CVE-2020-16226"
                 },
                 {
-                    "value": "Q2W3 Post Order",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-47521"
-                },
-                {
                     "value": "QCP 200W",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2021-26627"
@@ -50136,11 +49341,6 @@
                     "value": "Quick Paypal Payments",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2023-25713"
-                },
-                {
-                    "value": "Quick Post Duplicator",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-2229"
                 },
                 {
                     "value": "Quick Restaurant Menu",
@@ -51233,11 +50433,6 @@
                     "description": "CVE-2022-4673"
                 },
                 {
-                    "value": "Rate my Post – WP Rating System",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-40310"
-                },
-                {
                     "value": "Rating by BestWebSoft",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2021-25121"
@@ -51451,11 +50646,6 @@
                     "value": "Recencio Book Reviews",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2024-33648"
-                },
-                {
-                    "value": "Recent Post Slider",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-5362"
                 },
                 {
                     "value": "Recent Posts",
@@ -51978,11 +51168,6 @@
                     "description": "CVE-2024-6705"
                 },
                 {
-                    "value": "Regenerate post permalink",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-33681"
-                },
-                {
                     "value": "Regina Lite",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2020-36708"
@@ -52446,11 +51631,6 @@
                     "value": "Rev01",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2024-32754"
-                },
-                {
-                    "value": "Reveal Template",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-7416"
                 },
                 {
                     "value": "Revenue",
@@ -54703,341 +53883,6 @@
                     "description": "CVE-2020-7591"
                 },
                 {
-                    "value": "SIPROTEC 5 6MD84",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-45044"
-                },
-                {
-                    "value": "SIPROTEC 5 6MD85",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-45044"
-                },
-                {
-                    "value": "SIPROTEC 5 6MD85 devices",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-41769"
-                },
-                {
-                    "value": "SIPROTEC 5 6MD86",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-45044"
-                },
-                {
-                    "value": "SIPROTEC 5 6MD86 devices",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-41769"
-                },
-                {
-                    "value": "SIPROTEC 5 6MD89",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-45044"
-                },
-                {
-                    "value": "SIPROTEC 5 6MD89 devices",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-41769"
-                },
-                {
-                    "value": "SIPROTEC 5 6MU85",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-45044"
-                },
-                {
-                    "value": "SIPROTEC 5 6MU85 devices",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-41769"
-                },
-                {
-                    "value": "SIPROTEC 5 7KE85",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-45044"
-                },
-                {
-                    "value": "SIPROTEC 5 7KE85 devices",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-41769"
-                },
-                {
-                    "value": "SIPROTEC 5 7SA82",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-45044"
-                },
-                {
-                    "value": "SIPROTEC 5 7SA82 devices",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-41769"
-                },
-                {
-                    "value": "SIPROTEC 5 7SA84",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-45044"
-                },
-                {
-                    "value": "SIPROTEC 5 7SA86",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-45044"
-                },
-                {
-                    "value": "SIPROTEC 5 7SA86 devices",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-41769"
-                },
-                {
-                    "value": "SIPROTEC 5 7SA87",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-45044"
-                },
-                {
-                    "value": "SIPROTEC 5 7SA87 devices",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-41769"
-                },
-                {
-                    "value": "SIPROTEC 5 7SD82",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-45044"
-                },
-                {
-                    "value": "SIPROTEC 5 7SD82 devices",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-41769"
-                },
-                {
-                    "value": "SIPROTEC 5 7SD84",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-45044"
-                },
-                {
-                    "value": "SIPROTEC 5 7SD86",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-45044"
-                },
-                {
-                    "value": "SIPROTEC 5 7SD86 devices",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-41769"
-                },
-                {
-                    "value": "SIPROTEC 5 7SD87",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-45044"
-                },
-                {
-                    "value": "SIPROTEC 5 7SD87 devices",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-41769"
-                },
-                {
-                    "value": "SIPROTEC 5 7SJ81",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-45044"
-                },
-                {
-                    "value": "SIPROTEC 5 7SJ81 devices",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-41769"
-                },
-                {
-                    "value": "SIPROTEC 5 7SJ82",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-45044"
-                },
-                {
-                    "value": "SIPROTEC 5 7SJ82 devices",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-41769"
-                },
-                {
-                    "value": "SIPROTEC 5 7SJ85",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-45044"
-                },
-                {
-                    "value": "SIPROTEC 5 7SJ85 devices",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-41769"
-                },
-                {
-                    "value": "SIPROTEC 5 7SJ86",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-45044"
-                },
-                {
-                    "value": "SIPROTEC 5 7SJ86 devices",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-41769"
-                },
-                {
-                    "value": "SIPROTEC 5 7SK82",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-45044"
-                },
-                {
-                    "value": "SIPROTEC 5 7SK82 devices",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-41769"
-                },
-                {
-                    "value": "SIPROTEC 5 7SK85",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-45044"
-                },
-                {
-                    "value": "SIPROTEC 5 7SK85 devices",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-41769"
-                },
-                {
-                    "value": "SIPROTEC 5 7SL82",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-45044"
-                },
-                {
-                    "value": "SIPROTEC 5 7SL82 devices",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-41769"
-                },
-                {
-                    "value": "SIPROTEC 5 7SL86",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-45044"
-                },
-                {
-                    "value": "SIPROTEC 5 7SL86 devices",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-41769"
-                },
-                {
-                    "value": "SIPROTEC 5 7SL87",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-45044"
-                },
-                {
-                    "value": "SIPROTEC 5 7SL87 devices",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-41769"
-                },
-                {
-                    "value": "SIPROTEC 5 7SS85",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-45044"
-                },
-                {
-                    "value": "SIPROTEC 5 7SS85 devices",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-41769"
-                },
-                {
-                    "value": "SIPROTEC 5 7ST85",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-45044"
-                },
-                {
-                    "value": "SIPROTEC 5 7ST85 devices",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-41769"
-                },
-                {
-                    "value": "SIPROTEC 5 7ST86",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-45044"
-                },
-                {
-                    "value": "SIPROTEC 5 7SX82",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-45044"
-                },
-                {
-                    "value": "SIPROTEC 5 7SX85",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-45044"
-                },
-                {
-                    "value": "SIPROTEC 5 7SX85 devices",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-41769"
-                },
-                {
-                    "value": "SIPROTEC 5 7UM85",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-45044"
-                },
-                {
-                    "value": "SIPROTEC 5 7UM85 devices",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-41769"
-                },
-                {
-                    "value": "SIPROTEC 5 7UT82",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-45044"
-                },
-                {
-                    "value": "SIPROTEC 5 7UT82 devices",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-41769"
-                },
-                {
-                    "value": "SIPROTEC 5 7UT85",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-45044"
-                },
-                {
-                    "value": "SIPROTEC 5 7UT85 devices",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-41769"
-                },
-                {
-                    "value": "SIPROTEC 5 7UT86",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-45044"
-                },
-                {
-                    "value": "SIPROTEC 5 7UT86 devices",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-41769"
-                },
-                {
-                    "value": "SIPROTEC 5 7UT87",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-45044"
-                },
-                {
-                    "value": "SIPROTEC 5 7UT87 devices",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-41769"
-                },
-                {
-                    "value": "SIPROTEC 5 7VE85",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-45044"
-                },
-                {
-                    "value": "SIPROTEC 5 7VE85 devices",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-41769"
-                },
-                {
-                    "value": "SIPROTEC 5 7VK87",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-45044"
-                },
-                {
-                    "value": "SIPROTEC 5 7VK87 devices",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-41769"
-                },
-                {
-                    "value": "SIPROTEC 5 7VU85",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-45044"
-                },
-                {
-                    "value": "SIPROTEC 5 Compact 7SX800",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-45044"
-                },
-                {
                     "value": "SIRIUS Safety ES V17",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2023-32735"
@@ -56268,11 +55113,6 @@
                     "description": "CVE-2023-36683"
                 },
                 {
-                    "value": "Schema ST4 example web templates",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-3073"
-                },
-                {
                     "value": "School Club Application System",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2022-1287"
@@ -56416,11 +55256,6 @@
                     "value": "Scroll Triggered Box",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2024-24865"
-                },
-                {
-                    "value": "Scroll post excerpt",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-45764"
                 },
                 {
                     "value": "ScrollMe",
@@ -57091,11 +55926,6 @@
                     "value": "Seraphinite Accelerator Full",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2024-37940"
-                },
-                {
-                    "value": "Seraphinite Post .DOCX Source",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-38728"
                 },
                 {
                     "value": "SerenityOS",
@@ -58208,11 +57038,6 @@
                     "description": "CVE-2021-24567"
                 },
                 {
-                    "value": "Simple Post Notes",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-2186"
-                },
-                {
                     "value": "Simple Posts Ticker",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2023-4646"
@@ -58521,11 +57346,6 @@
                     "value": "Single Connect",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2021-44793"
-                },
-                {
-                    "value": "Single Post Exporter",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-24780"
                 },
                 {
                     "value": "Single Sign-On 7.6.6",
@@ -59231,11 +58051,6 @@
                     "value": "Smarty for WordPress",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2023-41661"
-                },
-                {
-                    "value": "Smash Balloon Social Post Feed",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-4477"
                 },
                 {
                     "value": "SmodBIP",
@@ -63088,56 +61903,6 @@
                     "description": "CVE-2020-7702"
                 },
                 {
-                    "value": "Template Debugger",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-35773"
-                },
-                {
-                    "value": "Template Kit – Export",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-37550"
-                },
-                {
-                    "value": "Template Kit – Import",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-4330"
-                },
-                {
-                    "value": "Template Library",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-2966"
-                },
-                {
-                    "value": "Templately",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-5454"
-                },
-                {
-                    "value": "Templates",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-47175"
-                },
-                {
-                    "value": "Templates Library",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-3499"
-                },
-                {
-                    "value": "Templates for WooCommerce",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-35724"
-                },
-                {
-                    "value": "TemplatesNext OnePager",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-35753"
-                },
-                {
-                    "value": "TemplatesNext ToolKit",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-4678"
-                },
-                {
                     "value": "TemporAI",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2024-0936"
@@ -63366,16 +62131,6 @@
                     "value": "The Plus Addons for Elementor",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2024-2203"
-                },
-                {
-                    "value": "The Post Grid",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-46853"
-                },
-                {
-                    "value": "The Post Grid – Shortcode",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-1427"
                 },
                 {
                     "value": "The Sorter",
@@ -65928,11 +64683,6 @@
                     "description": "CVE-2024-35700"
                 },
                 {
-                    "value": "Users & Post Types",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-1977"
-                },
-                {
                     "value": "Users & Roles",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2023-51675"
@@ -67323,11 +66073,6 @@
                     "description": "CVE-2024-24708"
                 },
                 {
-                    "value": "W4 Post List",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-27413"
-                },
-                {
                     "value": "W740 family",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2021-25666"
@@ -68018,11 +66763,6 @@
                     "description": "CVE-2022-4824"
                 },
                 {
-                    "value": "WP Blog Post Layouts",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-5503"
-                },
-                {
                     "value": "WP Blogs' Planetarium",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2023-6532"
@@ -68086,11 +66826,6 @@
                     "value": "WP Categories Widget",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2023-31220"
-                },
-                {
-                    "value": "WP Category Post List Widget",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-23828"
                 },
                 {
                     "value": "WP Championship",
@@ -68748,11 +67483,6 @@
                     "description": "CVE-2023-0502"
                 },
                 {
-                    "value": "WP Next Post Navi",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-34793"
-                },
-                {
                     "value": "WP No External Links",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2023-26537"
@@ -68836,36 +67566,6 @@
                     "value": "WP Portfolio",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2024-33537"
-                },
-                {
-                    "value": "WP Post Author",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-34389"
-                },
-                {
-                    "value": "WP Post Columns",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-5708"
-                },
-                {
-                    "value": "WP Post Disclaimer",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-29761"
-                },
-                {
-                    "value": "WP Post Popup",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-4808"
-                },
-                {
-                    "value": "WP Post Rating",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-25785"
-                },
-                {
-                    "value": "WP Post Styling",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-1845"
                 },
                 {
                     "value": "WP Prayer",
@@ -69313,11 +68013,6 @@
                     "description": "CVE-2022-45842"
                 },
                 {
-                    "value": "WP Ultimate Post Grid",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-4043"
-                },
-                {
                     "value": "WP Upload Restriction",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2021-34625"
@@ -69736,11 +68431,6 @@
                     "value": "WPJAM Basic",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2023-23709"
-                },
-                {
-                    "value": "WPKoi Templates for Elementor",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-2136"
                 },
                 {
                     "value": "WPLMS",
@@ -71228,11 +69918,6 @@
                     "description": "CVE-2023-5715"
                 },
                 {
-                    "value": "Website Template",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-6436"
-                },
-                {
                     "value": "Webuzo",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2024-24622"
@@ -71723,11 +70408,6 @@
                     "description": "CVE-2023-2079"
                 },
                 {
-                    "value": "Widget Post Slider",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-32801"
-                },
-                {
                     "value": "Widget Shortcode",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2022-4473"
@@ -72106,11 +70786,6 @@
                     "value": "WooCommerce CVR Payment Gateway",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2023-4948"
-                },
-                {
-                    "value": "WooCommerce Canada Post Shipping",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-51498"
                 },
                 {
                     "value": "WooCommerce Cart Ab",
@@ -72541,11 +71216,6 @@
                     "value": "WordPress Popular Posts",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2022-43468"
-                },
-                {
-                    "value": "WordPress Post Duplicator Plugin",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-33852"
                 },
                 {
                     "value": "WordPress Real Media Library",
