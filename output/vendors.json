@@ -3,7 +3,7 @@
     "data": [
         {
             "name": "CVE_VENDORS",
-            "description": "Vendors Exported from CVEList 2024-08-12T16:57:55.916958",
+            "description": "Vendors Exported from CVEList 2024-08-13T12:50:26.784390",
             "usage": 4,
             "link": "https://raw.githubusercontent.com/ait-cs-IaaS/wordlists/master/output/vendors.json",
             "entries": [
@@ -1033,11 +1033,6 @@
                     "description": "CVE-2023-6768"
                 },
                 {
-                    "value": "Amazon",
-                    "category": "CVE_VENDOR",
-                    "description": "CVE-2020-8897"
-                },
-                {
                     "value": "Amazon Web Services",
                     "category": "CVE_VENDOR",
                     "description": "CVE-2022-0070"
@@ -1196,11 +1191,6 @@
                     "value": "Antenna House",
                     "category": "CVE_VENDOR",
                     "description": "CVE-2021-20838"
-                },
-                {
-                    "value": "Antilles",
-                    "category": "CVE_VENDOR",
-                    "description": "CVE-2021-3840"
                 },
                 {
                     "value": "Antohe Cristian",
@@ -6458,11 +6448,6 @@
                     "description": "CVE-2023-45106"
                 },
                 {
-                    "value": "Fedora",
-                    "category": "CVE_VENDOR",
-                    "description": "CVE-2022-4900"
-                },
-                {
                     "value": "Fedora Project",
                     "category": "CVE_VENDOR",
                     "description": "CVE-2022-3675"
@@ -7418,11 +7403,6 @@
                     "description": "CVE-2023-23872"
                 },
                 {
-                    "value": "Gerrit",
-                    "category": "CVE_VENDOR",
-                    "description": "CVE-2020-8919"
-                },
-                {
                     "value": "Gesio GESTIÓN INTEGRAL ONLINE",
                     "category": "CVE_VENDOR",
                     "description": "CVE-2020-8967"
@@ -7871,11 +7851,6 @@
                     "value": "H5P CSS Editor",
                     "category": "CVE_VENDOR",
                     "description": "CVE-2021-39318"
-                },
-                {
-                    "value": "HAL",
-                    "category": "CVE_VENDOR",
-                    "description": "CVE-2021-39345"
                 },
                 {
                     "value": "HANSSAK Co.",
@@ -9576,11 +9551,6 @@
                     "value": "Jegtheme",
                     "category": "CVE_VENDOR",
                     "description": "CVE-2024-29101"
-                },
-                {
-                    "value": "Jenkins",
-                    "category": "CVE_VENDOR",
-                    "description": "CVE-2023-2196"
                 },
                 {
                     "value": "Jens Kuerschner",
@@ -11858,11 +11828,6 @@
                     "description": "CVE-2024-37100"
                 },
                 {
-                    "value": "Mazda",
-                    "category": "CVE_VENDOR",
-                    "description": "CVE-2023-32219"
-                },
-                {
                     "value": "McAfee",
                     "category": "CVE_VENDOR",
                     "description": "CVE-2022-1256"
@@ -13791,11 +13756,6 @@
                     "value": "OPTO 22",
                     "category": "CVE_VENDOR",
                     "description": "CVE-2023-40709"
-                },
-                {
-                    "value": "ORION",
-                    "category": "CVE_VENDOR",
-                    "description": "CVE-2022-46856"
                 },
                 {
                     "value": "ORing",
@@ -18503,11 +18463,6 @@
                     "description": "CVE-2024-38734"
                 },
                 {
-                    "value": "Spring",
-                    "category": "CVE_VENDOR",
-                    "description": "CVE-2020-5397"
-                },
-                {
                     "value": "Spring by VMware",
                     "category": "CVE_VENDOR",
                     "description": "CVE-2020-5411"
@@ -18791,11 +18746,6 @@
                     "value": "Summar Software",
                     "category": "CVE_VENDOR",
                     "description": "CVE-2024-5675"
-                },
-                {
-                    "value": "Sumo",
-                    "category": "CVE_VENDOR",
-                    "description": "CVE-2023-25033"
                 },
                 {
                     "value": "SumoMe",
@@ -23256,11 +23206,6 @@
                     "value": "Zephilou",
                     "category": "CVE_VENDOR",
                     "description": "CVE-2022-44625"
-                },
-                {
-                    "value": "Zephyr",
-                    "category": "CVE_VENDOR",
-                    "description": "CVE-2022-3333"
                 },
                 {
                     "value": "Zero-Channel BBS Plus Developers",

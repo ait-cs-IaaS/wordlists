@@ -3,7 +3,7 @@
     "data": [
         {
             "name": "CVE_PRODUCTS",
-            "description": "Products Exported from CVEList 2024-08-12T16:57:55.916966",
+            "description": "Products Exported from CVEList 2024-08-13T12:50:26.784397",
             "usage": 4,
             "link": "https://raw.githubusercontent.com/ait-cs-IaaS/wordlists/master/output/products.json",
             "entries": [
@@ -96,11 +96,6 @@
                     "value": "AA Cash Calculator",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2024-0848"
-                },
-                {
-                    "value": "AAM",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-5935"
                 },
                 {
                     "value": "AAWP",
@@ -338,19 +333,9 @@
                     "description": "CVE-2023-30477"
                 },
                 {
-                    "value": "AFM",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-5935"
-                },
-                {
                     "value": "AFS Analytics",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2022-37402"
-                },
-                {
-                    "value": "AGCA",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-2907"
                 },
                 {
                     "value": "AGIL",
@@ -983,11 +968,6 @@
                     "description": "CVE-2024-32134"
                 },
                 {
-                    "value": "APM",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-29491"
-                },
-                {
                     "value": "APM Clients",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2023-22358"
@@ -1088,11 +1068,6 @@
                     "description": "CVE-2022-2484"
                 },
                 {
-                    "value": "ASM",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-29491"
-                },
-                {
                     "value": "ASP.NET Core",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2020-1161"
@@ -1146,11 +1121,6 @@
                     "value": "AS_Redis",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2021-41172"
-                },
-                {
-                    "value": "AT&T",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-21828"
                 },
                 {
                     "value": "AT&T Labs",
@@ -2553,11 +2523,6 @@
                     "description": "CVE-2023-6768"
                 },
                 {
-                    "value": "Amazon",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-32724"
-                },
-                {
                     "value": "Amazon Einzeltitellinks",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2022-1830"
@@ -2601,11 +2566,6 @@
                     "value": "Amela",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2023-3708"
-                },
-                {
-                    "value": "Amen",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-3992"
                 },
                 {
                     "value": "Amministrazione Aperta",
@@ -2871,11 +2831,6 @@
                     "value": "AntiSpam",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2022-3302"
-                },
-                {
-                    "value": "Antilles",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-3840"
                 },
                 {
                     "value": "Antispam Bee",
@@ -5013,11 +4968,6 @@
                     "description": "CVE-2023-4039"
                 },
                 {
-                    "value": "Armeria",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-1735"
-                },
-                {
                     "value": "Armor PowerFlex",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2023-2423"
@@ -5428,11 +5378,6 @@
                     "description": "CVE-2024-0699"
                 },
                 {
-                    "value": "Astra",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-29768"
-                },
-                {
                     "value": "Astra Bulk Edit",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2023-44148"
@@ -5476,11 +5421,6 @@
                     "value": "AtHoc",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2023-21523"
-                },
-                {
-                    "value": "Atahualpa",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-27948"
                 },
                 {
                     "value": "Atarim",
@@ -5716,11 +5656,6 @@
                     "value": "Aura System Manager",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2024-7480"
-                },
-                {
-                    "value": "Austin",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-0601"
                 },
                 {
                     "value": "AuthPoint Password Manager",
@@ -6918,11 +6853,6 @@
                     "description": "CVE-2020-6099"
                 },
                 {
-                    "value": "BIND",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-0396"
-                },
-                {
                     "value": "BIND 9",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2022-3488"
@@ -6931,11 +6861,6 @@
                     "value": "BIND9",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2022-2795"
-                },
-                {
-                    "value": "BIOS",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-34393"
                 },
                 {
                     "value": "BIOSConnect",
@@ -7358,11 +7283,6 @@
                     "description": "CVE-2024-24935"
                 },
                 {
-                    "value": "Basil",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-39310"
-                },
-                {
                     "value": "Batch Cat",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2021-24788"
@@ -7406,11 +7326,6 @@
                     "value": "Beats Firmware Update F",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2024-27867"
-                },
-                {
-                    "value": "Beautiful Cookie Consent Banner",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-3823"
                 },
                 {
                     "value": "Beautiful Shopping Cart System",
@@ -7548,11 +7463,6 @@
                     "description": "CVE-2022-4374"
                 },
                 {
-                    "value": "Bhima",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-0944"
-                },
-                {
                     "value": "BiSheng-WNM",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2022-48260"
@@ -7561,11 +7471,6 @@
                     "value": "Bible Text",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2024-5444"
-                },
-                {
-                    "value": "Bifrost",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-39219"
                 },
                 {
                     "value": "Bifrost GPU Kernel Driver",
@@ -7673,11 +7578,6 @@
                     "description": "CVE-2021-22545"
                 },
                 {
-                    "value": "Bing",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-24511"
-                },
-                {
                     "value": "Bing Maps",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2022-1123"
@@ -7746,11 +7646,6 @@
                     "value": "Bitrix24",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2023-1714"
-                },
-                {
-                    "value": "Bixby",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-25380"
                 },
                 {
                     "value": "Bixby Routines",
@@ -8198,11 +8093,6 @@
                     "description": "CVE-2024-5938"
                 },
                 {
-                    "value": "Booth",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-2553"
-                },
-                {
                     "value": "Bootstrap",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2024-6485"
@@ -8328,11 +8218,6 @@
                     "description": "CVE-2024-31390"
                 },
                 {
-                    "value": "Breeze",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-29444"
-                },
-                {
                     "value": "Bricks",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2022-3400"
@@ -8346,11 +8231,6 @@
                     "value": "Bricksforge",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2024-31242"
-                },
-                {
-                    "value": "Bridge",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-38425"
                 },
                 {
                     "value": "Bridge Core",
@@ -8476,11 +8356,6 @@
                     "value": "BuddyPress Members Only",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2024-0972"
-                },
-                {
-                    "value": "Budget",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-2772"
                 },
                 {
                     "value": "Budget Management",
@@ -9373,11 +9248,6 @@
                     "description": "CVE-2024-4086"
                 },
                 {
-                    "value": "CMC",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-6278"
-                },
-                {
                     "value": "CMC III",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2022-40633"
@@ -9391,11 +9261,6 @@
                     "value": "CMONOS.JP",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2020-5631"
-                },
-                {
-                    "value": "CMS",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-4090"
                 },
                 {
                     "value": "CMS Comm",
@@ -9648,11 +9513,6 @@
                     "description": "CVE-2021-23851"
                 },
                 {
-                    "value": "CPT",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-0830"
-                },
-                {
                     "value": "CPT Bootstrap Carousel",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2022-4834"
@@ -9833,11 +9693,6 @@
                     "description": "CVE-2023-40007"
                 },
                 {
-                    "value": "CTA",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-52119"
-                },
-                {
                     "value": "CTA Blocks for Affiliates",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2023-49148"
@@ -9846,11 +9701,6 @@
                     "value": "CTI Monitoring",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2023-5827"
-                },
-                {
-                    "value": "CTMS",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-24836"
                 },
                 {
                     "value": "CTP Relay Server",
@@ -10126,11 +9976,6 @@
                     "value": "Callback Assist",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2020-7036"
-                },
-                {
-                    "value": "Calliope",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-2904"
                 },
                 {
                     "value": "Calls To Action by vcita",
@@ -10506,11 +10351,6 @@
                     "value": "Category SEO Meta Tags",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2023-46091"
-                },
-                {
-                    "value": "Cati",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-0730"
                 },
                 {
                     "value": "Cayin CMS",
@@ -12578,11 +12418,6 @@
                     "description": "CVE-2023-47775"
                 },
                 {
-                    "value": "Commerce",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-27741"
-                },
-                {
                     "value": "Commerce & More",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2024-1175"
@@ -13491,36 +13326,6 @@
                     "value": "Cooked Pro",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2022-3900"
-                },
-                {
-                    "value": "Cookie Bar",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-24653"
-                },
-                {
-                    "value": "Cookie Consent",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-35692"
-                },
-                {
-                    "value": "Cookie Monster",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-33208"
-                },
-                {
-                    "value": "Cookie Notice & Consent",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-41948"
-                },
-                {
-                    "value": "Cookie Notice Generator",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-47824"
-                },
-                {
-                    "value": "Cookie Scanner",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-4869"
                 },
                 {
                     "value": "CookieHub",
@@ -15308,16 +15113,6 @@
                     "description": "CVE-2023-2863"
                 },
                 {
-                    "value": "Dalli",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-4064"
-                },
-                {
-                    "value": "Darcie",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-25961"
-                },
-                {
                     "value": "Dark Mode",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2021-4331"
@@ -16293,11 +16088,6 @@
                     "description": "CVE-2021-24555"
                 },
                 {
-                    "value": "Dice",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-3687"
-                },
-                {
                     "value": "DietPi-Dashboard",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2023-38505"
@@ -16456,11 +16246,6 @@
                     "value": "Directorist",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2022-3961"
-                },
-                {
-                    "value": "Directory",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-22535"
                 },
                 {
                     "value": "Directory Management System",
@@ -16858,11 +16643,6 @@
                     "description": "CVE-2024-3922"
                 },
                 {
-                    "value": "Doko",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-24867"
-                },
-                {
                     "value": "Dolibarr ERP CRM",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2023-4197"
@@ -16876,11 +16656,6 @@
                     "value": "Domain Replace",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2022-1218"
-                },
-                {
-                    "value": "Domino",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-44754"
                 },
                 {
                     "value": "Domino AppDev Pack",
@@ -17128,11 +16903,6 @@
                     "description": "CVE-2024-29910"
                 },
                 {
-                    "value": "Druid",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-33800"
-                },
-                {
                     "value": "Drupal",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2024-22362"
@@ -17171,11 +16941,6 @@
                     "value": "DualSafe Password Manager",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2024-7326"
-                },
-                {
-                    "value": "Dubbo",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-32824"
                 },
                 {
                     "value": "Duet Display for Windows 10+",
@@ -17526,11 +17291,6 @@
                     "value": "ECshop",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2024-1530"
-                },
-                {
-                    "value": "EDD",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-47449"
                 },
                 {
                     "value": "EDK II",
@@ -18303,11 +18063,6 @@
                     "description": "CVE-2024-0695"
                 },
                 {
-                    "value": "Easy Cookie Law",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-40198"
-                },
-                {
                     "value": "Easy Cookies Policy",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2021-24405"
@@ -18833,11 +18588,6 @@
                     "description": "CVE-2022-2432"
                 },
                 {
-                    "value": "Edge",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-36970"
-                },
-                {
                     "value": "EdgeConnect SD-WAN Orchestrator",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2023-37433"
@@ -19353,11 +19103,6 @@
                     "description": "CVE-2024-31386"
                 },
                 {
-                    "value": "Empire",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-6127"
-                },
-                {
                     "value": "Employee Payslip Generator",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2023-1796"
@@ -19806,11 +19551,6 @@
                     "value": "Eurosoft Przychodnia",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2024-1228"
-                },
-                {
-                    "value": "Eva",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-0357"
                 },
                 {
                     "value": "Evaluate",
@@ -20623,16 +20363,6 @@
                     "description": "CVE-2022-3927"
                 },
                 {
-                    "value": "FPC",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-2659"
-                },
-                {
-                    "value": "FPS",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-5935"
-                },
-                {
                     "value": "FPSensor",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2023-2644"
@@ -20958,11 +20688,6 @@
                     "description": "CVE-2024-0720"
                 },
                 {
-                    "value": "Factor",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-25984"
-                },
-                {
                     "value": "Factory",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2022-31253"
@@ -21091,11 +20816,6 @@
                     "value": "Falang multilanguage",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2024-30495"
-                },
-                {
-                    "value": "Falcon",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-2841"
                 },
                 {
                     "value": "FameTheme Demo Importer",
@@ -21283,11 +21003,6 @@
                     "description": "CVE-2024-2948"
                 },
                 {
-                    "value": "Faye",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-11020"
-                },
-                {
                     "value": "Fazecast jSerialComm",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2020-10626"
@@ -21301,11 +21016,6 @@
                     "value": "Federated Authentication Service",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2022-26355"
-                },
-                {
-                    "value": "Fedora",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-4900"
                 },
                 {
                     "value": "Fedora 36",
@@ -22136,11 +21846,6 @@
                     "value": "Force First",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2023-28419"
-                },
-                {
-                    "value": "Foreman",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-3469"
                 },
                 {
                     "value": "Foreman Ansible",
@@ -22998,11 +22703,6 @@
                     "description": "CVE-2020-36704"
                 },
                 {
-                    "value": "Fuchsia",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-0247"
-                },
-                {
                     "value": "Fuchsia Kernel",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2022-0882"
@@ -23313,26 +23013,6 @@
                     "description": "CVE-2024-34388"
                 },
                 {
-                    "value": "GDPR Compliance & Cookie Consent",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-45815"
-                },
-                {
-                    "value": "GDPR Cookie Compliance CCPA",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-4013"
-                },
-                {
-                    "value": "GDPR Cookie Consent Notice Box",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-32294"
-                },
-                {
-                    "value": "GDPR Cookie Consent by Supsystic",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-49191"
-                },
-                {
                     "value": "GDPR Data Request Form",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2024-24836"
@@ -23631,11 +23311,6 @@
                     "value": "GROWI v5 series",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2022-41799"
-                },
-                {
-                    "value": "GRS",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-6994"
                 },
                 {
                     "value": "GS Books Showcase",
@@ -24003,11 +23678,6 @@
                     "description": "CVE-2022-39889"
                 },
                 {
-                    "value": "Galleria",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-35780"
-                },
-                {
                     "value": "Galleries",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2024-3984"
@@ -24283,11 +23953,6 @@
                     "description": "CVE-2023-40253"
                 },
                 {
-                    "value": "Genie",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-4701"
-                },
-                {
                     "value": "Genie WP Favicon",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2021-24674"
@@ -24328,11 +23993,6 @@
                     "description": "CVE-2023-5921"
                 },
                 {
-                    "value": "Geon",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-24781"
-                },
-                {
                     "value": "Gerapy",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2020-7698"
@@ -24351,11 +24011,6 @@
                     "value": "Gerencia Web",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2023-0125"
-                },
-                {
-                    "value": "Gerrit",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-8919"
                 },
                 {
                     "value": "Gescen",
@@ -24463,11 +24118,6 @@
                     "description": "CVE-2024-33927"
                 },
                 {
-                    "value": "Gipsy",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-30621"
-                },
-                {
                     "value": "Git-Credential-Manager-Core",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2020-26233"
@@ -24551,11 +24201,6 @@
                     "value": "Glances",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2021-23418"
-                },
-                {
-                    "value": "Glass",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-24434"
                 },
                 {
                     "value": "GlassWire",
@@ -24813,19 +24458,9 @@
                     "description": "CVE-2021-22573"
                 },
                 {
-                    "value": "Gotham",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-27897"
-                },
-                {
                     "value": "Govee Home",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2023-3612"
-                },
-                {
-                    "value": "Goya",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-4017"
                 },
                 {
                     "value": "Gps Plotter",
@@ -25173,11 +24808,6 @@
                     "description": "CVE-2021-20693"
                 },
                 {
-                    "value": "Gutenberg",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-37492"
-                },
-                {
                     "value": "Gutenberg Block Editor Toolkit",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2024-32586"
@@ -25236,11 +24866,6 @@
                     "value": "H8951-4G-ESP",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2023-49255"
-                },
-                {
-                    "value": "HAL",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-39345"
                 },
                 {
                     "value": "HANA Database",
@@ -25586,11 +25211,6 @@
                     "value": "HM Multiple Roles",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2021-24602"
-                },
-                {
-                    "value": "HMI",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-4224"
                 },
                 {
                     "value": "HMI Designer",
@@ -26523,11 +26143,6 @@
                     "description": "CVE-2023-1685"
                 },
                 {
-                    "value": "Halcyon",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-4300"
-                },
-                {
                     "value": "Halibut",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2021-31819"
@@ -26668,16 +26283,6 @@
                     "description": "CVE-2021-39333"
                 },
                 {
-                    "value": "Haskel",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-3566"
-                },
-                {
-                    "value": "Hawk",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-3182"
-                },
-                {
                     "value": "Headless CMS",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2023-34186"
@@ -26768,11 +26373,6 @@
                     "description": "CVE-2024-37488"
                 },
                 {
-                    "value": "Helm",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-11013"
-                },
-                {
                     "value": "Help Desk WP",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2023-1019"
@@ -26836,11 +26436,6 @@
                     "value": "Herd Effects",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2022-29448"
-                },
-                {
-                    "value": "Hermes",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-27810"
                 },
                 {
                     "value": "Hermit 音乐播放器",
@@ -26926,11 +26521,6 @@
                     "value": "Hima-L29C",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2020-9247"
-                },
-                {
-                    "value": "Himalayas",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-34571"
                 },
                 {
                     "value": "Himer",
@@ -30823,11 +30413,6 @@
                     "description": "CVE-2024-4395"
                 },
                 {
-                    "value": "Jami",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-3433"
-                },
-                {
                     "value": "Jannah",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2021-24364"
@@ -30871,11 +30456,6 @@
                     "value": "JasperReports Server",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2024-3323"
-                },
-                {
-                    "value": "Java",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-27656"
                 },
                 {
                     "value": "Java SE JDK",
@@ -30941,11 +30521,6 @@
                     "value": "Jeg Elementor Kit",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2022-3805"
-                },
-                {
-                    "value": "Jenkins",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-41224"
                 },
                 {
                     "value": "Jenkins 360 FireLine Plugin",
@@ -32368,11 +31943,6 @@
                     "description": "CVE-2022-23795"
                 },
                 {
-                    "value": "Joplin",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-40277"
-                },
-                {
                     "value": "Jorani",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2023-2681"
@@ -32461,11 +32031,6 @@
                     "value": "Junos Space",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2020-1611"
-                },
-                {
-                    "value": "Jupiter",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-1654"
                 },
                 {
                     "value": "JupiterX",
@@ -32803,11 +32368,6 @@
                     "description": "CVE-2021-24284"
                 },
                 {
-                    "value": "Kata",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-2813"
-                },
-                {
                     "value": "Kata App",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2023-2813"
@@ -32831,11 +32391,6 @@
                     "value": "Kattene",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2024-32590"
-                },
-                {
-                    "value": "Kavita",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-39307"
                 },
                 {
                     "value": "Kaya QR Code Generator",
@@ -33206,11 +32761,6 @@
                     "value": "Kunze Law",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2022-0674"
-                },
-                {
-                    "value": "Kura",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-3046"
                 },
                 {
                     "value": "Kwayy HTML Sitemap",
@@ -34353,11 +33903,6 @@
                     "description": "CVE-2022-2148"
                 },
                 {
-                    "value": "Linker",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-47177"
-                },
-                {
                     "value": "Linkify Text",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2024-7382"
@@ -34908,11 +34453,6 @@
                     "description": "CVE-2020-5626"
                 },
                 {
-                    "value": "Longhorn",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-36780"
-                },
-                {
                     "value": "Looker",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2024-5166"
@@ -35016,11 +34556,6 @@
                     "value": "Lychee",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2023-52082"
-                },
-                {
-                    "value": "Lynx",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-40143"
                 },
                 {
                     "value": "Lógico y Creativo",
@@ -35711,11 +35246,6 @@
                     "value": "MSI Afterburner",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2024-1443"
-                },
-                {
-                    "value": "MSP",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-6994"
                 },
                 {
                     "value": "MSP432",
@@ -37508,11 +37038,6 @@
                     "description": "CVE-2020-4353"
                 },
                 {
-                    "value": "Mac",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-33598"
-                },
-                {
                     "value": "Mac. F-Secure Linux Security",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2021-40837"
@@ -37906,11 +37431,6 @@
                     "value": "MakeStories",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2024-38746"
-                },
-                {
-                    "value": "Mall",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-4961"
                 },
                 {
                     "value": "Malware Fighter",
@@ -38448,19 +37968,9 @@
                     "description": "CVE-2021-20444"
                 },
                 {
-                    "value": "Maya",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-25003"
-                },
-                {
                     "value": "Mayan EDMS",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2022-47419"
-                },
-                {
-                    "value": "Mazda",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-32219"
                 },
                 {
                     "value": "Mbed Studio",
@@ -38768,11 +38278,6 @@
                     "description": "CVE-2021-24316"
                 },
                 {
-                    "value": "Medusa",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-28627"
-                },
-                {
                     "value": "Meet My Team",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2022-37339"
@@ -39063,16 +38568,6 @@
                     "description": "CVE-2021-22283"
                 },
                 {
-                    "value": "Meridian",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-40313"
-                },
-                {
-                    "value": "Meris",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-7194"
-                },
-                {
                     "value": "MeshCentral",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2024-26135"
@@ -39296,11 +38791,6 @@
                     "value": "Micrium OS",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2021-27411"
-                },
-                {
-                    "value": "Micro",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-41699"
                 },
                 {
                     "value": "Micro Focus ArcSight Logger",
@@ -39938,11 +39428,6 @@
                     "description": "CVE-2021-24548"
                 },
                 {
-                    "value": "Min",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-33949"
-                },
-                {
                     "value": "Min Max Control",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2023-4270"
@@ -39961,11 +39446,6 @@
                     "value": "MineStack",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2023-3835"
-                },
-                {
-                    "value": "Minerva",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-0394"
                 },
                 {
                     "value": "Mini 3 Pro",
@@ -40386,11 +39866,6 @@
                     "value": "MosP kintai kanri",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2024-29078"
-                },
-                {
-                    "value": "Mosaic",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-5965"
                 },
                 {
                     "value": "Mosquitto",
@@ -41928,11 +41403,6 @@
                     "description": "CVE-2022-47426"
                 },
                 {
-                    "value": "Nessus",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-4313"
-                },
-                {
                     "value": "Nessus Agent",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2021-20117"
@@ -42171,11 +41641,6 @@
                     "value": "Netskope Client",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2022-4149"
-                },
-                {
-                    "value": "Netty",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-37137"
                 },
                 {
                     "value": "Network",
@@ -42548,11 +42013,6 @@
                     "description": "CVE-2021-23017"
                 },
                 {
-                    "value": "Niagara",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-14483"
-                },
-                {
                     "value": "Niagara Framework",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2024-1309"
@@ -42723,11 +42183,6 @@
                     "description": "CVE-2023-25794"
                 },
                 {
-                    "value": "Not a product",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-40703"
-                },
-                {
                     "value": "Note Press",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2022-1688"
@@ -42846,11 +42301,6 @@
                     "value": "Now Platform",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2022-46389"
-                },
-                {
-                    "value": "Noxen",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-2956"
                 },
                 {
                     "value": "NuGet 17.4.0",
@@ -43483,11 +42933,6 @@
                     "description": "CVE-2024-2476"
                 },
                 {
-                    "value": "Oceanic",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-34712"
-                },
-                {
                     "value": "Oceanwp sticky header",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2022-35730"
@@ -43541,11 +42986,6 @@
                     "value": "Odoo Enterprise",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2020-29396"
-                },
-                {
-                    "value": "Odyssey",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-43766"
                 },
                 {
                     "value": "Off-Canvas Sidebars & Menus",
@@ -43626,11 +43066,6 @@
                     "value": "Omada ER605",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2024-1179"
-                },
-                {
-                    "value": "Omaha",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-1694"
                 },
                 {
                     "value": "Ombi",
@@ -44968,11 +44403,6 @@
                     "description": "CVE-2023-46775"
                 },
                 {
-                    "value": "Orion",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-35248"
-                },
-                {
                     "value": "Orion Core",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2021-35234"
@@ -45011,11 +44441,6 @@
                     "value": "Osquery",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2020-1887"
-                },
-                {
-                    "value": "Otter",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-2288"
                 },
                 {
                     "value": "Out-of-the-Box",
@@ -45393,11 +44818,6 @@
                     "description": "CVE-2023-31221"
                 },
                 {
-                    "value": "PDS",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-36896"
-                },
-                {
                     "value": "PDS5-E",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2023-47611"
@@ -45416,11 +44836,6 @@
                     "value": "PDS5-US",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2023-47611"
-                },
-                {
-                    "value": "PEM",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-5935"
                 },
                 {
                     "value": "PENUP",
@@ -45728,11 +45143,6 @@
                     "description": "CVE-2024-32453"
                 },
                 {
-                    "value": "POS",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-0422"
-                },
-                {
                     "value": "POS System",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2023-5795"
@@ -45933,11 +45343,6 @@
                     "description": "CVE-2022-46742"
                 },
                 {
-                    "value": "Page",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-5942"
-                },
-                {
                     "value": "Page-list",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2022-4485"
@@ -45956,11 +45361,6 @@
                     "value": "Pagerank tools",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2024-5730"
-                },
-                {
-                    "value": "Pages",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-2023"
                 },
                 {
                     "value": "Pagination",
@@ -46823,11 +46223,6 @@
                     "description": "CVE-2024-27957"
                 },
                 {
-                    "value": "Pillow",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-23437"
-                },
-                {
                     "value": "PilotPress",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2024-23524"
@@ -47148,11 +46543,6 @@
                     "description": "CVE-2024-31089"
                 },
                 {
-                    "value": "Plato",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-2813"
-                },
-                {
                     "value": "Plausible Analytics",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2022-27845"
@@ -47253,11 +46643,6 @@
                     "description": "CVE-2023-25489"
                 },
                 {
-                    "value": "Pluto",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-32973"
-                },
-                {
                     "value": "Plv8",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2024-1713"
@@ -47326,11 +46711,6 @@
                     "value": "Polka Dots",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2023-2813"
-                },
-                {
-                    "value": "Poll",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-34656"
                 },
                 {
                     "value": "Poll Maker",
@@ -47501,11 +46881,6 @@
                     "value": "Portfolio for Elementor",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2022-4765"
-                },
-                {
-                    "value": "Porto",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-3807"
                 },
                 {
                     "value": "Porto Theme - Functionality",
@@ -48556,11 +47931,6 @@
                     "value": "ProtocolBuffers",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2022-3509"
-                },
-                {
-                    "value": "Proton",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-25224"
                 },
                 {
                     "value": "Provision-ISR DVR SH-4050A5-5L",
@@ -49618,11 +48988,6 @@
                     "description": "CVE-2020-16226"
                 },
                 {
-                    "value": "RDP",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-3427"
-                },
-                {
                     "value": "REGISTRATION ATTEMPTS LIMIT",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2022-47138"
@@ -50051,11 +49416,6 @@
                     "value": "RSSImport",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2022-4658"
-                },
-                {
-                    "value": "RSVP",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-1054"
                 },
                 {
                     "value": "RSVPMaker",
@@ -51808,11 +51168,6 @@
                     "description": "CVE-2024-36252"
                 },
                 {
-                    "value": "Rider",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-29821"
-                },
-                {
                     "value": "Rife Free",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2024-35708"
@@ -53268,11 +52623,6 @@
                     "description": "CVE-2022-2103"
                 },
                 {
-                    "value": "SES",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-24528"
-                },
-                {
                     "value": "SEUR Oficial",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2021-25004"
@@ -54008,11 +53358,6 @@
                     "description": "CVE-2021-25342"
                 },
                 {
-                    "value": "SMS",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-3858"
-                },
-                {
                     "value": "SMS OVH",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2021-38357"
@@ -54021,11 +53366,6 @@
                     "value": "SMSA Shipping for WooCommerce",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2022-4107"
-                },
-                {
-                    "value": "SMTP",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-24874"
                 },
                 {
                     "value": "SMTP Deliverability",
@@ -54281,11 +53621,6 @@
                     "value": "SSL Zen",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2024-1076"
-                },
-                {
-                    "value": "SSO",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-4604"
                 },
                 {
                     "value": "SSO Server",
@@ -54566,11 +53901,6 @@
                     "value": "Sailthru Triggermail",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2024-4290"
-                },
-                {
-                    "value": "Sal",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-26205"
                 },
                 {
                     "value": "Salary Management System",
@@ -55001,11 +54331,6 @@
                     "value": "Satoshi Games",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2022-3024"
-                },
-                {
-                    "value": "Saul",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-2813"
                 },
                 {
                     "value": "Save as PDF Plugin by Pdfcrowd",
@@ -56718,11 +56043,6 @@
                     "description": "CVE-2022-22795"
                 },
                 {
-                    "value": "Silesia",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-5788"
-                },
-                {
                     "value": "Sim Pro",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2020-10635"
@@ -57323,11 +56643,6 @@
                     "description": "CVE-2021-24269"
                 },
                 {
-                    "value": "Sinatra",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-37116"
-                },
-                {
                     "value": "Sinergia",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2024-0580"
@@ -57736,11 +57051,6 @@
                     "value": "Smart Campus System",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2022-4280"
-                },
-                {
-                    "value": "Smart Cookie Kit",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-45608"
                 },
                 {
                     "value": "Smart Fabric Storage Software",
@@ -58533,11 +57843,6 @@
                     "description": "CVE-2022-39401"
                 },
                 {
-                    "value": "Soledad",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-41788"
-                },
-                {
                     "value": "Soledad – Multipurpose",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2023-49825"
@@ -58696,11 +58001,6 @@
                     "value": "Sourcing",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2022-41273"
-                },
-                {
-                    "value": "Spa",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-31384"
                 },
                 {
                     "value": "Space Battery Pack SP with Wi-Fi",
@@ -59086,11 +58386,6 @@
                     "value": "Spreadshop Plugin",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2023-29426"
-                },
-                {
-                    "value": "Spring",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-22258"
                 },
                 {
                     "value": "Spring AMQP",
@@ -59503,11 +58798,6 @@
                     "description": "CVE-2023-23809"
                 },
                 {
-                    "value": "Stockholm",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-34551"
-                },
-                {
                     "value": "Stockholm Core",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2024-34553"
@@ -59818,11 +59108,6 @@
                     "description": "CVE-2022-47183"
                 },
                 {
-                    "value": "Styles",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-40700"
-                },
-                {
                     "value": "Stylish Cost Calculator",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2021-24822"
@@ -59973,11 +59258,6 @@
                     "description": "CVE-2024-37156"
                 },
                 {
-                    "value": "Sumo",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-31265"
-                },
-                {
                     "value": "Sunny Search",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2023-32592"
@@ -59986,11 +59266,6 @@
                     "value": "Sunny Webbox",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2024-1890"
-                },
-                {
-                    "value": "Sunshine",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-31226"
                 },
                 {
                     "value": "Sunshine Photo Cart",
@@ -61431,11 +60706,6 @@
                     "value": "TYPO3.CMS",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2020-26229"
-                },
-                {
-                    "value": "Tab",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-5260"
                 },
                 {
                     "value": "Tab K10",
@@ -63338,11 +62608,6 @@
                     "description": "CVE-2024-4332"
                 },
                 {
-                    "value": "Triton",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-30859"
-                },
-                {
                     "value": "Triton Inference Server",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2023-31036"
@@ -63521,11 +62786,6 @@
                     "value": "Typecho",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2023-6614"
-                },
-                {
-                    "value": "Typha",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-41378"
                 },
                 {
                     "value": "Typing Effect",
@@ -63843,11 +63103,6 @@
                     "description": "CVE-2023-25645"
                 },
                 {
-                    "value": "UPC",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-0068"
-                },
-                {
                     "value": "UPHelper",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2022-39859"
@@ -63928,11 +63183,6 @@
                     "description": "CVE-2021-45031"
                 },
                 {
-                    "value": "USG",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-23912"
-                },
-                {
                     "value": "USG 20-VPN firmware",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2022-2030"
@@ -63951,11 +63201,6 @@
                     "value": "USG9500",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2020-1814"
-                },
-                {
-                    "value": "USOC",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2022-21644"
                 },
                 {
                     "value": "USR-G806",
@@ -66893,16 +66138,6 @@
                     "description": "CVE-2023-23883"
                 },
                 {
-                    "value": "WP Cookie Consent for GDPR",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-3599"
-                },
-                {
-                    "value": "WP Cookie Law Info",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-37557"
-                },
-                {
                     "value": "WP Courses LMS",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2021-24621"
@@ -69333,11 +68568,6 @@
                     "description": "CVE-2023-5188"
                 },
                 {
-                    "value": "Wagtail",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2020-11037"
-                },
-                {
                     "value": "Waiting: One-click countdowns",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2022-4954"
@@ -71043,11 +70273,6 @@
                     "description": "CVE-2023-6279"
                 },
                 {
-                    "value": "Word",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-23707"
-                },
-                {
                     "value": "Word Balloon",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2022-4751"
@@ -71418,19 +70643,9 @@
                     "description": "CVE-2023-34982"
                 },
                 {
-                    "value": "Worthy",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2023-24417"
-                },
-                {
                     "value": "Wow Skype Buttons",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2024-3474"
-                },
-                {
-                    "value": "Wp Cookie Choice",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2021-24595"
                 },
                 {
                     "value": "Wp Limits",
@@ -72538,11 +71753,6 @@
                     "description": "CVE-2024-0006"
                 },
                 {
-                    "value": "Yuki",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-1943"
-                },
-                {
                     "value": "Z Y N I T H",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2024-32562"
@@ -73026,11 +72236,6 @@
                     "value": "Zenphoto",
                     "category": "CVE_PRODUCT",
                     "description": "CVE-2022-44449"
-                },
-                {
-                    "value": "Zephyr",
-                    "category": "CVE_PRODUCT",
-                    "description": "CVE-2024-1638"
                 },
                 {
                     "value": "Zephyr Project Manager",

@@ -69,6 +69,7 @@ def not_in_blacklist(value: str) -> bool:
             "charx ",
             "cics ",
             "contact ",
+            "cookie ",
             "codesys ",
             "custom ",
             "copy ",
