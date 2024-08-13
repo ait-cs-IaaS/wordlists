@@ -3,7 +3,7 @@
     "data": [
         {
             "name": "CVE_VENDORS",
-            "description": "Vendors Exported from CVEList 2024-08-13T12:50:26.784390",
+            "description": "Vendors Exported from CVEList 2024-08-13T14:31:19.504887",
             "usage": 4,
             "link": "https://raw.githubusercontent.com/ait-cs-IaaS/wordlists/master/output/vendors.json",
             "entries": [
@@ -476,11 +476,6 @@
                     "value": "Active Websight",
                     "category": "CVE_VENDOR",
                     "description": "CVE-2024-29907"
-                },
-                {
-                    "value": "ActiveCampaign",
-                    "category": "CVE_VENDOR",
-                    "description": "CVE-2024-32430"
                 },
                 {
                     "value": "ActiveFusions Co.",
@@ -3126,11 +3121,6 @@
                     "value": "Camille Verrier",
                     "category": "CVE_VENDOR",
                     "description": "CVE-2024-29909"
-                },
-                {
-                    "value": "Campaign Monitor",
-                    "category": "CVE_VENDOR",
-                    "description": "CVE-2023-38474"
                 },
                 {
                     "value": "Campbell Scientific",
@@ -23286,11 +23276,6 @@
                     "value": "Zoho CRM",
                     "category": "CVE_VENDOR",
                     "description": "CVE-2022-41978"
-                },
-                {
-                    "value": "Zoho Campaigns",
-                    "category": "CVE_VENDOR",
-                    "description": "CVE-2024-30239"
                 },
                 {
                     "value": "Zoho Forms",
