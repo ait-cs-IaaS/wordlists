@@ -1,13 +1,14 @@
-from stopwords import stop_words
 import json
 
+invalid_words = set()
 
-def make_unique(data_list):
+
+def make_unique(data_list, filter_stopwords: bool = True):
     unique_entries = set()
     result_list = []
     for data in sorted(data_list, key=lambda x: x["value"]):
         value = data["value"].lower()
-        if filter_stopword(value) or (not value.islower()):
+        if filter_stopwords and filter_stopword(value):
             continue
         if value not in unique_entries:
             unique_entries.add(value)
@@ -16,8 +17,26 @@ def make_unique(data_list):
     return result_list
 
 
+def load_file_into_set(filepath):
+    with open(filepath) as file:
+        return set(file.read().splitlines())
+
+
+def load_invalid_words():
+    global invalid_words
+    invalid_words = load_file_into_set("data/stopwords.txt") | load_file_into_set(
+        "data/english_dictionary.txt"
+    )
+
+
 def filter_stopword(value):
-    return value in stop_words or len(value) < 3
+    """
+    Filter out stop words, words that are too short or not lowercase (e.g. if there are numbers in the word),
+    and words that are not in the combined stopwords and dictionary set.
+    """
+    global invalid_words
+
+    return value in invalid_words or len(value) < 3 or not value.islower()
 
 
 common_words = [
@@ -107,7 +126,9 @@ def get_first_names():
 
 
 def get_common_words():
-    entries = [{"value": word, "category": "Cybersecurity"} for word in sorted(common_words)]
+    entries = [
+        {"value": word, "category": "Cybersecurity"} for word in sorted(common_words)
+    ]
     result_data = {
         "version": 1,
         "data": [

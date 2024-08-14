@@ -53,6 +53,7 @@ def not_in_blacklist(value: str) -> bool:
         "Firewall",
         "Firewall Module",
         "Japan",
+        "Austin",
     }:
         return False
     if any(
@@ -67,19 +68,23 @@ def not_in_blacklist(value: str) -> bool:
             "before",
             "coming soon",
             "cam ",
+            "custom ",
             "campaign",
+            "cloud ",
             "charx ",
             "cics ",
             "contact ",
+            "content ",
             "cookie ",
             "codesys ",
-            "custom ",
             "copy ",
             "create ",
             "c-more ",
             "ccx ",
+            "data ",
             "dr-",
             "dsl-",
+            "download ",
             "e-commerce",
             "er ",
             "email",
@@ -120,6 +125,7 @@ def not_in_blacklist(value: str) -> bool:
             "siplus ",
             "siprotec ",
             "template",
+            "team ",
             "quotes ",
             "quiz ",
             "vvx ",
@@ -183,7 +189,7 @@ def get_cves():
             "Please download the CVE JSON files from https://github.com/CVEProject/cvelistV5/releases"
         )
         print(
-            "and extract them to /tmp/cve/ with `unzip -j cvelistv5.zip -d /tmp/cve/`"
+            "and extract them to /tmp/cve/ with `unzip -j cves.zip '**/CVE-202*' -d /tmp/cve/`"
         )
         return
 

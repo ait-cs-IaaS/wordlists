@@ -3,11 +3,12 @@
 from locations import get_countries, get_austrian_municipialities
 from apt_groups import get_apt
 from cvelistv5 import get_cves
-from common import get_common_words
+from common import get_common_words, load_invalid_words
 from static import get_static_lists
 
 
 def main():
+    load_invalid_words()
     get_cves()
     get_apt()
     get_countries()

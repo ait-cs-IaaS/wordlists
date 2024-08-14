@@ -3,7 +3,7 @@
     "data": [
         {
             "name": "Municipalities",
-            "description": "List of Austrian Municipalities 2024-08-13T14:32:16.003783",
+            "description": "List of Austrian Municipalities 2024-08-14T13:54:55.663733",
             "usage": 4,
             "link": "https://raw.githubusercontent.com/ait-cs-IaaS/wordlists/master/output/austrian_municipalities.json",
             "entries": [
@@ -401,6 +401,10 @@
                 },
                 {
                     "value": "Atzesberg",
+                    "category": "Municipality"
+                },
+                {
+                    "value": "Au",
                     "category": "Municipality"
                 },
                 {
@@ -2212,6 +2216,10 @@
                     "category": "Municipality"
                 },
                 {
+                    "value": "Gutenberg",
+                    "category": "Municipality"
+                },
+                {
                     "value": "Gutenbrunn",
                     "category": "Municipality"
                 },
@@ -2377,6 +2385,10 @@
                 },
                 {
                     "value": "Hannersdorf",
+                    "category": "Municipality"
+                },
+                {
+                    "value": "Hard",
                     "category": "Municipality"
                 },
                 {
@@ -6313,6 +6325,10 @@
                 },
                 {
                     "value": "Seckau",
+                    "category": "Municipality"
+                },
+                {
+                    "value": "See",
                     "category": "Municipality"
                 },
                 {

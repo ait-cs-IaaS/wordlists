@@ -2,11 +2,18 @@ import requests
 import csv
 import json
 
-from common import filter_stopword
-
 BASE_URL = "https://docs.google.com/spreadsheets/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/export?format=csv&gid="
 
-gids = [361554658, 1636225066, 1905351590, 376438690, 300065512, 2069598202, 574287636, 438782970]
+gids = [
+    361554658,
+    1636225066,
+    1905351590,
+    376438690,
+    300065512,
+    2069598202,
+    574287636,
+    438782970,
+]
 
 
 def extract_apt_groups() -> dict:
@@ -54,7 +61,7 @@ def get_apt():
     entries = []
     for country, groups in apt_groups_by_country.items():
         for group in groups:
-            if filter_stopword(group):
+            if "?" in group or "Unknown" in group:
                 continue
             entry = {"value": group, "category": "APT", "description": f"{country} APT"}
             entries.append(entry)
